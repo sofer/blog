@@ -28,11 +28,13 @@ def convert_to_textile(filename)
   first_line, text = text.split("\n", 2)
   title, date, tags = split_first_line(first_line)
   text = convert_copy(text)
+  standfirst, ignore = text.strip.split("\n", 2)
   out = <<END
 ---
 layout: post
 title: #{title}
 category: #{tags}
+standfirst: #{standfirst}
 ---  
 #{text}
 END

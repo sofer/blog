@@ -2,6 +2,7 @@
 layout: post
 title: An Outline of Money revisited
 category: money
+standfirst: Geoffrey Crowther wrote about the Great Depression in the final chapter of his book _"An Outline of Money"_ [1]. Despite being written in the 1940's, what he had to say has more relevance to the current economic crisis than anything else I have read on the subject.*
 ---  
 
 Geoffrey Crowther wrote about the Great Depression in the final chapter of his book _"An Outline of Money"_ [1]. Despite being written in the 1940's, what he had to say has more relevance to the current economic crisis than anything else I have read on the subject.*

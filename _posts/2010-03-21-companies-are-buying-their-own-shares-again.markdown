@@ -2,6 +2,7 @@
 layout: post
 title: Companies are buying back their shares again
 category: money
+standfirst: This week's Economist mentioned that [Companies are buying lots of their own shares again](http://www.economist.com/business-finance/displaystory.cfm?story_id=15731252):
 ---  
 
 This week's Economist mentioned that [Companies are buying lots of their own shares again](http://www.economist.com/business-finance/displaystory.cfm?story_id=15731252):
