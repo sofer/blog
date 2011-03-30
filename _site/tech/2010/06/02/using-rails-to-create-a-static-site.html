@@ -1,0 +1,24 @@
+<p>I have a Rails-driven website which changes infrequently and contains mostly static content. It is cheaper and almost as convenient to run it as a static site than to run it as a Rails app.</p>
+<p>A Google search threw up <a href="http://www.chuckvose.com/articles/2006/04/20/monkey">Using Rails to Create a Static Site</a>, which describes a method for doing what I want by tweaking the Rails app and then using <code>wget</code> to generate the site. I used a slightly different method to the one described.</p>
+<h2>Step 1: change the routing</h2>
+<p>Add the <code>.html</code> extension to all routes. For example, change the default route from:</p>
+<p><code>map.connect ':controller/:action/:id'</code></p>
+<p>To:</p>
+<p><code>map.connect ':controller/:action/:id.html'</code></p>
+<p>All URLs and internal links will now have the <code>.html</code> extension and the site will look to users like a static site.</p>
+<h2>Step 2: Disable asset timestamps</h2>
+<p>These are very useful for ensuring that assets that have changed since they were last requested are not served from the browser cache, but for a largely static site are really not necessary.</p>
+<p>In <code>config/initializers/</code> (or in older versions of Rails, inside <code>config/environment.rb</code>) add the following:</p>
+<p><code>ENV['RAILS_ASSET_ID'] = ''</code></p>
+<h2>Step 3: Use Wget to download a copy of the site.</h2>
+<p>Start the app on your local machine (assuming port 3000) and run <code>wget</code>:</p>
+<p><code>wget -m localhost:3000</code></p>
+<p>The static site with all links preserved will be sitting in the folder <code>localhost:3000</code>.</p>
+<h2>Step 4: Zip up the site.</h2>
+<p><code>cd</code> into the new folder and run <code>tar</code>:</p>
+<p><code>tar -cf site.tar *</code></p>
+<h2>Step 5: Copy the site to its new location</h2>
+<p><span class="caps">FTP</span> the tar file to its new location (and make sure it is at the document root or you may have problems with the link paths). Unzip it:</p>
+<p><code>tar -xf site.tar</code></p>
+<p>And delete the tar file.</p>
+<p>Job done.</p>

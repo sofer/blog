@@ -1,0 +1,54 @@
+<p><span class="caps">REST</span> is now the standard way of doing things in Rails and I am a convert. I have always spent far too long worrying about the best way to write my applications, but now <span class="caps">REST</span> has come into my life and taken a whole universe of procrastination and indecision away from me.</p>
+<p>So, these days when I see Rails code that is not RESTful, I look for ways to clean it up.</p>
+<p>Take the following lines in a routes file:</p>
+<pre>
+map.connect '/posts/needs', :controller =&gt; 'posts', :action =&gt; 'needs'
+map.connect '/posts/offers', :controller =&gt; 'posts', :action =&gt; 'offers'
+</pre>
+<p>And the following methods in the <code>posts</code> controller:</p>
+<pre>
+def needs 
+  @posts = Post.find(:all, :conditions =&gt; { :kind =&gt; "Need" }
+  respond_to do |format|
+    format.html { render :action =&gt; 'index'} 
+  end
+end
+
+def offers
+  @posts = Post.find(:all, :conditions =&gt; { :kind =&gt; "Offer" }
+  respond_to do |format|
+    format.html { render :action =&gt; 'index'} 
+  end
+end
+</pre>
+<p>The only difference between these two methods is a difference in the &#8220;kind&#8221; of post. They can easily be refactored into a single <code>index</code> method that handles both kinds of post:</p>
+<pre>
+def index
+  @kind = params[:kind]
+  @posts = Post.find(:all, :conditions =&gt; { :kind =&gt; "Offer" }
+  respond_to do |format|
+    format.html
+  end
+end
+</pre>
+<p>The &#8220;kind&#8221; is now identified from the <code>:kind</code> paramater. This parameter can come from  a query string, like this:</p>
+<p><code>/posts?kind=Offer</code></p>
+<p>But if you don&#8217;t want query strings in your URLs, then you can create new routes for each &#8220;kind&#8221;:</p>
+<pre>
+map.connect '/posts/offers', :controller =&gt; 'posts', :action =&gt; 'index', :kind =&gt; "Offer" 
+map.connect '/posts/needs', :controller =&gt; 'posts', :action =&gt; 'index', :kind =&gt; "Need"
+</pre>
+<p>Or, if you prefer, you can define the routes in a single line:</p>
+<pre>
+map.connect '/posts/:kind', :controller =&gt; 'posts', :action =&gt; 'index', :kind =&gt; /Offer|Need/
+
+</pre>
+<p>Note the regular expression used to constrain what :kind the <span class="caps">URL</span> can contain and also note that the URLs required are now of the form &#8216;/posts/Offer&#8217;, rather than &#8216;/posts/offers&#8217;.</p>
+<p>One final change is to give the route a name (in this case, &#8220;kinds&#8221;):</p>
+<pre>
+map.kinds '/posts/:kind', :controller =&gt; 'posts', :action =&gt; 'index', :kind =&gt; /Offer|Need/@
+
+</pre>
+<p>Allowing resources to be linked to like this:</p>
+<pre>&lt;%= link_to "Offers", kinds_path('Offer') %&gt;</pre>
+<p>As general rules of thumb, keep controllers and routes RESTful and use customized mappings sparingly (but that doesn&#8217;t mean don&#8217;t use them at all).</p>

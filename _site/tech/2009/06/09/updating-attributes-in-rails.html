@@ -1,0 +1,31 @@
+<p>When I save data in Rails, I continually misuse the different methods available, so that my code is sprinkled with <code>save</code>, <code>save!</code>, <code>save(false)</code>, <code>update_attribute</code>, <code>update_attributes</code> and so on. I also often introduce bugs by assigning a new value to an attribute and then forgetting to update it.</p>
+<p>So, here is a quick summary.</p>
+<p><code>save</code> is the one to use if I want my model to validate. And, by the way, it is well worth using validations, like <code>validates_presence_of</code>, to check that an assignment hasn&#8217;t been forgotten somewhere. <code>save</code> is used most commonly in the <code>create</code> method of a controller where errors are likely to be handled by the <code>view</code> code.</p>
+<p><code>save!</code> works like <code>save</code> except that it raises an <code>ActiveRecord::RecordInvalid</code> exception suitable for use in a <code>rescue</code> clause. In other words, the only context in which to use <code>save!</code> is this one:</p>
+<pre>
+<code>
+begin
+  thing.save!
+rescue RecordInvalid =&gt; error
+  # do something
+end
+</code>
+</pre>
+<p>It is likely to be used outside the controller (i.e. in the model) where I should want to do something sensible if any validations fail.</p>
+<p><code>save(false)</code>, on the other hand, provides no validations at all and should only be used if I am absolutely sure about the data I am saving or perhaps if I am saving several records together and want to speed things up a bit (and am feeling reckless).</p>
+<p><code>update_attributes()</code> and <code>update_attributes!()</code> behave just like <code>save</code> and <code>save!</code> respectively, but accept a hash of attributes as an argument so allow assignments to multiple attributes and saving all in a single line. <code>update_attributes</code> is most commonly used when updating a model from within a controller.</p>
+<p><code>update_attribute()</code>, as the name implies, just updates a single attribute and bypasses validations; a sensible choice if a single attribute&#8212;such as a boolean flag on an existing record&#8212;is being updated.</p>
+<p>Note that behind the scenes <code>update_attribute</code> uses <code>save(false)</code>, so that it is not a great idea to use it if I am likely to have other attributes awaiting update.</p>
+<p>Incidentally, if I am updating a boolean and know that I just want its state to change, then it might be worth using <code>toggle(name)</code> instead of <code>update_attribute(name, value)</code>, which might save a line or two of code.</p>
+<p>Also, <code>update(id, attributes)</code> combines the reading of a row and the updating of its attributes onto a single line, so that instead of:</p>
+<p><code>thing = Thing.find(id)</code><br />
+<code>thing.update_attributes(attributes)</code></p>
+<p>I can have:</p>
+<p><code>Thing.update(id, attributes)</code></p>
+<p>Which is also the same as:</p>
+<p><code>Thing.find(id).update_attributes(attributes)</code></p>
+<p>So to summarize:</p>
+<p>Use validations where I can;</p>
+<p>Only use <code>save(false)</code> for performance reasons, not to be lazy;</p>
+<p>Beware of using <code>update_attribute</code> in any context where more than one attribute is being updated;</p>
+<p>Outside controllers, use the bang! versions of <code>save</code> and <code>update_attributes</code> and always inside a block.</p>

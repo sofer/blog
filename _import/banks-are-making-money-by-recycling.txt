@@ -1,0 +1,8 @@
+Banks are making money by recycling|2009-10-20|money
+
+Wall Street banks like JPMorgan and Goldman Sachs have been making money from trading in the last quarter. There has been some uncertainty in the press about what this "trading" actually consists of. Some have suggested it refers to stock and commodity trades, others to bets against the dollar, and still others to increased commissions on their clients' trades. Philip Greenspun has a simpler explanation: they are borrowing money from the U.S. government at 0% to buy short-term government debt at 2-3%. They are being subsidised by the taxpayer for recycling government money.
+
+p(quote). "Because of the Collapse of 2008 financial reforms, the big investment banks are able to borrow money from the U.S. government at 0 percent interest. Then they can turn around and buy short-term bonds that pay 2 or 3 percent annual interest. Now they’re making 2 percent on whatever they borrowed. They can use leverage to increase this number, by pledging some of the bonds that they’ve already bought as collateral on additional bonds...So the money is just being shuffled from one Federal bank account to another, with each Wall Street bank skimming off $1 billion per month for itself" [1]
+
+fn1. "How Wall Street is making its billions":http://blogs.law.harvard.edu/philg/2009/10/17/how-wall-street-is-making-its-billions/
+

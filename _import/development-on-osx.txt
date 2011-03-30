@@ -1,0 +1,90 @@
+Development on OS X|2010-04-29|tech
+
+A few notes to myself on developing on OS X 10.6 (snow leopard).
+
+h2. Paths
+
+The default path used by OS X to look for software is:
+
+@/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin@
+
+To confirm this, on the command line just type:
+
+@echo $PATH@
+
+Software updates from Apple are generally installed in the first three locations defined in the path. The last one, @/usr/local@, is by convention where I can put other software without it being over-written by Apple's updates. This is particularly useful if I want to update already-installed software. If I go down this route, then the path needs to be updated in @~/.profile@ so that @/usr/local/bin@ is searched before the other three default locations:
+
+export PATH=/usr/local/bin:$PATH
+
+However, care should be taken. Having different software versions running on the same machine can cause confusion.
+
+See "hivelogic":http://hivelogic.com/articles/using_usr_local for more information.
+
+h2. MacPorts
+
+"http://www.macports.org/":http://www.macports.org/
+
+Software is installed using @sudo port install@ and is installed in @/opt/local@ (hence the line @export PATH=/opt/local/bin:/opt/local/sbin:$PATH@ added to ~/.profile when first installing macports)
+
+See "http://trac.macports.org/wiki/FAQ#defaultprefix":http://trac.macports.org/wiki/FAQ#defaultprefix.
+
+To check what MacPorts are installed:
+
+@port installed@
+
+To keep MacPorts up to date run:
+
+@sudo port -v selfupdate@
+
+(I have just re-installed ImageMagick using MacPorts, which has an awful lot of dependencies and installs them all under @/opt/local/bin@, even though many of them are already installed in @/usr/bin@)
+
+h2. Homebrew
+
+Homebrew may be a better idea than Macports. See "http://www.engineyard.com/blog/2010/homebrew-os-xs-missing-package-manager/":http://www.engineyard.com/blog/2010/homebrew-os-xs-missing-package-manager/
+
+I am using it now and have successfully installed mongodb into /usr/local using homebrew.
+
+h2. Gems
+
+To avoid confusion, I always try to install gems as root using sudo (Every now and again I move my ~/.gems folder to the trash to remove any gems I have accidentally installed locally). The only reason not to have my gems working system wide is if I wanted to be running different development environments with different gem versions. I am pretty sure I don't, because it is unlikely I could deal with the ensuing confusion.
+
+Don't forget to regularly run:
+
+@sudo gem update@
+
+h2. Drastic action
+
+Sometimes it is possible to lose control of various installs. In which case, it may not be a bad idea to just remove everything and start again.
+
+1. Uninstall and remove macports. See "http://guide.macports.org/#installing.macports.uninstalling":http://guide.macports.org/#installing.macports.uninstalling
+
+2. Uninstall and remove everything in /usr/local
+
+@mv /usr/local /usr/xlocal@
+
+3. Remove all gems
+
+@gem env paths@
+
+and remove all paths. See "http://stackoverflow.com/questions/1000731/getting-rid-of-ruby-gems-that-wont-die":http://stackoverflow.com/questions/1000731/getting-rid-of-ruby-gems-that-wont-die
+
+
+h2. Getting Rails going again
+
+Install git. See "http://code.google.com/p/git-osx-installer/":http://code.google.com/p/git-osx-installer/.
+
+Install Homebrew. See "http://github.com/mxcl/homebrew":http://github.com/mxcl/homebrew.
+
+@sudo gem install rails --pre@
+
+Install mongodb using homebrew. See "http://gist.github.com/265272":http://gist.github.com/265272.
+
+Install mongoid. See "http://mongoid.org/docs/installation":http://mongoid.org/docs/installation.
+
+@sudo gem install mongoid --pre@
+
+@rails app1 --skip-activerecord@
+
+
+
+Incidentally, Snow Leopard comes with ruby 1.8.7 (2009-06-08 patchlevel 173) installed.

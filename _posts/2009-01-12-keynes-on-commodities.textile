@@ -1,0 +1,40 @@
+---
+layout: post
+title: Keynes on Commodities
+category: money
+standfirst: From the Manchester Guardian Commercial, 29 March 1923.
+---  
+From the Manchester Guardian Commercial, 29 March 1923.
+
+"We must make, first of all, the obvious but important distinction between the extracted commodities which come into existence at a more or less even rate throughout the year, as for example metals, and the crops which are harvested at a particular season. The maximum financial facilities required for carrying the former during the interval between production and consumption are obviously much less, in a normal state of trade, than the maximum facilities required for the latter, the value of which just after the harvest season may amount to nearly a year's supply...Thus for one reason or another, in their passage from the first processes of production to the eventual consumer, some commodities are liable to throw a much greater strain than others on the credit and financial system,--this strain being not necessarily proportionate to the value of aggregate production of the commodities of to their importance in the economic life of the community." [1]
+
+"The banks are prepared to lend the money, or a considerable proportion of it, but they are not prepared (intentionally) to run the risk of a change in the price of a commodity between purchase and sale. This risk has to be carried between them by the producer, the merchant and the professional speculator...There has had to be a developed in consequence, in the case of very big seasonal crops such as cotton, wheat and sugar, a special organisation to deal with this, namely the forward contract market...The most important function of the speculator in the great organised 'futures' markets is...not so much a prophet (though it may be a belief in his gifts of prophecy that tempts him into the business), as a risk-bearer. If he happens to be a prophet also, he will become extremely, indeed preposterously, rich. But without any such pretensions, indeed without paying the slightest attention to the prospects of the commodity he deals in or giving a thought to it, he may, one decade with another, earn substantial remuneration merely by running risks and allowing the results of one season to average with those of others" [2]
+
+"The annual value of a mine's production is generally large compared with its free resources; and it is under precisely the same necessity as the cotton farmer to sell forward some part of its current production at some concession of price, if necessary, below what is considered the probable future price. The fact that there is a 'backwardation' in the price of a commodity, or in other words that the forward price is below the spot price, is, therefore, not necessarily an indication that the market takes a 'bearish' view of the price prospects." [3]
+
+"What abatement below the probably future price, as he estimates it, must the producer accept in order to induce that speculative market to relieve him of risk?...the price is very high,--much higher than is charged for any other form of insurance, though perhaps it is inevitable that a risk which only averages out over units spread through time should be less easy to insure than one which averages out over units which are nearly simultaneous,--for we have to wait too long for the actuarial result. I should doubt whether in the largest and most organised market the cost of a hedge-sale works out at less than 10 per cent per annum (e.g. 5 per cent for a sale six months forward) and often rises to 20 per cent per annum (e.g. 5 per cent for a sale three months forward) and even much higher figures."[4]
+
+In other words, backwardation, where current prices for future delivery are below spot prices, was--at least in Keynes' time--normal in commodity markets.
+
+"(1) The high prices of the boom period over-stimulated production and eventually reached a point at which they somewhat retarded consumption. (2) The process of production being a lengthy one, the resulting fall of prices did not immediately curtail the delivery of new supplies of materials. (3) Since normal stocks (or, in the case of seasonal crops, 'carryover') bear, in general, a small proportion to annual production,--in most commodities three months' stocks (or carryover) are considered substantial,--the more rapid curtailment of consumption than of production led to the heaping up of stocks much beyond normal. (4) The sight of such heavy 'visible supplies' drove prices not merely below the exaggerated boom price but below all reasonable anticipations of normal cost of production, with the result that new production was greatly curtailed and brought, in some cases, almost to a standstill. (5) Thus, whereas consumption during the slump did not fall, in many cases, by more than 10-20 per cent, production fell off at the minimum by as much as 30-50 per cent. (6) Consequently the surplus stocks have been steadily eaten into, production had been so hard hit that it has been slow to revive except for certain prospects of a higher price, and we now find ourselves with the stocks disappearing and consumption proceeding at a substantially higher level than production. (7) Even when production revives under the stimulus of higher prices, an interval must elapse before this can have its full effect on supplies coming forward, so that consumers may be confronted for a time with a famine of raw materials." [5]
+
+"High prices may be brought about by general confidence, or over-confidence, in business prospects. But boom high prices are not the only kind of high prices, There may also be famine high prices, due to a shortage of commoditities in relation to purchasing power. High prices may indicate poverty as well as confidence." [6]
+
+More on backwardation from Keynes, this time from a Special Memorandum on commodity stocks for the London and Cambridge Economic Service in 1929:
+
+"the most important influence in accelerating supplies and decreasing the aggregate of 'invisible' stocks at all stages from the producer to the consumer is to be found in the development of a 'backwardation'...This means on the one hand that the producers and smelters [or refiners] can gain the difference by hastening forward their supplies of refined metal, and on the other hand that consumers can save the difference by keeping their stocks as low as possible and covering their known prospective requirements by buying forward instead of keeping the actual metal on hand" [7]
+
+And on the fall in commodity prices at the beginning of the Great Depression:
+
+"The most significant economic event of the year 1930 is, in my judgement, the catastrophic fall in the prices of the principal primary commodities...It is a disaster of the first order, for it renders the whole structure of established money incomes and many other forms of money payment inappropriate to the price level. It ruins innumerable producers throughout the world, and has brought somewhere between 10 and 20 per cent of the world's normal business activities to a standstill." [8]
+
+Notes:
+
+[1] The Collected Works of John Maynard Keynes, Volume XII, p. 256-7
+[2] ibid., p. 260-1
+[3] ibid., p. 262
+[4] ibid., p. 262-3
+[5] ibid., p. 264
+[6] ibid., p. 265
+[7] ibid., p. 535
+[8] ibid., p. 647

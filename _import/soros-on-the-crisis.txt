@@ -1,0 +1,28 @@
+Soros on the crisis|2009-01-29|money
+
+Today's FT published extracts from |http://www.ft.com/cms/s/0/49b1654a-ed60-11dd-bd60-0000779fd2ac.html|an analysis of the crisis| by George Soros. It is an excellent read and goes into some detail about the dangers of short selling and credit default swaps, but one thing that caught my eye is his explanation of the rise of the dollar.
+ 
+"the strength of the dollar was due not to people choosing to hold dollars but to their inability to maintain or roll over their dollar obligations. In a very real sense the strength of the dollar, like the fever associated with sickness, was a measure of the disruption of the financial system."
+
+In other words, non-US institutions with long-term dollar obligations have been finding it increasingly difficult to fund those obligations in the usual way with short-term debt from US banks. <strike>This has been reflected in higher prices, which in in turn has attracted money into US dollars in order to take advantage of the higher rates achievable on short-term dollar debt.</strike> So, central banks have had to intervene and, specifically, the US Federal Reserve has been extending its currency swap agreements with other central banks, most dramatically after the collapse of Lehman's in September. [1] [2] [3]
+
+And that is why the dollar appreciated in value for much of 2008.
+
+And presumably, with the money markets in an indefinite state of seizure and China being unlikely to want to disrupt the balance of financial terror [4], the dollar is unlikely to fall significantly while the number of foreign-held long-term dollar obligations remains at its current high levels.
+
+In effect, both long-term and short-term cross-border lending by private institutions has already come to a halt and the only sources of new funds are government institutions.
+
+Updated: 30 January
+
+Notes:
+
+[1] From as early as August 2007,  |http://www.ft.com/cms/s/0/f5124170-4910-11dc-b326-0000779fd2ac.html|the FT was reporting| that the Fed was extending currency swap agreements to the European Central Bank, because of the reluctance of US banks to lend to their European conterparts.
+
+[2] A good explanation of what happened, including  the unprecedented spike in the TED spread (difference between three-month LIBOR and three-month U.S. Treasury debt) is at |http://macroblog.typepad.com/macroblog/2008/09/thursdays-post.html|macroblog|.
+
+[3] Bloomberg |http://www.bloomberg.com/apps/news?pid=20601087&sid=avG5wDaCeDj8|reports today| that the Fed has over $460 billion of currency swaps outstanding on its balance sheet. 
+
+[4] According to  |http://blogs.cfr.org/setser/2009/01/23/is-the-us-more-or-less-reliant-on-chinas-government-for-financing-right-now/#more-4542|Brad Setser|, China currently holds $900 billion of US treasuries.
+
+
+

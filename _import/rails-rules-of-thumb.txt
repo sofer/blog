@@ -1,0 +1,21 @@
+Some rules of thumb for building Rails applications|2009-10-02|tech
+
+A few reminders to myself of how to keep Rails applications simple.
+
+Always start building an application using RESTful scaffold and don't add non-RESTful actions to your controller unless you have a very good reason. If you think you need a new action, you are probably missing a relationship model somewhere. See "Keeping it RESTful":http://www.sofer.com/blog/keeping-it-restful.html.
+
+Keep views tidy with intelligent use of layouts. See "Layouts in Rails":http://www.sofer.com/blog/layouts-in-rails.html.
+
+Use named scopes. They are really quite nice. However, be careful of using them with @has_many :through@ relations (See "Named scopes and has_many :through relations in Rails":http://www.sofer.com/blog/named-scopes-and-has-many-through-relations-in-rails.html). It may be easier to create @has_many@ relations with additional conditions (e.g. @has_many :responses@, @has_many :correct_responses@, and so on)  than to create named scopes in the join model, even though doing so does break encapsulation between models. 
+
+For a complex form representing a one-to-one or one-to-many relationship, use accepts_nested_attributes_for (new in 2.3). See Ryan Daigle's "What's New in Edge Rails: Nested Object Forms":http://ryandaigle.com/articles/2009/2/1/what-s-new-in-edge-rails-nested-attributes.
+
+For a complex form that defines a many-to-many relationship using checkboxes it might be better want to use HABTM, but otherwise use @has_many :through@. Ryan Bates has produced "an excellent description of HABTM checkboxes":http://railscasts.com/episodes/17-habtm-checkboxes. It's quick an easy to do with HABTM. but it's a pain to do it with a @has_many :through@ relationship.
+
+If a model in the middle of a has_many :through relationship has attributes (other than the two foreign keys), then it is probably worth creating a scaffold for it. To keep controllers RESTful, updates to the relationship and the setting of attributes should probably be made via the join model's controller (besides which, if those attributes also use validations then attempts to add records directly to the has_many :through association will probably fail, because the new join record thus created will by default have blank attributes). 
+
+Complex joins can be managed with hash-style @find@ operations using the @:joins@ option. See "Using :joins in Active Record":http://www.sofer.com/blog/using-joins-in-active-record.html.
+
+Eager loading can be achieved using the similar hash-style @:include@ option.
+
+

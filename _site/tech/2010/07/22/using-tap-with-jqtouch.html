@@ -1,0 +1,4 @@
+<p>As <a href="http://blog.jqtouch.com/post/205113875/milliseconds-responsiveness-and-the-fast-tap">David Kaneda explains</a> in the jQTouch blog, he introduced a <code>tap</code> custom event to remove a 300ms delay when tapping on a link in Mobile Safari.</p>
+<p>On other browser platforms, a <code>tap</code> event will be interpreted as a <code>click</code>, so I can use it when I want to respond to both types of events in different browsers.</p>
+<p>However, <code>tap</code> is intended for use with links, i.e. with an anchor tag (<code>&lt;a href...</code>). It will not respond appropriately to a tap on a part of the screen that is not a link. In that case I should use <code>click</code> instead. this will work whatever platform I am using&mdash;as long as I am not clicking on a link.</p>
+<p>So, to get the desired cross-platform behaviour for mobile apps, use the <code>tap</code> event for links and <code>click</code> otherwise.</p>

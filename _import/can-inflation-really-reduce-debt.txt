@@ -1,0 +1,31 @@
+Can inflation really reduce the level of debt?|2010-03-14|money
+
+In my recent summary of George Cooper's "The origin of financial crises":http://sofer.com/blog/the-origin-of-the-financial-crisis.html, I mentioned his suggestion that we should create inflation, in order to reduce the real level of debt.
+
+However, reading "this piece from the FT":http://ftalphaville.ft.com/blog/2009/08/04/65156/the-debt-inflation-myth-debunked-by-ubs/ makes me wonder whether this is feasible.
+
+The problem is that a lot of debt is of short-term duration and, if it is not to be repaid, will need to be refinanced. 
+
+A short-run change in domestic prices or international exchange rates&mdash;such as sterling has recently experienced&mdash;will not necessarily increase the premium demanded on debt, but an apparent change in the long-term trend most certainly will.
+
+So, changes in inflationary expectations will be reflected pretty quickly in the cost of debt financing. 
+
+If an increase in the rate of inflation leads to a commensurate or, quite likely, a disproportionate increase in nominal interest demanded on debt, then the real interest rate will not fall and may even rise, and with it the cost of servicing that debt. 
+
+The upshot is that even while the real value of existing debt falls, it is quite likely that new debt will have to be raised to help service the escalating cost of servicing the original debt, which will in turn cause the total stock of debt to rise in both nominal and real terms.
+
+So, in the world in which we live, where much debt is of short duration, it is not at all clear that the real level of debt can be reduced by creating inflation.
+
+Furthermore, even the mechanism of a short-run change in the exchange rate&mdash;which recently appeared to be helpful to the UK&mdash;may not always be effective.
+
+A recently-declassified paper from the IMF entitled "Is Inflation Effective for Liquidating Short-Term Nominal Debt?":http://www.zerohedge.com/sites/default/files/IMF%20Calvo%20Devaluation.pdf, and discussed at "Zero Hedge":http://www.zerohedge.com/, analyses the contribution of currency devaluations to the process of government debt liquidation.
+
+The central conclusion of the paper's author is that surprise devaluations can be an effective means of reducing the level of debt, but that because this is the case, creditors are likely in times of stress to expect a devaluation and therefore demand a higher rate of interest. The consequence is that devaluations might become inevitable as "a consequence of self-fulfilling expectations cycles."
+
+In other words, governments under stress are likely to engage in devaluations in order to reduce the real level of debt, but any benefits that would otherwise accrue from doing so are likely to be cancelled out by existing bond holders anticipating their actions by demanding higher returns.
+
+So, governments are likely to be forced into engineering devaluations&mdash;and possibly repeatedly&mdash;despite there being no long-run benefit in doing so.
+
+However, in the current environment of global indebtedness with short-term maturity, it is not clear which governments would be capable of devaluing their currencies without provoking reciprocal devaluations by other governments. So, because devaluations are likely to be the only tool available to governments wishing to reduce the real level of their debt (at least outside the EU) and because bond markets are likely to be anticipating this and therefore making it more likely, it is unlikely that any one government will be able to sustain any advantage gained from a single devaluation.
+
+Instead, we can expect a series of inflationary devaluations as bond holders shift their expectations from one country to the next, forcing up interest rates, increasing the burden of debt maintenance, forcing a devaluation and then moving on before returning again in a cycle that could play out over many years.

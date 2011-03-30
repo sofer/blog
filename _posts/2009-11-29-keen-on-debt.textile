@@ -1,0 +1,31 @@
+---
+layout: post
+title: Keen on Debt
+category: money
+standfirst: Steve Keen is an Australian economist and a follower of Minsky. His long-held view, that neo-classical models of economics are inadequate because they do not take account of debt levels, led him to predict the current crisis long before it broke and makes him very sceptical of the likelihood of a quick recovery.
+---  
+Steve Keen is an Australian economist and a follower of Minsky. His long-held view, that neo-classical models of economics are inadequate because they do not take account of debt levels, led him to predict the current crisis long before it broke and makes him very sceptical of the likelihood of a quick recovery.
+
+In short, his analysis is that financial crises are in essence deleveraging events, where changes in expectations lead market participants to begin to reduce their levels of debt, which in turn reduces the overall level of economic activity.
+
+The length and depth of a post-crisis slump is largely dependent on the size of the pre-crisis debt build up, but also on the extent to which deleveraging is forestalled by the actions of market participants, primarily governments.
+
+Hence, lower interest rates, more relaxed regulation and increased levels of government spending can all contribute in different ways to ending the process of deleveraging and returning the economy to growth.
+
+However, the consequence of not allowing debt levels to return to the levels prevailing at the beginning of the previous cycle is to begin the next cycle at a higher base level of debt. And to do this repeatedly is to subject an economy to ever higher debt levels.
+
+In Keen's analysis, this is precisely what has happened in the post-war period, in which each successive downturn has been met with increasingly robust Government intervention and an almost continuous growth in debt.
+
+Total aggregate--including personal, corporate and public--debt has now reached levels that are unprecedented in history and are unlikely to be sustainable. Any attempt to forestall the resultant deleveraging is only likely to raise debt to yet higher levels and lead eventually to an even greater deleveraging event some time in the future.
+
+For this reason, we must hope that government attempts to reverse the deleveraging process are unsuccessful.
+
+Instead, the least bad outcome is a deleveraging process that goes on for several years and is accompanied by high levels of unemployment (which in recent years have become increasingly correlated--negatively--with changes in the flow of debt), but which will eventually return us to debt levels approaching the historical norm.
+
+The crisis in the American sub-prime market--augmented and spread by the packaging of associated collateralized debt obligations--is likely to be just the first of several such crises round the world, centring on domestic and commercial real estate mortgages, on private equity investments (i.e. leveraged buy-outs) and on sovereign debt.
+
+The last great deleveraging process that began in 1929 took over 15 years and a global war to complete. The levels of debt as a proportion of the global economy are considerably higher this time around.
+
+Steve Keen summarized his views in a lecture he gave recently in Canberra:
+
+<embed src="http://blip.tv/play/jzOBrYFNAg" type="application/x-shockwave-flash" width="480" height="411" allowscriptaccess="always" allowfullscreen="true"></embed>

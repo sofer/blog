@@ -1,0 +1,102 @@
+<p>Some comparisons of ActiveRecord method calls and the equivalent <span class="caps">SQL</span> for associations, starting simple and progressing to joins and chained joins.</p>
+<p>User.first<br />
+<code>SELECT * FROM "users" LIMIT 1</code></p>
+<p>User.last<br />
+<code>SELECT * FROM "users" ORDER BY users.id DESC LIMIT 1</code></p>
+<p>User.find(1)<br />
+<code>SELECT * FROM "users" WHERE ("users"."id" = 1)</code></p>
+<h3>has_one</h3>
+<p>@user.address</p>
+<p><code>SELECT * FROM "addresses" WHERE ("addresses".user_id = 999) LIMIT 1</code></p>
+<p>(where 999 is the id of @user)</p>
+<h3>belongs_to</h3>
+<p>@address.user</p>
+<p><code>SELECT * FROM "users" WHERE ("users"."id" = 999)</code></p>
+<h3>has_many</h3>
+<p>@user.memberships</p>
+<p><code>SELECT * FROM "memberships" WHERE ("memberships".user_id = 999)</code></p>
+<h3>has_many :through</h3>
+<p>@user.groups</p>
+<pre>
+<code>
+SELECT "groups".* FROM "groups"
+INNER JOIN "memberships" ON "groups".id = "memberships".group_id 
+WHERE (("memberships".user_id = 999))
+</code>
+</pre>
+<h3>has_and_belongs_to_many</h3>
+<p>@post.groups</p>
+<pre>
+<code>
+SELECT * FROM "groups" 
+INNER JOIN "groups_posts" ON "groups".id = "groups_posts".group_id 
+WHERE ("groups_posts".post_id = 999 ) 
+</code>
+</pre>
+<p>(where 999 is the id of @post)</p>
+<h2>Joins</h2>
+<h3>has_many</h3>
+<p>Membership.all ( :joins =&gt; :user, :conditions =&gt; { :users =&gt; { :id =&gt; @user.id } } )</p>
+<pre>
+<code>
+SELECT "memberships".* FROM "memberships" 
+INNER JOIN "users" 
+ON "users".id = "memberships".user_id WHERE ("users"."id" = 999) 
+</code>
+</pre>
+<p>(which is equivalent to the @user.memberships example, above)</p>
+<h3>has_many :through</h3>
+<p>Group.all( :joins =&gt; :memberships, <br />
+&nbsp;&nbsp;:conditions =&gt; { :memberships =&gt; { :user_id =&gt; @user.id } } )</p>
+<pre>
+<code>
+SELECT "groups".* FROM "groups" 
+INNER JOIN "memberships" ON memberships.group_id = groups.id 
+WHERE ("memberships"."user_id" = 999) 
+</code>
+</pre>
+<p>(which is equivalent to the @user.groups example, above)</p>
+<h3>has_and_belongs_to_many</h3>
+<p>Group.all(:joins =&gt; :posts, :conditions =&gt; { :groups_posts =&gt; {:post_id =&gt; 999 }})</p>
+<pre>
+<code>
+SELECT "groups".* FROM "groups" 
+INNER JOIN "groups_posts" ON "groups_posts".group_id = "groups".id 
+INNER JOIN "posts" ON "posts".id = "groups_posts".post_id 
+WHERE ("groups_posts"."post_id" = 999) 
+</code>
+</pre>
+<p>(which is equivalent to the @post.groups example, above&#8212;although it doesn&#8217;t return the columns of the join table)</p>
+<h2>Chained joins</h2>
+<h3>@group.users</h3>
+<p>User.all(:joins =&gt;  {:memberships =&gt; :group }, :conditions =&gt; { <br />
+&nbsp;&nbsp;:group =&gt; {:id =&gt; 999  } } )</p>
+<pre>
+<code>
+SELECT "users".* FROM "users" 
+INNER JOIN "memberships" ON memberships.user_id = users.id 
+INNER JOIN "groups" ON "groups".id = "memberships".group_id 
+WHERE ("groups"."id" = 999)
+</code>
+</pre>
+<p>Which is just an even more long-winded version of:</p>
+<p>User.all(:joins =&gt; :memberships, :conditions =&gt; { <br />
+&nbsp;&nbsp;memberships =&gt; { :group_id =&gt; 999  } } )</p>
+<p>Note that <code>memberships</code> is plural and <code>group</code> is singular because this is expressing a many-to-one relationship.</p>
+<h3>A more complicated case</h3>
+<p>User.all(:joins =&gt;  {:memberships =&gt; { :group =&gt; :posts } }, :conditions =&gt; { :posts =&gt; {:id =&gt; 999 } }, :select =&gt; &#8220;<span class="caps">DISTINCT</span> users.*&#8221; )</p>
+<pre>
+<code>
+SELECT DISTINCT users.* FROM "users" 
+INNER JOIN "memberships" ON memberships.user_id = users.id 
+INNER JOIN "groups" ON "groups".id = "memberships".group_id 
+INNER JOIN "groups_posts" ON "groups_posts".group_id = "groups".id 
+INNER JOIN "posts" ON "posts".id = "groups_posts".post_id 
+WHERE ("posts"."id" = 999) 
+</code>
+</pre>
+<p>This selects all the users who are members of groups to which the post with an id of 999 has been posted.</p>
+<p>Note the use of the <code>:select</code> option in order to return only distinct users.</p>
+<p>And note again the selective pluralization of the hash keys to capture the nature of each association.</p>
+<p>See <a href="http://www.xcombinator.com/2008/04/08/chaining-includes-in-rails-to-reduce-the-number-of-sql-queries/">Chaining :include’s in Rails to reduce the number of <span class="caps">SQL</span> queries</a> and <br />
+<a href="http://ryandaigle.com/articles/2008/7/7/what-s-new-in-edge-rails-easy-join-table-conditions">What&#8217;s New in Edge Rails: Easy Join Table Conditions</a></p>

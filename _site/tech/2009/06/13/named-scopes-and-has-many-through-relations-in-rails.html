@@ -1,0 +1,39 @@
+<p>Named scopes in rails make for tidier code.</p>
+<p>Instead of:</p>
+<p><code>Response.find( :conditions =&gt; {:result =&gt; 'correct' } )</code></p>
+<p>A named scope in the Response model looks like this:</p>
+<p><code>named_scope :correct, :conditions =&gt; { :result =&gt; 'correct' }</code></p>
+<p>and allows me to say:</p>
+<p><code>Response.correct</code></p>
+<p>Or, more usefully:</p>
+<p><code>Question.last.responses.correct</code></p>
+<p>This will even work with a has_many :through relationship:</p>
+<pre>
+<code>
+class Course &lt; ActiveRecord::Base
+  has_many :questions
+  has_many :responses, :through =&gt; :questions
+  ...
+end
+
+Course.last.responses.correct
+</code>
+</pre>
+<p>However,  in Rails 2.2.2 there is a problem with named scopes that use inequalities. This usually requires a slightly different formulation of the <code>:conditions</code> like this:</p>
+<p><code>named_scope :recent, :conditions =&gt; [ 'created_at &gt; ?',  Time.now - 3600 ]</code></p>
+<p>Which allows me to say:</p>
+<p><code>Question.last.responses.recent</code></p>
+<p>But not:</p>
+<p><code>Course.questions.last.responses.recent</code></p>
+<p>The first method produces:</p>
+<p><code>SELECT * FROM `responses` WHERE (`responses`.question_id = 123) AND (created_at &gt; '2009-06-13 22:21:38')</code></p>
+<p>Whereas the second method produces:</p>
+<p><code>SELECT `responses`.* FROM `responses` INNER JOIN questions ON responses.question_id = questions.id WHERE ((`questions`.course_id = 10)) AND (created_at &gt; '2009-06-13 22:21:38')</code></p>
+<p>Which causes the Rails log to complain:</p>
+<p><code>Mysql::Error: Column 'created_at' in where clause is ambiguous</code></p>
+<p>In other words, because of the way Rails translates the <code>named_scope</code> into <span class="caps">SQL</span>, it is not clear whether that inner join is selecting on <code>questions.created_at</code> or <code>responses.created_at</code>.</p>
+<p>A simple workaround is to use ranges instead of inequalities:</p>
+<p><code>named_scope :recent, :conditions =&gt; {:created_at =&gt;  Time.now-3600..Time.now}</code></p>
+<p>Which generates slightly different, and unambiguous, <span class="caps">SQL</span>:</p>
+<p><code>SELECT `responses`.* FROM `responses` INNER JOIN questions ON responses.question_id = questions.id WHERE ((`questions`.course_id = 10)) AND (`responses`.`created_at` BETWEEN '2009-06-13 22:33:27' AND '2009-06-13 23:33:27')</code></p>
+<p>This is unlikely to be the most elegant solution to the problem, but it works, which is good enough for me&#8212;at least for now.</p>

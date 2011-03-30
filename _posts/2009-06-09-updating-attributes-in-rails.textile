@@ -1,0 +1,58 @@
+---
+layout: post
+title: Updating attributes in Rails
+category: tech
+standfirst: When I save data in Rails, I continually misuse the different methods available, so that my code is sprinkled with @save@, @save!@, @save(false)@, @update_attribute@, @update_attributes@ and so on. I also often introduce bugs by assigning a new value to an attribute and then forgetting to update it.
+---  
+When I save data in Rails, I continually misuse the different methods available, so that my code is sprinkled with @save@, @save!@, @save(false)@, @update_attribute@, @update_attributes@ and so on. I also often introduce bugs by assigning a new value to an attribute and then forgetting to update it.
+
+So, here is a quick summary.
+
+@save@ is the one to use if I want my model to validate. And, by the way, it is well worth using validations, like @validates_presence_of@, to check that an assignment hasn't been forgotten somewhere. @save@ is used most commonly in the @create@ method of a controller where errors are likely to be handled by the @view@ code. 
+
+@save!@ works like @save@ except that it raises an @ActiveRecord::RecordInvalid@ exception suitable for use in a @rescue@ clause. In other words, the only context in which to use @save!@ is this one:
+
+<pre>
+<code>
+begin
+  thing.save!
+rescue RecordInvalid => error
+  # do something
+end
+</code>
+</pre>
+
+It is likely to be used outside the controller (i.e. in the model) where I should want to do something sensible if any validations fail.
+
+@save(false)@, on the other hand, provides no validations at all and should only be used if I am absolutely sure about the data I am saving or perhaps if I am saving several records together and want to speed things up a bit (and am feeling reckless).
+
+@update_attributes()@ and @update_attributes!()@ behave just like @save@ and @save!@ respectively, but accept a hash of attributes as an argument so allow assignments to multiple attributes and saving all in a single line. @update_attributes@ is most commonly used when updating a model from within a controller.
+
+@update_attribute()@, as the name implies, just updates a single attribute and bypasses validations; a sensible choice if a single attribute--such as a boolean flag on an existing record--is being updated.
+
+Note that behind the scenes @update_attribute@ uses @save(false)@, so that it is not a great idea to use it if I am likely to have other attributes awaiting update.
+
+Incidentally, if I am updating a boolean and know that I just want its state to change, then it might be worth using @toggle(name)@ instead of @update_attribute(name, value)@, which might save a line or two of code.
+
+Also, @update(id, attributes)@ combines the reading of a row and the updating of its attributes onto a single line, so that instead of:
+
+@thing = Thing.find(id)@
+@thing.update_attributes(attributes)@
+
+I can have:
+
+@Thing.update(id, attributes)@
+
+Which is also the same as:
+
+@Thing.find(id).update_attributes(attributes)@
+
+So to summarize:
+
+Use validations where I can;
+
+Only use @save(false)@ for performance reasons, not to be lazy;
+
+Beware of using @update_attribute@ in any context where more than one attribute is being updated;
+
+Outside controllers, use the bang! versions of @save@ and @update_attributes@ and always inside a block.

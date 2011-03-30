@@ -1,0 +1,16 @@
+<p>You can use the .irbrc file to make changes to the Rails console. My .irbrc file currenlty looks like this:</p>
+<pre>
+if ENV.include?('RAILS_ENV')
+  require 'rubygems'
+  require 'hirb'
+  Hirb.enable
+  if !Object.const_defined?('RAILS_DEFAULT_LOGGER')
+    require 'logger'
+    Object.const_set('RAILS_DEFAULT_LOGGER', Logger.new(STDOUT))
+  end 
+  puts "preferences loaded from ~/.irbrc. ActiveRecord logging is turned on."
+end
+</pre>
+<p>The line towards the end is the important one for me. Without it, in six months I will probably have forgotten how I turned the logger on and even where the .irbrc file is. A problem I have with Rails: too much magic. And too many subtle ways to change its behaviour. These magic tricks are a wonderful thing, but my memory is is not good enough to retain them all.</p>
+<p>See <a href="http://railscasts.com/episodes/56-the-logger">Ryan Bates&#8217; Railscast on The Logger</a> for a reference to the Rails logger trick.</p>
+<p>Also, see <a href="http://github.com/cldwalker/hirb">Hirb</a> for details of its lovely tabular output.</p>

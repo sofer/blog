@@ -1,0 +1,44 @@
+Layouts in Rails|2009-09-25|tech
+
+I have a tendency to multiply layouts in Rails, so that after I have defined the main application layout in @/app/views/layouts.application.html.erb@, I create different layouts for different controllers as needed. That's all OK, except that I find myself cutting and pasting from the application layout which is just wrong, wrong, wrong.
+
+Rails offers nested layouts, which allow controller-specific layouts to inherit common structure from the default application layout.
+
+The three key tools that allow this are the @render@ method, the @content_for@ method and @yield@.
+
+By default, the use of @yield@ anywhere in a layout template will cause the entire contents of a view to be sucked into the layout before the page is rendered.
+
+But a @yield@ can be named, like this:
+
+<pre><%= yield :head %></pre>
+
+This will allow content from a view to be sucked in selectively, like this:
+
+<pre>
+<% content_for :head do %>  
+  <title>This page</title> 
+<% end %> 
+</pre>
+
+The @content_for@ block in the view replaces the @yield@ statement with the same name in the layout, in this case @:head@.
+
+What works for views can also work for layouts, so that any layout can be made to call another layout which will then yield content before rendering. This can be done by calling the @render@ method from within the first layout, like this:
+
+<pre><%= render :file => 'layouts/application' %></pre>
+
+@render@ is used widely in Rails to return any sort of content back to the browser, but in the context of a layout, it is used to replace the current layout file with another layout file (in the case above, the default application layout), but with the important distinction of taking all the content blocks defined in the current layout.
+
+So, the key to nesting templates sensibly is to seed your application layout with named @yield@ statements that can be replaced by controller- or view-specific content, if required. And don't forget to call the nested template with @render@.
+
+Incidentally, another sign that nested templates are what you need is a line in your layout that looks like this:
+
+<pre><% if controller.controller_name == 'posts' %></pre>
+
+Conditionals in a layout are a warning sign. A conditional that asks what controller it is in is a big red beacon flashing brightly.
+
+Come to think of it, a conditional anywhere in your code is an opportunity to ask the question: is there a better way to do this?
+
+
+
+
+

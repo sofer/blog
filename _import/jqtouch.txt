@@ -1,0 +1,13 @@
+Loading jQTouch files|2010-06-23|tech
+
+When adding jQTouch files to a web a page, order matters.
+
+The jQuery itself needs to be loaded first, but it is also important that the @$.jQTouch({})@ intialization happens after the jQuery @ready@ event. 
+
+If instead the jQTouch initialization happens before the jQuery @ready@ event is loaded, it appears that event handlers will not be attached to dynamic elements (i.e. those elements that are added after the document has loaded).
+
+The easiest way to ensure that @$.jQTouch({})@ intialization happens last is probably to create a separate file for it and make sure that it gets loaded last.
+
+I have extracted a minimal set of files from the jQTouch distribution. Just enough to get going with, including a @jqt-init.js@ file containing the necessary initialization. 
+
+"jqtouch-files":http://github.com/sofer/jqtouch-files are on github.

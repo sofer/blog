@@ -1,0 +1,25 @@
+---
+layout: post
+title: The banks are insolvent
+category: money
+standfirst: The banking system is to all intents and purposes broke. Liabilities almost certainly exceed assets by a significant margin and, but for the recent interventions of central banks, the equity of our major banks would be worthless. There is probably not a single one of them either in London or New York that is solvent.
+---  
+The banking system is to all intents and purposes broke. Liabilities almost certainly exceed assets by a significant margin and, but for the recent interventions of central banks, the equity of our major banks would be worthless. There is probably not a single one of them either in London or New York that is solvent.
+
+The problem is that a significant proportion of bank assets are based on loans that cannot be repaid. Not only can they not be repaid, but some loan-based assets are structured in such a way that they carry the entire default risk for a loan portfolio many times bigger than the size of the actual asset. In this way, a modest loss in the value of the collateral on which a loan portfolio is based leads to the entire value of these assets being wiped out. These are the so-called 'subordinated' or 'equity' tranches that make up part of a collateralized loan portfolio.
+
+In fact, the loss of value in many forms of collateral--and particularly property--is not modest and is clearly growing. And it is not only the subordinated, but also much of the 'senior' debt, that is at risk. 
+
+A good example of the sort of loan that has been sitting on the books of some banks has been outlined in |http://uk.youtube.com/watch?v=eZZkhSl8lMA|an excellent video by Salman Khan|. In July 2008, Merrill Lynch sold a Collateralized Debt Obligation (CDO) for $6.7 billion. This CDO had a few weeks previously been written down to $11.1 billion and was originally valued at $30.6 billion. Merrill also provided a loan of 75% of the purchase price to the purchaser, a specially-created affiliate of Lone Star Funds, to allow said purchaser to buy the CDO with just $1.675 billion of their own funds.
+
+In other words, this transaction allowed Merrill to take an asset off their books at a 60% discount ($6.7 billion) to what it had recently been been valued at ($11.1 billion) and a 78% discount to its original notional value ($30.6 billion), but while still retaining a continuing exposure of $5 billion. The purchaser meanwhile was able to purchase the debt with an investment of not much more than 5% of its notional value. 
+
+Meanwhile, late last year the UK Government paid £20 billion for a 60% equity stake in Royal Bank of Scotland Group and £17 billion for a combined 40% stake in Lloyds TSB and HBOS. A total of £37 billion. In contrast, at the end of trading on Friday 16th January 2008, the market capitalisation of Royal Bank of Scotland was £13.7 billion, Lloyds TSB was £8.5 billion and HBOS was £9 billion, for a combined total of around £31 billion. In other words, the recent government investment in banks is by a wide margin larger than their current market value.*
+
+And they are just about to |http://www.ft.com/cms/s/0/c3237d38-e55d-11dd-afe4-0000779fd2ac.html|announce another bail-out plan|.
+
+The government can in theory continue to inject liquidity into the banks indefinitely. Adding capital to an insolvent bank is not necessarily inflationary, because as we have recently rediscovered, insolvent banks don't lend. However, to the extent that the bank's employees continue to be paid despite the fact that they are no longer generating any wealth in the wider economy, that the creditors are being paid despite making ill-advised loans and that shareholders still own tradable assets, these actions are not without effect. It is not entirely clear that just allowing the banks to fail and, if necessary, pump priming an entirely new banking sector with the money that might otherwise be spent on bailing out existing institutions wouldn't be a better idea.
+
+In the short term, all the forces we are experiencing are deflationary, but further out as factories close down and excess inventories in the supply chain diminish, the fall in productive capacity--which is a far more alarming prospect than any bank collapse--combined with the growth in unproductive transfer payments--to failing banks, to the growing ranks of the unemployed, and so on--will be inflationary, and most probably not in those sorts of things that have been the subject of recent bubbles, but more likely in the necessities of life.
+
+*UPDATE 19/1/2009: At the close of trading today, the combined values of RBS, Lloyds and HBOS was about £15 billion.
