@@ -1,0 +1,96 @@
+---
+layout: post
+title: An Outline of Money revisited
+category: money
+---  
+
+Geoffrey Crowther wrote about the Great Depression in the final chapter of his book _"An Outline of Money"_ [1]. Despite being written in the 1940's, what he had to say has more relevance to the current economic crisis than anything else I have read on the subject.*
+
+_"If the economic relationships between nations are not, by one means or another, brought fairly close to balance, then there is no set of financial arrangements that can rescue the world from the impoverishing results of chaos."_ [2]
+
+The Great Depression was the almost inevitable consequence of events that preceded it. [3]
+
+Over the course of the 1920's, large balance of payments surpluses built up, primarily in the USA, which were recycled back into the global economy in the form of loans overseas.  [4]
+
+In the normal course of events, international transfers of funds are in the form of loans and the repayment of loans for investment purposes or of investments and the repatriation of profits. Any excesses or deficits of consumption are transitory and will tend to even out between countries over time.
+
+But in the period leading up to the Great Depression, the number of sound investment opportunities could not possibly keep pace with the growing size of the global imbalances of payments. International loans were increasingly used to fund not investment but consumption and did nothing to increase the industrial capacity of the borrowers.  [5]
+
+As the quality of loans deteriorated and the insolvency of debtors grew more likely, investors eventually took fright and started to draw in their loans.
+
+By early 1929, US investors had largely stopped making long-term loans overseas, effectively ending US capital investment abroad.
+
+Instead, without an overseas outlet, surplus funds were redirected into the US stock market, which reached unsustainably high levels in the summer of 1929 before crashing in the autumn of that year. [6]
+
+Short term loans continued throughout 1930, but eventually stalled in 1931. [7]
+
+At that point, balance of payments deficits could no longer be funded by short-term loans and could only be rectified by changes in the balance of trade, i.e. by an increase in exports or a decrease in imports–or by default.
+
+In 1931, the UK–caught between its long term loans and short term debts–came off the gold standard [8] and sterling dropped by a quarter.  Germany, meanwhile, chose default.
+
+Creditor nations in turn were faced with the loss in the value of their overseas investments as well as a fall in international competitiveness, leading to a loss of export markets, and increased competition from overseas producers in their domestic markets.
+
+In these circumstances, it was no longer possible to be both a creditor and a net exporter, as the US had become.
+
+It was crucial that creditor countries–and particularly the US–should recognize that this was the case, but they did not.
+
+Instead they imposed import tariffs to protect their domestic industries. 
+
+The inevitable result, beginning in 1931, was a series of retaliatory measures by other countries and a precipitous decline in global trade that did not recover until decades–<i>decades</i>–later.  [9]  [10] 
+
+The similarities between then and now are remarkable.
+
+This time, there is a large build up of balance of payments surpluses in China, Japan and elsewhere.
+
+Again, sound investment opportunities have been unable to absorb all the surplus capital and the consequence has been a deterioration in the quality of investments and loans.
+
+Again, investors are taking fright and long term lending is contracting.
+
+One interesting side effect of the contraction in lending is that the US dollar is increasing in value.
+
+This is the logical consequence of the increase in demand for dollars caused by the liquidation of loans and assets, almost all of which are denominated in US dollars 
+
+This is happening despite the fact that the US–now the world's greatest debtor nation–will have to, at some point in this cycle, reverse its balance of payments deficit–which it cannot conceivably do with its currency at the current level.
+
+However, the dollar cannot fall until the forces of dollar-denominated asset liquidation are overtaken by the need for the US to balance its payments.
+
+At the point this happens, it is quite likely that short-term lending in dollars will effectively cease.  
+
+The United States, with large direct investments in East Asian companies and large loans from their central banks, will be caught–like the UK in the 1930's–borrowing short and lending long.
+
+The dollar will fall precipitously, and with nobody willing to lend in it, the dollar will no longer–at least in the short term–be able to function as an international reserve currency. 
+
+It may be possible–although politically inadvisable–to slow the descent by ruinously high interest rates or by a fire sale of US assets to foreign buyers, but at some point–and preferably sooner than later–the terms of trade will have to rebalance.
+
+At this point, the question becomes: will China and Japan be prepared to run trade deficits–will the engines of international trade for the past 30 years be prepared to import more goods than they export?
+
+But right now, after the imbalances in world trade have already built up, it is important to realise that there are strict limits to what any government can do to alter the course of events. The time for affecting the broad course of the current crisis has passed, well before its affects have become obvious–just as was the case in the run up to the Great Depression. Events have to play out until such time as the Chinese and the Japanese are faced with the same choice the US faced in the early 1930's: whether or not to allow trade to continue on terms wholly different to those to which they have become accustomed.
+
+	_"No words are too strong to condemn the idiocies of this period. But condemnation alone will not be of much profit. The panic once started, no nation could afford to be left out of it...nor should we lay all the blame on panic alone. An orderly retreat would indeed have had less catastrophic results; but a reduction of foreign lending and a readjustment of their Balance of Payments by both creditors and debtors was inevitable. Borrowing on the lines of 1927-9 could not in any case have continued. The loans were on too large a scale, to the wrong borrowers, and for purposes that made no provision for repayment. In the last analysis the blame must be laid on the pre-crisis world"_ [11] 
+
+Notes:
+
+* Note added 1 March 2009: with the possible exception of The Dollar Crisis by Richard Duncan, a book which covers similar ground and, despite being well-received by reviewers when it was first published in 2002, has been largely ignored by academic economists and policy makers. Its predictions about the course of events have been accurate in broad outline and in much of the detail. It deserves to be more widely read. See also Martin Wolf's recent article, |http://www.ft.com/cms/s/0/027b1efc-c0a4-11dd-b0a8-000077b07658.html|Global imbalances threaten the survival of liberal trade|.
+	
+[1]: An Outline of Money by Geoffrey Crowther, Second Edition, published by Thomas Nelson and Sons,  1948. Crowther was editor of The Economist 1938-56
+
+[2]: p.336
+
+[3]: _"The total of External Surpluses so greatly exceeded the volume of International Investment that maladjustment was inevitable...if nations come to depend on foreign borrowings, not for their capital development but to finance their ordinary current requirements of imported goods, a cessation of international lending will cause a serious upset in their economic structure. The large volume of international lending in the years 1927 and 1928 was nothing but a screen for the underlying maladjustments, a palliative for the fundamental defects of the international capital market."_ (p.370)
+
+[4]: _"it was very largely the the size of the American External Surplus that swelled to dangerous proportions the total volume of international borrowing and lending."_ (p. 368)
+
+[5]: _"there is a limit to the amount of money that borrowers can employ in really sound projects of International Investment, and to exceed this limit is merely to invite large-scale default and a sudden stop to the process of lending."_ (p.391)
+
+[6]: _"Long-term lending by the United States ceased after the end of 1928; the speculative excitement of the New York Stock Exchange and the high rates of interest obtainable there provided a more attractive use for funds, not only for American capitalists but even for those of Europe. After the crash in the autumn of 1929 confidence was too badly shaken to permit of any issues."_ (p.371)
+
+[7]: _"Depression turned to crisis in 1931...The short-term credits, which almost alone had kept the system going for two years, first ceased and were then recalled"_ (p.371)
+
+[8]: _"the effort to maintain the pound sterling at its over-valued rate imposed on the Bank of England a policy of high interest rates, with the result that short-term money capital was attracted to London. London was, in fact, 'borrowing short and lending long,' and when her short-term creditors demanded repayment in 1931 she was unable to realize her vast but fixed foreign assets."_ (p.368)
+
+[9]: _"Balance could be achieved only in one of two ways: by expanding exports or by reducing imports. An expansion of exports being out of the question in the collapsed state of the world's markets, a contraction of imports became the only remedy...there was throughout 1932 and 1933 an orgy of tariffs and restrictions of all kinds"_ (p.372)
+
+[10]: _"every country joined in the mad race to build up a large positive External Surplus–and since this was the common object, none succeeded...It was Beggar-my-Neighbour in its starkest futility."_ (p.377)
+
+[11]: p.376-7
+
