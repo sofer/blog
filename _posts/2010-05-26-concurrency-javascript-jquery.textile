@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Concurrency, Javascript and JQuery
-category: tech
-standfirst: In any block of code, execution is sequential. Each line of code will not execute until the previous line has executed. If a line contains a function call, then the next line will begin execution after that function returns a value. If the function continues to execute code even after it returns a value, then the code in the original block is no longer executing sequentially, in other words two different blocks of code are running concurrently. Concurrency is generally achieved in software by some implementation of threads.
+layout: default
+title: "Concurrency, Javascript and JQuery"
+category: "tech"
+standfirst: "In any block of code, execution is sequential. Each line of code will not execute until the previous line has executed. If a line contains a function call, then the next line will begin execution after that function returns a value. If the function continues to execute code even after it returns a value, then the code in the original block is no longer executing sequentially, in other words two different blocks of code are running concurrently. Concurrency is generally achieved in software by some implementation of threads."
 ---  
 In any block of code, execution is sequential. Each line of code will not execute until the previous line has executed. If a line contains a function call, then the next line will begin execution after that function returns a value. If the function continues to execute code even after it returns a value, then the code in the original block is no longer executing sequentially, in other words two different blocks of code are running concurrently. Concurrency is generally achieved in software by some implementation of threads.
 

@@ -1,8 +1,8 @@
 ---
-layout: post
-title: SQL and ActiveRecord compared
-category: tech
-standfirst: Some comparisons of ActiveRecord method calls and the equivalent SQL for associations, starting simple and progressing to joins and chained joins.
+layout: default
+title: "SQL and ActiveRecord compared"
+category: "tech"
+standfirst: "Some comparisons of ActiveRecord method calls and the equivalent SQL for associations, starting simple and progressing to joins and chained joins."
 ---  
 Some comparisons of ActiveRecord method calls and the equivalent SQL for associations, starting simple and progressing to joins and chained joins.
 
@@ -154,5 +154,5 @@ Note the use of the @:select@ option in order to return only distinct users.
 
 And note again the selective pluralization of the hash keys to capture the nature of each association.
 
-See "Chaining :include’s in Rails to reduce the number of SQL queries":http://www.xcombinator.com/2008/04/08/chaining-includes-in-rails-to-reduce-the-number-of-sql-queries/ and 
+See "Chaining :include's in Rails to reduce the number of SQL queries":http://www.xcombinator.com/2008/04/08/chaining-includes-in-rails-to-reduce-the-number-of-sql-queries/ and 
 "What's New in Edge Rails: Easy Join Table Conditions":http://ryandaigle.com/articles/2008/7/7/what-s-new-in-edge-rails-easy-join-table-conditions

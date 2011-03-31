@@ -1,5 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MongoDB and Rails</title>
+<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+<!--[if lt IE 8]>
+    <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+
+<body>
+<h1>MongoDB and Rails</h1>
+
 <p>I have been tinkering with <a href="http://www.mongodb.org/">MongoDB</a> and the <a href="http://github.com/jnunemaker/mongomapper">MongoMapper</a> gem for Rails and creating a MongoDB-based Rails project is pretty easy.</p>
 <p>Ryan Bates has an <a href="http://railscasts.com/episodes/194-mongodb-and-mongomapper">excellent screencast</a> on using MongoMapper, although he doesn&#8217;t mention testing. Despite this, setting up a <a href="http://cukes.info">Cucumber</a> -based test environment is  possible as long as you are careful about how you do it. Ben Scofield has published a very helpful <a href="http://gist.github.com/181842">Application template</a> and Nicolas M&eacute;rouze has recently written up his <a href="http://github.com/nmerouze/machinist_mongo">Machinist adapter for MongoDB</a>.</p>
 <p>However, testing is not all straight forward. If you want to use <a href="http://github.com/ianwhite/pickle">Pickle</a> then you are currently out of luck, because <a href="http://groups.google.com/group/pickle-cucumber/browse_thread/thread/20044181e179471d">pickle is dependent on ActiveRecord</a>.</p>
 <p>In fact, many Rails plugins depend on ActiveRecord and none of these will work with MongoMapper. I can&#8217;t use scaffolding and <a href="http://groups.google.com/group/mongomapper/browse_thread/thread/3e2841ef5229c0a4">named scopes are not yet available</a> either.</p>
 <p>So, I am probably not quite ready to use MongoDB in my Rails applications yet. Maybe in a few months.</p>
+</body>
+</html>

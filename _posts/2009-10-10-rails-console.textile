@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Using the Rails console
-category: tech
-standfirst: You can use the .irbrc file to make changes to the Rails console. My .irbrc file currenlty looks like this:
+layout: default
+title: "Using the Rails console"
+category: "tech"
+standfirst: "You can use the .irbrc file to make changes to the Rails console. My .irbrc file currenlty looks like this:"
 ---  
 You can use the .irbrc file to make changes to the Rails console. My .irbrc file currenlty looks like this:
 

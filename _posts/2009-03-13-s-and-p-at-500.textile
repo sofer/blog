@@ -1,8 +1,8 @@
 ---
-layout: post
-title: A prediction: the S&amp;P 500 will fall to 500
-category: money
-standfirst: The US Flow of Funds Accounts figures for the fourth quarter were released yesterday and Tobin's Q is at 0.62. In other words, at the end of last year the ratio between the market value of US corporations and the net worth of their assets was below its historical average for the first time since 1988 and the stock market was therefore fairly valued in historical terms.
+layout: default
+title: "A prediction: the S&amp;P 500 will fall to 500"
+category: "money"
+standfirst: "The US Flow of Funds Accounts figures for the fourth quarter were released yesterday and Tobin's Q is at 0.62. In other words, at the end of last year the ratio between the market value of US corporations and the net worth of their assets was below its historical average for the first time since 1988 and the stock market was therefore fairly valued in historical terms."
 ---  
 The US Flow of Funds Accounts figures for the fourth quarter were released yesterday and "Tobin's Q":q.html is at 0.62. In other words, at the end of last year the ratio between the market value of US corporations and the net worth of their assets was below its historical average for the first time since 1988 and the stock market was therefore fairly valued in historical terms.
 

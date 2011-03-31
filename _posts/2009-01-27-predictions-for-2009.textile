@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Predictions for 2009
-category: money
-standfirst: It's a little bit late for New Year predictions, but here are mine and very pessimistic they are, too. I have bottled it on the big one (No.6), but--really--I don't feel brave enough to predict the end of the world as we know it--at least not yet. Anyway, working on this list has made things a lot clearer for me. Here goes.
+layout: default
+title: "Predictions for 2009"
+category: "money"
+standfirst: "It's a little bit late for New Year predictions, but here are mine and very pessimistic they are, too. I have bottled it on the big one (No.6), but--really--I don't feel brave enough to predict the end of the world as we know it--at least not yet. Anyway, working on this list has made things a lot clearer for me. Here goes."
 ---  
 It's a little bit late for New Year predictions, but here are mine and very pessimistic they are, too. I have bottled it on the big one (No.6), but--really--I don't feel brave enough to predict the end of the world as we know it--at least not yet. Anyway, working on this list has made things a lot clearer for me. Here goes.
 
@@ -44,4 +44,4 @@ Failure to invest in distribution infrastructure will contribute to volatility, 
 
 Notes:
 
-[1] Added January 30. Actually, short-term lending has already come to a halt. Central bank currency swap agreements are keeping the global economy afloat. See |soros-on-the-crisis.html|Soros on the crisis|.
+fn1. Added January 30. Actually, short-term lending has already come to a halt. Central bank currency swap agreements are keeping the global economy afloat. See |soros-on-the-crisis.html|Soros on the crisis|.

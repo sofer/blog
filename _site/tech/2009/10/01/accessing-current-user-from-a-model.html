@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Accessing current_user from within a model: just don't do it</title>
+<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+<!--[if lt IE 8]>
+    <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+
+<body>
+<h1>Accessing current_user from within a model: just don't do it</h1>
+
 <p>I came across a situation where I thought I wanted to access the <code>current_user</code> from within a model, but it was just a case of mistaken thinking. Making session variables like <code>current_user</code> accessible to a model is a break with convention, and breaking with conventions is usually a bad idea. So, the rule is: don&#8217;t do it unless you have exhausted all other options. There is a probably an easier way of doing what you are trying to do.</p>
 <p>Here was my situation. I had users logging in to an application and signing up for various groups. The relationship between models was as follows:</p>
 <pre>
@@ -35,3 +49,5 @@ has_many :own_groups, :through =&gt; :memberships, :class_name =&gt; 'Group', :f
 has_one :owner, :through =&gt; :memberships, :class_name =&gt; 'User', :foreign_key =&gt; "id"</pre>
 <p>However, there is another&#8212;and my preferred&#8212;way of doing this. Rather than have the relationship defined in the Group model as a foreign key, the &#8216;ownership&#8217; of the group can be defined in the Membership model, as a kind of membership.</p>
 <p>This keeps the responsibility where it probably belongs, in the relationship (i.e. Membership) model. It also makes it easier to change the definition of &#8216;ownership&#8217; at a future date, so that a group could have more than one &#8216;owner&#8217;. In other words, it&#8217;s a more flexible design.</p>
+</body>
+</html>

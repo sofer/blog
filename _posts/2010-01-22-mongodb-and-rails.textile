@@ -1,8 +1,8 @@
 ---
-layout: post
-title: MongoDB and Rails
-category: tech
-standfirst: I have been tinkering with MongoDB and the MongoMapper gem for Rails and creating a MongoDB-based Rails project is pretty easy.
+layout: default
+title: "MongoDB and Rails"
+category: "tech"
+standfirst: "I have been tinkering with MongoDB and the MongoMapper gem for Rails and creating a MongoDB-based Rails project is pretty easy."
 ---  
 I have been tinkering with "MongoDB":http://www.mongodb.org/ and the "MongoMapper":http://github.com/jnunemaker/mongomapper gem for Rails and creating a MongoDB-based Rails project is pretty easy.
 

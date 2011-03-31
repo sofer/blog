@@ -1,8 +1,8 @@
 ---
-layout: post
-title: An Outline of Money revisited
-category: money
-standfirst: Geoffrey Crowther wrote about the Great Depression in the final chapter of his book <cite>An Outline of Money</cite> . Despite being written in the 1940's, what he had to say has more relevance to the current economic crisis than anything else I have read on the subject.*
+layout: default
+title: "An Outline of Money revisited"
+category: "money"
+standfirst: "Geoffrey Crowther wrote about the Great Depression in the final chapter of his book <cite>An Outline of Money</cite> . Despite being written in the 1940's, what he had to say has more relevance to the current economic crisis than anything else I have read on the subject.*"
 ---  
 Geoffrey Crowther wrote about the Great Depression in the final chapter of his book <cite>An Outline of Money</cite> [1]. Despite being written in the 1940's, what he had to say has more relevance to the current economic crisis than anything else I have read on the subject.*
 
@@ -72,24 +72,24 @@ Notes:
 
 * Note added 1 March 2009: with the possible exception of The Dollar Crisis by Richard Duncan, a book which covers similar ground and, despite being well-received by reviewers when it was first published in 2002, has been largely ignored by academic economists and policy makers. Its predictions about the course of events have been accurate in broad outline and in much of the detail. It deserves to be more widely read. See also Martin Wolf's recent article, |http://www.ft.com/cms/s/0/027b1efc-c0a4-11dd-b0a8-000077b07658.html|Global imbalances threaten the survival of liberal trade|.
 	
-[1] An Outline of Money by Geoffrey Crowther, Second Edition, published by Thomas Nelson and Sons,  1948. Crowther was editor of The Economist 1938-56
+fn1. An Outline of Money by Geoffrey Crowther, Second Edition, published by Thomas Nelson and Sons,  1948. Crowther was editor of The Economist 1938-56
 
-[2] p.336
+fn2. p.336
 
-[3] "The total of External Surpluses so greatly exceeded the volume of International Investment that maladjustment was inevitable...if nations come to depend on foreign borrowings, not for their capital development but to finance their ordinary current requirements of imported goods, a cessation of international lending will cause a serious upset in their economic structure. The large volume of international lending in the years 1927 and 1928 was nothing but a screen for the underlying maladjustments, a palliative for the fundamental defects of the international capital market." (p.370)
+fn3. "The total of External Surpluses so greatly exceeded the volume of International Investment that maladjustment was inevitable...if nations come to depend on foreign borrowings, not for their capital development but to finance their ordinary current requirements of imported goods, a cessation of international lending will cause a serious upset in their economic structure. The large volume of international lending in the years 1927 and 1928 was nothing but a screen for the underlying maladjustments, a palliative for the fundamental defects of the international capital market." (p.370)
 
-[4] "it was very largely the the size of the American External Surplus that swelled to dangerous proportions the total volume of international borrowing and lending." (p. 368)
+fn4. "it was very largely the the size of the American External Surplus that swelled to dangerous proportions the total volume of international borrowing and lending." (p. 368)
 
-[5] "there is a limit to the amount of money that borrowers can employ in really sound projects of International Investment, and to exceed this limit is merely to invite large-scale default and a sudden stop to the process of lending." (p.391)
+fn5. "there is a limit to the amount of money that borrowers can employ in really sound projects of International Investment, and to exceed this limit is merely to invite large-scale default and a sudden stop to the process of lending." (p.391)
 
-[6] "Long-term lending by the United States ceased after the end of 1928; the speculative excitement of the New York Stock Exchange and the high rates of interest obtainable there provided a more attractive use for funds, not only for American capitalists but even for those of Europe. After the crash in the autumn of 1929 confidence was too badly shaken to permit of any issues." (p.371)
+fn6. "Long-term lending by the United States ceased after the end of 1928; the speculative excitement of the New York Stock Exchange and the high rates of interest obtainable there provided a more attractive use for funds, not only for American capitalists but even for those of Europe. After the crash in the autumn of 1929 confidence was too badly shaken to permit of any issues." (p.371)
 
-[7] "Depression turned to crisis in 1931...The short-term credits, which almost alone had kept the system going for two years, first ceased and were then recalled" (p.371)
+fn7. "Depression turned to crisis in 1931...The short-term credits, which almost alone had kept the system going for two years, first ceased and were then recalled" (p.371)
 
-[8] "the effort to maintain the pound sterling at its over-valued rate imposed on the Bank of England a policy of high interest rates, with the result that short-term money capital was attracted to London. London was, in fact, 'borrowing short and lending long,' and when her short-term creditors demanded repayment in 1931 she was unable to realize her vast but fixed foreign assets." (p.368)
+fn8. "the effort to maintain the pound sterling at its over-valued rate imposed on the Bank of England a policy of high interest rates, with the result that short-term money capital was attracted to London. London was, in fact, 'borrowing short and lending long,' and when her short-term creditors demanded repayment in 1931 she was unable to realize her vast but fixed foreign assets." (p.368)
 
-[9] "Balance could be achieved only in one of two ways: by expanding exports or by reducing imports. An expansion of exports being out of the question in the collapsed state of the world's markets, a contraction of imports became the only remedy...there was throughout 1932 and 1933 an orgy of tariffs and restrictions of all kinds" (p.372)
+fn9. "Balance could be achieved only in one of two ways: by expanding exports or by reducing imports. An expansion of exports being out of the question in the collapsed state of the world's markets, a contraction of imports became the only remedy...there was throughout 1932 and 1933 an orgy of tariffs and restrictions of all kinds" (p.372)
 
-[10] "every country joined in the mad race to build up a large positive External Surplus--and since this was the common object, none succeeded...It was Beggar-my-Neighbour in its starkest futility." (p.377)
+fn10. "every country joined in the mad race to build up a large positive External Surplus--and since this was the common object, none succeeded...It was Beggar-my-Neighbour in its starkest futility." (p.377)
 
-[11] p.376-7
+fn11. p.376-7

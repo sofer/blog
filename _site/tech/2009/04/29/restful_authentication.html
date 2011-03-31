@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Misadventures with Restful Authentication</title>
+<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+<!--[if lt IE 8]>
+    <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+
+<body>
+<h1>Misadventures with Restful Authentication</h1>
+
 <p>This may seem trivial to some people, but I got a bit confused finding a path through the <a href="http://github.com/technoweenie/restful-authentication">Restful Authentication plugin</a> for Rails.</p>
 <p>To restrict access inside a controller, I originally put this line inside the controller class:</p>
 <p><code>before_filter :authorize</code></p>
@@ -10,3 +24,5 @@
 <p>Reading the very helpful comments left in the <code>AuthenticatedSystem</code> class by its authors it has now become obvious that I have made a significant design mistake: I added an added layer of complexity, i.e. the <code>:authorize</code> method, where none was needed, and then compounded my error by accessing the <code>logged_in</code> method directly instead of going through <code>login_required</code>.</p>
 <p>Upshot: unexpected behaviour in my application leading to much frustration.</p>
 <p>Moral: When somebody leaves very helpful comments in their code, read the comments before using the code.</p>
+</body>
+</html>

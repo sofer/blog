@@ -1,8 +1,8 @@
 ---
-layout: post
-title: A quick note on using "tap" with jQTouch
-category: tech
-standfirst: As David Kaneda explains in the jQTouch blog, he introduced a @tap@ custom event to remove a 300ms delay when tapping on a link in Mobile Safari.
+layout: default
+title: "A quick note on using \"tap\" with jQTouch"
+category: "tech"
+standfirst: "As David Kaneda explains in the jQTouch blog, he introduced a @tap@ custom event to remove a 300ms delay when tapping on a link in Mobile Safari."
 ---  
 As "David Kaneda explains":http://blog.jqtouch.com/post/205113875/milliseconds-responsiveness-and-the-fast-tap in the jQTouch blog, he introduced a @tap@ custom event to remove a 300ms delay when tapping on a link in Mobile Safari.
 

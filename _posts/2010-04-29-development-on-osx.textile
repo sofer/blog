@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Development on OS X
-category: tech
-standfirst: A few notes to myself on developing on OS X 10.6 (snow leopard).
+layout: default
+title: "Development on OS X"
+category: "tech"
+standfirst: "A few notes to myself on developing on OS X 10.6 (snow leopard)."
 ---  
 A few notes to myself on developing on OS X 10.6 (snow leopard).
 

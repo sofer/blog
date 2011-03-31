@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Tobin's Q
-category: money
-standfirst: In their book "Valuing Wall Street", Andrew Smithers and Stephen Wright use James Tobin's Q ratio (the value of a stock market divided by corporate net worth), to recommend (in 2000) disinvesting from equities. They also give an excellent account of the dynamics of the economic cycle.
+layout: default
+title: "Tobin's Q"
+category: "money"
+standfirst: "In their book \"Valuing Wall Street\", Andrew Smithers and Stephen Wright use James Tobin's Q ratio (the value of a stock market divided by corporate net worth), to recommend (in 2000) disinvesting from equities. They also give an excellent account of the dynamics of the economic cycle."
 ---  
 In their book "Valuing Wall Street", Andrew Smithers and Stephen Wright use James Tobin's Q ratio (the value of a stock market divided by corporate net worth), to recommend (in 2000) disinvesting from equities. They also give an excellent account of the dynamics of the economic cycle.
 
@@ -30,13 +30,13 @@ Notes:
 
 Valuing Wall Street by Andrew Smithers and Stephen Wright. McGraw Hill, 2000. 
 
-[1] "household and overseas investors have increasingly, and sensibly, been net sellers of stocks...corporations have simultaneously switched to being net buyers, despite the fact the, in order to do so, they have had to raise additional, and far from cheap, financing. If this seems more than slightly crazy, it is...the fact that it has been allowed to happen may well appear, after the greatest bubble of the twentieth century has broken, to have been one of the greatest follies of the twentieth century." [151-2]
+fn1. "household and overseas investors have increasingly, and sensibly, been net sellers of stocks...corporations have simultaneously switched to being net buyers, despite the fact the, in order to do so, they have had to raise additional, and far from cheap, financing. If this seems more than slightly crazy, it is...the fact that it has been allowed to happen may well appear, after the greatest bubble of the twentieth century has broken, to have been one of the greatest follies of the twentieth century." [151-2]
 
-[2] "Equity is not the only form of capital; clearly bonds and bank lending are also important. Equity is, however, the most fundamental. Companies and individuals can finance themselves wholly with equity, but they cannot finance themselves wholly with debt...popular discussion of economics tends to assume that the impact on economies of changes in interest rates is far more important than the impact of changes in the stock market. This is doubly unfortunate, because the level of the stock market not only determines the cost of equity capital but also influences the availability and thus the cost of borrowed capital." (p.331)
+fn2. "Equity is not the only form of capital; clearly bonds and bank lending are also important. Equity is, however, the most fundamental. Companies and individuals can finance themselves wholly with equity, but they cannot finance themselves wholly with debt...popular discussion of economics tends to assume that the impact on economies of changes in interest rates is far more important than the impact of changes in the stock market. This is doubly unfortunate, because the level of the stock market not only determines the cost of equity capital but also influences the availability and thus the cost of borrowed capital." (p.331)
 
-[3] "When the stock market is strong, most banks and other lenders are inclined to treat the rise in share prices as a permanent increase in real wealth rather than a temporary fluctuation. The result is that lending expands with rising stock markets, which thus has a double impact on reducing the cost of capital. Hence high stock markets reduce the cost of finance, even if no equity is raised, simply by making debt more easily available." [p.332]
+fn3. "When the stock market is strong, most banks and other lenders are inclined to treat the rise in share prices as a permanent increase in real wealth rather than a temporary fluctuation. The result is that lending expands with rising stock markets, which thus has a double impact on reducing the cost of capital. Hence high stock markets reduce the cost of finance, even if no equity is raised, simply by making debt more easily available." [p.332]
 
-[4] "Because there is a significant risk of deflation in the next recession, the coming bear market might resemble that of the 1930s more than the 1970s. Of course there is no guarantee of this. Inflation may neither pick up nor become significantly negative, but simply remain subdued. In these circumstances, it is likely that the Federal Reserve, just like the Bank of Japan in recent years, would push short-term rates down very close to zero." [p.181-2]
+fn4. "Because there is a significant risk of deflation in the next recession, the coming bear market might resemble that of the 1930s more than the 1970s. Of course there is no guarantee of this. Inflation may neither pick up nor become significantly negative, but simply remain subdued. In these circumstances, it is likely that the Federal Reserve, just like the Bank of Japan in recent years, would push short-term rates down very close to zero." [p.181-2]
 
 Smithers and Wright are pretty scathing of a variety of investment methods. for example, they describe portfolio insurance as "a prime example of that rare but interesting combination: an exceptionally clever idea that is at the same time an exceptionally stupid idea." [p.188]
 

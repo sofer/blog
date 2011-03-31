@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Sanitizing input in Rails
-category: tech
-standfirst: Rails offers the @html_escape@ method (usually shortened to @h@), which prevents simple attempts at code injection. However, when users are entering content onto a site, there is a very good case for sanitizing the input. After all, if a rogue user is injecting unwanted code into my HTML forms, why would I want to store it in my database? It makes sense to neutralize it before it gets stored.
+layout: default
+title: "Sanitizing input in Rails"
+category: "tech"
+standfirst: "Rails offers the @html_escape@ method (usually shortened to @h@), which prevents simple attempts at code injection. However, when users are entering content onto a site, there is a very good case for sanitizing the input. After all, if a rogue user is injecting unwanted code into my HTML forms, why would I want to store it in my database? It makes sense to neutralize it before it gets stored."
 ---  
 Rails offers the @html_escape@ method (usually shortened to @h@), which prevents simple attempts at code injection. However, when users are entering content onto a site, there is a very good case for sanitizing the input. After all, if a rogue user is injecting unwanted code into my HTML forms, why would I want to store it in my database? It makes sense to neutralize it before it gets stored.
 

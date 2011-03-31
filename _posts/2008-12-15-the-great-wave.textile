@@ -1,8 +1,8 @@
 ---
-layout: post
-title: The Great Wave
-category: money
-standfirst: I have been re-reading David Hackett Fischer's book, "The Great Wave", which puts our current difficulties in the context of an 800-year history of repeated periods of stability, growth, crisis and collapse.
+layout: default
+title: "The Great Wave"
+category: "money"
+standfirst: "I have been re-reading David Hackett Fischer's book, \"The Great Wave\", which puts our current difficulties in the context of an 800-year history of repeated periods of stability, growth, crisis and collapse."
 ---  
 I have been re-reading David Hackett Fischer's book, "The Great Wave", which puts our current difficulties in the context of an 800-year history of repeated periods of stability, growth, crisis and collapse.
 
@@ -28,6 +28,6 @@ But--and here is the good news--eventually, we can look forward to a period of r
 
 Notes:
 
-[1] pages 248, 249
+fn1. pages 248, 249
 
-[2] pages 152, 153
+fn2. pages 152, 153

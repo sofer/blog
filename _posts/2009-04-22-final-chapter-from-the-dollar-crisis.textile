@@ -1,8 +1,8 @@
 ---
-layout: post
-title: The final chapter from The Dollar Crisis
-category: money
-standfirst: Richard Duncan published his revised edition of _The Dollar Crisis_ in 2005. It is a remarkably prescient analysis of the the problems now facing the global economy. I reproduce the short and somewhat chilling final chapter from the book below.
+layout: default
+title: "The final chapter from The Dollar Crisis"
+category: "money"
+standfirst: "Richard Duncan published his revised edition of _The Dollar Crisis_ in 2005. It is a remarkably prescient analysis of the the problems now facing the global economy. I reproduce the short and somewhat chilling final chapter from the book below."
 ---  
 Richard Duncan published his revised edition of _The Dollar Crisis_ in 2005. It is a remarkably prescient analysis of the the problems now facing the global economy. I reproduce the short and somewhat chilling final chapter from the book below.
 
@@ -43,4 +43,4 @@ Nevertheless, despite the best efforts of policymakers to keep the dollar standa
 
 Any one of the first four scenarios could undermine the dollar standard, but the final scenario, where interest rates fall very near 0%, would certainly deal it a fatal blow. From that point, the only option left to stimulate aggregate demand would be to drop paper money from helicopters. That too would fail, however, for who would accept paper dropped from helicopters in exchange for real goods and services? Hyperinflation would quickly set in. Economic transactions would then be conducted through barter rather than via the medium of a debased script. Eventually, a gold standard would re-emerge.
 
-Exactly how these events will unfold is impossible to forecast; nevertheless, the eventual outcome is within sight. The dollar standard is inherently flawed and increasingly unstable. Its demise is imminent. The only question is, will it be death by fire — hyperinflation — or death by ice — deflation? Fortunes will be made and lost, depending on the answer to that question.
+Exactly how these events will unfold is impossible to forecast; nevertheless, the eventual outcome is within sight. The dollar standard is inherently flawed and increasingly unstable. Its demise is imminent. The only question is, will it be death by fire -- hyperinflation -- or death by ice -- deflation? Fortunes will be made and lost, depending on the answer to that question.

@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Deflation is not inevitable
-category: money
-standfirst: London Banker wrote a piece recently on the inevitability of deflation and I just wanted to say that deflation is not inevitable at all. Inflation seems more likely.
+layout: default
+title: "Deflation is not inevitable"
+category: "money"
+standfirst: "London Banker wrote a piece recently on the inevitability of deflation and I just wanted to say that deflation is not inevitable at all. Inflation seems more likely."
 ---  
 London Banker wrote a piece recently on the inevitability of deflation and I just wanted to say that deflation is not inevitable at all. Inflation seems more likely.
 

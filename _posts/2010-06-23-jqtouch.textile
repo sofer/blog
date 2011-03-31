@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Loading jQTouch files
-category: tech
-standfirst: When adding jQTouch files to a web a page, order matters.
+layout: default
+title: "Loading jQTouch files"
+category: "tech"
+standfirst: "When adding jQTouch files to a web a page, order matters."
 ---  
 When adding jQTouch files to a web a page, order matters.
 

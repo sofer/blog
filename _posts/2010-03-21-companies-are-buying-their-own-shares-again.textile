@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Companies are buying back their shares again
-category: money
-standfirst: This week's Economist mentioned that Companies are buying lots of their own shares again
+layout: default
+title: "Companies are buying back their shares again"
+category: "money"
+standfirst: "This week's Economist mentioned that Companies are buying lots of their own shares again"
 ---  
 This week's Economist mentioned that "Companies are buying lots of their own shares again":http://www.economist.com/business-finance/displaystory.cfm?story_id=15731252:
 
@@ -22,4 +22,4 @@ p(quote). "In practice, buy-backs tend to occur when firms lack other sensible u
 
 In other words, rising stock markets are just another sign of our current malaise.
 
-[1] Valuing Wall Street by Andrew Smithers and Stephen Wright. McGraw Hill, 2000, pages 151-2
+fn1. Valuing Wall Street by Andrew Smithers and Stephen Wright. McGraw Hill, 2000, pages 151-2

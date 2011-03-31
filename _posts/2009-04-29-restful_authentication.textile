@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Misadventures with Restful Authentication
-category: tech
-standfirst: This may seem trivial to some people, but I got a bit confused finding a path through the Restful Authentication plugin for Rails.
+layout: default
+title: "Misadventures with Restful Authentication"
+category: "tech"
+standfirst: "This may seem trivial to some people, but I got a bit confused finding a path through the Restful Authentication plugin for Rails."
 ---  
 This may seem trivial to some people, but I got a bit confused finding a path through the "Restful Authentication plugin":http://github.com/technoweenie/restful-authentication for Rails.
 

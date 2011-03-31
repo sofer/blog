@@ -1,8 +1,8 @@
 ---
-layout: post
-title: How could we get out of this mess?
-category: money
-standfirst: Working on my predictions for 2009, got me thinking about how we could negotiate a way out of the mess we have got ourselves into. The only way I can see of doing this is through an unprecedented degree of co-operation between central banks and with a reordering of the global system for settling international exchange.
+layout: default
+title: "How could we get out of this mess?"
+category: "money"
+standfirst: "Working on my predictions for 2009, got me thinking about how we could negotiate a way out of the mess we have got ourselves into. The only way I can see of doing this is through an unprecedented degree of co-operation between central banks and with a reordering of the global system for settling international exchange."
 ---  
 Working on my predictions for 2009, got me thinking about how we could negotiate a way out of the mess we have got ourselves into. The only way I can see of doing this is through an unprecedented degree of co-operation between central banks and with a reordering of the global system for settling international exchange.
 

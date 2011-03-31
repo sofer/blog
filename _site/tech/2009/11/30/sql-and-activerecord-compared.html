@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SQL and ActiveRecord compared</title>
+<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+<!--[if lt IE 8]>
+    <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+
+<body>
+<h1>SQL and ActiveRecord compared</h1>
+
 <p>Some comparisons of ActiveRecord method calls and the equivalent <span class="caps">SQL</span> for associations, starting simple and progressing to joins and chained joins.</p>
 <p>User.first<br />
 <code>SELECT * FROM "users" LIMIT 1</code></p>
@@ -98,5 +112,7 @@ WHERE ("posts"."id" = 999)
 <p>This selects all the users who are members of groups to which the post with an id of 999 has been posted.</p>
 <p>Note the use of the <code>:select</code> option in order to return only distinct users.</p>
 <p>And note again the selective pluralization of the hash keys to capture the nature of each association.</p>
-<p>See <a href="http://www.xcombinator.com/2008/04/08/chaining-includes-in-rails-to-reduce-the-number-of-sql-queries/">Chaining :include’s in Rails to reduce the number of <span class="caps">SQL</span> queries</a> and <br />
+<p>See <a href="http://www.xcombinator.com/2008/04/08/chaining-includes-in-rails-to-reduce-the-number-of-sql-queries/">Chaining :include&#8217;s in Rails to reduce the number of <span class="caps">SQL</span> queries</a> and <br />
 <a href="http://ryandaigle.com/articles/2008/7/7/what-s-new-in-edge-rails-easy-join-table-conditions">What&#8217;s New in Edge Rails: Easy Join Table Conditions</a></p>
+</body>
+</html>

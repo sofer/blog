@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Only one way out of debt: inflation
-category: money
-standfirst: When talking about debt levels, it is important to distinguish between private and public debt. While the ratio of public debt to GDP has in the past been higher than it is now, the ratio of private debt to GDP is at levels far higher than at any time in history. It is private sector debt more than public debt that is weighing down the global economy and which is going to make a return to normality so difficult.
+layout: default
+title: "Only one way out of debt: inflation"
+category: "money"
+standfirst: "When talking about debt levels, it is important to distinguish between private and public debt. While the ratio of public debt to GDP has in the past been higher than it is now, the ratio of private debt to GDP is at levels far higher than at any time in history. It is private sector debt more than public debt that is weighing down the global economy and which is going to make a return to normality so difficult."
 ---  
 When talking about debt levels, it is important to distinguish between private and public debt. While the ratio of public debt to GDP has in the past been higher than it is now, the ratio of private debt to GDP is at levels far higher than at any time in history. It is private sector debt more than public debt that is weighing down the global economy and which is going to make a return to normality so difficult.
 

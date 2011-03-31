@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Updating attributes in Rails
-category: tech
-standfirst: When I save data in Rails, I continually misuse the different methods available, so that my code is sprinkled with @save@, @save!@, @save(false)@, @update_attribute@, @update_attributes@ and so on. I also often introduce bugs by assigning a new value to an attribute and then forgetting to update it.
+layout: default
+title: "Updating attributes in Rails"
+category: "tech"
+standfirst: "When I save data in Rails, I continually misuse the different methods available, so that my code is sprinkled with @save@, @save!@, @save(false)@, @update_attribute@, @update_attributes@ and so on. I also often introduce bugs by assigning a new value to an attribute and then forgetting to update it."
 ---  
 When I save data in Rails, I continually misuse the different methods available, so that my code is sprinkled with @save@, @save!@, @save(false)@, @update_attribute@, @update_attributes@ and so on. I also often introduce bugs by assigning a new value to an attribute and then forgetting to update it.
 

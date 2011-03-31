@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Keynes on Commodities
-category: money
-standfirst: From the Manchester Guardian Commercial, 29 March 1923.
+layout: default
+title: "Keynes on Commodities"
+category: "money"
+standfirst: "From the Manchester Guardian Commercial, 29 March 1923."
 ---  
 From the Manchester Guardian Commercial, 29 March 1923.
 
@@ -30,11 +30,11 @@ And on the fall in commodity prices at the beginning of the Great Depression:
 
 Notes:
 
-[1] The Collected Works of John Maynard Keynes, Volume XII, p. 256-7
-[2] ibid., p. 260-1
-[3] ibid., p. 262
-[4] ibid., p. 262-3
-[5] ibid., p. 264
-[6] ibid., p. 265
-[7] ibid., p. 535
-[8] ibid., p. 647
+fn1. The Collected Works of John Maynard Keynes, Volume XII, p. 256-7
+fn2. ibid., p. 260-1
+fn3. ibid., p. 262
+fn4. ibid., p. 262-3
+fn5. ibid., p. 264
+fn6. ibid., p. 265
+fn7. ibid., p. 535
+fn8. ibid., p. 647

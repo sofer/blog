@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Wolf on deficits
-category: money
-standfirst: In his article, Demand shortfall casts doubt on early austerity Martin Wolf disagrees with the current enthusiasm for cutting current public expenditure.
+layout: default
+title: "Wolf on deficits"
+category: "money"
+standfirst: "In his article, Demand shortfall casts doubt on early austerity Martin Wolf disagrees with the current enthusiasm for cutting current public expenditure."
 ---  
 In his article, "Demand shortfall casts doubt on early austerity":http://www.ft.com/cms/s/0/f8b5bd90-892f-11df-8ecd-00144feab49a.html, Martin Wolf disagrees with the current enthusiasm for cutting current public expenditure.
 

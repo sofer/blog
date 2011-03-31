@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Text to voice from a web page
-category: tech
-standfirst: Text-to-voice software and synthesised voices are getting to the point where they are really quite impressive and certainly usable. I recently discovered Acapela's range of multilingual voices and I want to use them. However, accessing a computer's voices from within a web page is not entirely trivial.
+layout: default
+title: "Text to voice from a web page"
+category: "tech"
+standfirst: "Text-to-voice software and synthesised voices are getting to the point where they are really quite impressive and certainly usable. I recently discovered Acapela's range of multilingual voices and I want to use them. However, accessing a computer's voices from within a web page is not entirely trivial."
 ---  
 Text-to-voice software and synthesised voices are getting to the point where they are really quite impressive and certainly usable. I recently discovered Acapela's range of multilingual voices and I want to use them. However, accessing a computer's voices from within a web page is not entirely trivial.
 

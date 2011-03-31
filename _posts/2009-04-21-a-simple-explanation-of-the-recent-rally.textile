@@ -1,8 +1,8 @@
 ---
-layout: post
-title: A simple explanation of the recent rally
-category: money
-standfirst: John Authors in yesterday's FT gave a simple and entirely plausible explanation for the recent rally in stocks: an increase in the significance of mutual funds at the expense of hedge funds.
+layout: default
+title: "A simple explanation of the recent rally"
+category: "money"
+standfirst: "John Authors in yesterday's FT gave a simple and entirely plausible explanation for the recent rally in stocks: an increase in the significance of mutual funds at the expense of hedge funds."
 ---  
 John Authors in yesterday's FT gave "a simple and entirely plausible explanation":http://www.ft.com/cms/s/0/1281ed1e-2dd0-11de-9eba-00144feabdc0.html for the recent rally in stocks: an increase in the significance of mutual funds at the expense of hedge funds.
 

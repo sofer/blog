@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Layouts in Rails
-category: tech
-standfirst: I have a tendency to multiply layouts in Rails, so that after I have defined the main application layout in @/app/views/layouts.application.html.erb@, I create different layouts for different controllers as needed. That's all OK, except that I find myself cutting and pasting from the application layout which is just wrong, wrong, wrong.
+layout: default
+title: "Layouts in Rails"
+category: "tech"
+standfirst: "I have a tendency to multiply layouts in Rails, so that after I have defined the main application layout in @/app/views/layouts.application.html.erb@, I create different layouts for different controllers as needed. That's all OK, except that I find myself cutting and pasting from the application layout which is just wrong, wrong, wrong."
 ---  
 I have a tendency to multiply layouts in Rails, so that after I have defined the main application layout in @/app/views/layouts.application.html.erb@, I create different layouts for different controllers as needed. That's all OK, except that I find myself cutting and pasting from the application layout which is just wrong, wrong, wrong.
 

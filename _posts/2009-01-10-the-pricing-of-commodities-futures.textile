@@ -1,8 +1,8 @@
 ---
-layout: post
-title: The pricing of commodities futures
-category: money
-standfirst: Storing a commodity costs money. This cost of carry tends to exert a gentle upward pressure on the current prices for future delivery of that commodity. This can produce what is described as a normal or upward sloping yield curve. A futures market in this state is said to be in contango.
+layout: default
+title: "The pricing of commodities futures"
+category: "money"
+standfirst: "Storing a commodity costs money. This cost of carry tends to exert a gentle upward pressure on the current prices for future delivery of that commodity. This can produce what is described as a normal or upward sloping yield curve. A futures market in this state is said to be in contango."
 ---  
 Storing a commodity costs money. This cost of carry tends to exert a gentle upward pressure on the current prices for future delivery of that commodity. This can produce what is described as a normal or upward sloping yield curve. A futures market in this state is said to be in contango.
 
@@ -28,6 +28,6 @@ Markets in contango impose a cost on buying forward contracts, whereas markets i
 
 Note: this post was updated on 26 January.
 
-[1] The Collected Works of John Maynard Keynes, Volume XII, p. 262
-[2] ibid., p. 602
-[3] http://www.invest.gold.org/sites/en/why_gold/demand_and_supply/
+fn1. The Collected Works of John Maynard Keynes, Volume XII, p. 262
+fn2. ibid., p. 602
+fn3. http://www.invest.gold.org/sites/en/why_gold/demand_and_supply/

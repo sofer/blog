@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Different views of what to do about the UK banks
-category: money
-standfirst: There is a worrying divergence of opinions on the subject of toxic bank assets.
+layout: default
+title: "Different views of what to do about the UK banks"
+category: "money"
+standfirst: "There is a worrying divergence of opinions on the subject of toxic bank assets."
 ---  
 There is a worrying divergence of opinions on the subject of toxic bank assets.
 

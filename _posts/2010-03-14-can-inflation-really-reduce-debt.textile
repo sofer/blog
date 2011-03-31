@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Can inflation really reduce the level of debt?
-category: money
-standfirst: In my recent summary of George Cooper's The origin of financial crises I mentioned his suggestion that we should create inflation, in order to reduce the real level of debt.
+layout: default
+title: "Can inflation really reduce the level of debt?"
+category: "money"
+standfirst: "In my recent summary of George Cooper's The origin of financial crises I mentioned his suggestion that we should create inflation, in order to reduce the real level of debt."
 ---  
 In my recent summary of George Cooper's "The origin of financial crises":http://sofer.com/blog/the-origin-of-the-financial-crisis.html, I mentioned his suggestion that we should create inflation, in order to reduce the real level of debt.
 

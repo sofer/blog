@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Trouble ahead for China
-category: money
-standfirst: Let's remind ourselves, that at the root of the current financial crisis are imbalances of international payments that have created currency surpluses which have in turn fed back into the financial system in the form of cheap and plentiful credit. The only possible resolution to the crisis that will not create yet another crisis in the near future is an end to significant and persistent imbalances of global payments.
+layout: default
+title: "Trouble ahead for China"
+category: "money"
+standfirst: "Let's remind ourselves, that at the root of the current financial crisis are imbalances of international payments that have created currency surpluses which have in turn fed back into the financial system in the form of cheap and plentiful credit. The only possible resolution to the crisis that will not create yet another crisis in the near future is an end to significant and persistent imbalances of global payments."
 ---  
 Let's remind ourselves, that at the root of the current financial crisis are imbalances of international payments that have created currency surpluses which have in turn fed back into the financial system in the form of cheap and plentiful credit. The only possible resolution to the crisis that will not create yet another crisis in the near future is an end to significant and persistent imbalances of global payments.
 

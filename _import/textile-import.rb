@@ -23,7 +23,10 @@ def convert_copy(text)
   #text.gsub!(/("[^"]+")/, '_\1_')
   #text.gsub!(/^(\[\d+\])/, '\1:')
   #text.gsub!('--', '–')
-  #text.gsub!('’', "'")
+  text.gsub!('–', '--')
+  text.gsub!('—', '--')
+  text.gsub!(/^\[(\d+)\]/, 'fn\1.')
+  text.gsub!('’', "'")
   return text
 end
 
@@ -38,15 +41,17 @@ def convert_to_textile(filename)
   text = File.read($indir+'/'+filename)
   first_line, text = text.split("\n", 2)
   title, date, tags = split_first_line(first_line)
+  title.gsub!('"', '\"')
   text = convert_copy(text).strip
   standfirst, ignore = text.split("\n",2)  
   standfirst = strip_standfirst(standfirst)
+  standfirst.gsub!('"', '\"')
   out = <<END
 ---
-layout: post
-title: #{title}
-category: #{tags}
-standfirst: #{standfirst}
+layout: default
+title: "#{title}"
+category: "#{tags}"
+standfirst: "#{standfirst}"
 ---  
 #{text}
 END

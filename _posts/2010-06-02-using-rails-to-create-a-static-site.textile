@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Using Rails to create a static site
-category: tech
-standfirst: I have a Rails-driven website which changes infrequently and contains mostly static content. It is cheaper and almost as convenient to run it as a static site than to run it as a Rails app.
+layout: default
+title: "Using Rails to create a static site"
+category: "tech"
+standfirst: "I have a Rails-driven website which changes infrequently and contains mostly static content. It is cheaper and almost as convenient to run it as a static site than to run it as a Rails app."
 ---  
 I have a Rails-driven website which changes infrequently and contains mostly static content. It is cheaper and almost as convenient to run it as a static site than to run it as a Rails app.
 

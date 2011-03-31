@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Named scopes and has_many :through relations in Rails
-category: tech
-standfirst: Named scopes in rails make for tidier code.
+layout: default
+title: "Named scopes and has_many :through relations in Rails"
+category: "tech"
+standfirst: "Named scopes in rails make for tidier code."
 ---  
 Named scopes in rails make for tidier code.
 

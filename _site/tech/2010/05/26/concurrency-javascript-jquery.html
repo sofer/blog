@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Concurrency, Javascript and JQuery</title>
+<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+<!--[if lt IE 8]>
+    <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+
+<body>
+<h1>Concurrency, Javascript and JQuery</h1>
+
 <p>In any block of code, execution is sequential. Each line of code will not execute until the previous line has executed. If a line contains a function call, then the next line will begin execution after that function returns a value. If the function continues to execute code even after it returns a value, then the code in the original block is no longer executing sequentially, in other words two different blocks of code are running concurrently. Concurrency is generally achieved in software by some implementation of threads.</p>
 <h2>Asynchronous Javascript</h2>
 <p>In the context of a javascript web application, events such as making remote requests and receiving keyboard input occur asynchronously. For example, a user might make a keystroke while a remote request is still executing.</p>
@@ -7,3 +21,5 @@
 <p>A callback is code which is passed as an argument. Javascript accepts callbacks, and both <code>setTimeout()</code> and <code>setInterval()</code> can take functions (i.e. code) as their first argument. JQuery uses callbacks in order to implement arbitrary event-handling code.</p>
 <p>The <code>$(document).ready()</code> function in JQuery takes a callback, but only after an application page and its associated <span class="caps">DOM</span> has loaded.</p>
 <p><code>$(document).ready()</code> can also be written as <code>JQuery()</code> or just <code>$()</code>.</p>
+</body>
+</html>

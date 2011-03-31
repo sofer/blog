@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Keeping controllers very simple in Rails
-category: tech
-standfirst: I have some tables that I am populating from a CSV file and it took me a little while to work out where to unpack the contents of the file. In the end, it was obvious that the place for it was in the model. In realising this I had the epiphany (again!) that controllers should really be kept very, very simple.
+layout: default
+title: "Keeping controllers very simple in Rails"
+category: "tech"
+standfirst: "I have some tables that I am populating from a CSV file and it took me a little while to work out where to unpack the contents of the file. In the end, it was obvious that the place for it was in the model. In realising this I had the epiphany (again!) that controllers should really be kept very, very simple."
 ---  
 I have some tables that I am populating from a CSV file and it took me a little while to work out where to unpack the contents of the file. In the end, it was obvious that the place for it was in the model. In realising this I had the epiphany (again!) that controllers should really be kept very, very simple.
 

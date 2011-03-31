@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Using Rails to create a static site</title>
+<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+<!--[if lt IE 8]>
+    <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+
+<body>
+<h1>Using Rails to create a static site</h1>
+
 <p>I have a Rails-driven website which changes infrequently and contains mostly static content. It is cheaper and almost as convenient to run it as a static site than to run it as a Rails app.</p>
 <p>A Google search threw up <a href="http://www.chuckvose.com/articles/2006/04/20/monkey">Using Rails to Create a Static Site</a>, which describes a method for doing what I want by tweaking the Rails app and then using <code>wget</code> to generate the site. I used a slightly different method to the one described.</p>
 <h2>Step 1: change the routing</h2>
@@ -22,3 +36,5 @@
 <p><code>tar -xf site.tar</code></p>
 <p>And delete the tar file.</p>
 <p>Job done.</p>
+</body>
+</html>

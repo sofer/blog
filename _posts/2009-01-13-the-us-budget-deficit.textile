@@ -1,8 +1,8 @@
 ---
-layout: post
-title: The US budget deficit
-category: money
-standfirst: Brad Setser wrote a piece yesterday on |http://blogs.cfr.org/setser/2009/01/12/the-us-government-has-already-proved-it-can-raise-over-15-trillion-in-a-year|the funding of the US budget deficit| in which he points out that central banks are not responsible for most of the recent growth in the holdings of US Treasuries--the US private sector is. Meanwhile, Constantin Gurdgiev  |http://trueeconomics.blogspot.com/2009/01/near-sovereign-bonds-next-frontier.html|thinks that Treasuries are likely to go belly up later this year|, when the risk of deflation subsides.
+layout: default
+title: "The US budget deficit"
+category: "money"
+standfirst: "Brad Setser wrote a piece yesterday on |http://blogs.cfr.org/setser/2009/01/12/the-us-government-has-already-proved-it-can-raise-over-15-trillion-in-a-year|the funding of the US budget deficit| in which he points out that central banks are not responsible for most of the recent growth in the holdings of US Treasuries--the US private sector is. Meanwhile, Constantin Gurdgiev  |http://trueeconomics.blogspot.com/2009/01/near-sovereign-bonds-next-frontier.html|thinks that Treasuries are likely to go belly up later this year|, when the risk of deflation subsides."
 ---  
 Brad Setser wrote a piece yesterday on |http://blogs.cfr.org/setser/2009/01/12/the-us-government-has-already-proved-it-can-raise-over-15-trillion-in-a-year|the funding of the US budget deficit| in which he points out that central banks are not responsible for most of the recent growth in the holdings of US Treasuries--the US private sector is. Meanwhile, Constantin Gurdgiev  |http://trueeconomics.blogspot.com/2009/01/near-sovereign-bonds-next-frontier.html|thinks that Treasuries are likely to go belly up later this year|, when the risk of deflation subsides.
 

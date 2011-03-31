@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Schadenfreude
-category: money
-standfirst: One outcome of the last few weeks has been that politicians around the world have been taking the opportunity to feel smug about the ongoing crisis. 
+layout: default
+title: "Schadenfreude"
+category: "money"
+standfirst: "One outcome of the last few weeks has been that politicians around the world have been taking the opportunity to feel smug about the ongoing crisis. "
 ---  
 One outcome of the last few weeks has been that politicians around the world have been taking the opportunity to feel smug about the ongoing crisis. 
 

@@ -1,8 +1,8 @@
 ---
-layout: post
-title: On Greek debt
-category: money
-standfirst: Greek government debt is not really a problem for the Greek people so much as for overseas creditors, primarily  banks and their shareholders. If there is a bailout it will largely benefit not the Greek people, but the greying populations of Northern Europe who, through their pension funds, own the banks that are most vulnerable to a Greek default. 
+layout: default
+title: "On Greek debt"
+category: "money"
+standfirst: "Greek government debt is not really a problem for the Greek people so much as for overseas creditors, primarily  banks and their shareholders. If there is a bailout it will largely benefit not the Greek people, but the greying populations of Northern Europe who, through their pension funds, own the banks that are most vulnerable to a Greek default. "
 ---  
 Greek government debt is not really a problem for the Greek people so much as for overseas creditors, primarily  banks and their shareholders. If there is a bailout it will largely benefit not the Greek people, but the greying populations of Northern Europe who, through their pension funds, own the banks that are most vulnerable to a Greek default. 
 
