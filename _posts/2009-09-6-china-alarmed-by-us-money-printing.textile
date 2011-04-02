@@ -1,0 +1,11 @@
+---
+layout: default
+title: "China alarmed by US money printing"
+category: "money"
+standfirst: "Cheng Siwei, former vice-chairman of the Standing Committee and now head of China's green energy drive: _\"Gold is definitely an alternative, but when we buy, the price goes up. We have to do it carefully so as not to stimulate the markets\"_."
+---  
+Cheng Siwei, former vice-chairman of the Standing Committee and now head of China's green energy drive: _"Gold is definitely an alternative, but when we buy, the price goes up. We have to do it carefully so as not to stimulate the markets"_.
+
+"Quoted":http://www.telegraph.co.uk/finance/economics/6146957/China-alarmed-by-US-money-printing.html by Ambrose Evans-Pritchard today in the Telegraph. Pritchard goes on to say:
+
+p(quote). "The comments suggest that China has become the driving force in the gold market and can be counted on to buy whenever there is a price dip, putting a floor under any correction."

@@ -26,7 +26,7 @@ _config.yml
 
 If there is no config.yml, it will use its own defaults. The layouts file is where you put the layouts that are defined (in the YAML front matter) in each page. If there is a _posts file, Jekyll will process them with a date-based folder structure, if the files are named in the form YEAR-MONTH-DAY-title.MARKUP (where MARKUP is a recognized extension, such as "textile"). The _site folder, which will be created if it doesn't exist, is where the processed site goes after Jekyll has run.
 
-So, the minimum that Jekyll requires to run usefully is some marked up files with YAML front matter at the top of them and some layouts in the _layouts folder. You only need the _posts folder if you want a date-based folder structure for your content.
+So, the minimum that Jekyll requires to run usefully is some marked up files with YAML front matter at the top of them and some layouts in the _layouts folder. You only need the _posts folder if you want a date-based folder structure for your content--which I do.
 
 The config.yml file can be used to exclude the compass files.
 

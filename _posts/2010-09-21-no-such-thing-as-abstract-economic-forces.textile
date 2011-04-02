@@ -1,0 +1,9 @@
+---
+layout: default
+title: "There is no such thing as abstract economic forces"
+category: "money"
+standfirst: "p(quote). \"when looking at economic phenomena, be they the financial crisis or the vast increase in inequality of the past thirty years, it's politics that matters, not just abstract economic forces. One of the singular victories of the rich has been convincing the rest of us that their disproportionate success has been due to abstract economic forces beyond anyone's control (technology, globalization, etc.), not old-fashioned power politics. Hopefully the financial crisis and the recession that has ended only on paper (if that) will provide the opportunity to teach people that there is no such thing as abstract economic forces; instead, there are different groups using the political system to fight for larger shares of society's wealth. And one group has been winning for over thirty years.\""
+---  
+p(quote). "when looking at economic phenomena, be they the financial crisis or the vast increase in inequality of the past thirty years, it's politics that matters, not just abstract economic forces. One of the singular victories of the rich has been convincing the rest of us that their disproportionate success has been due to abstract economic forces beyond anyone's control (technology, globalization, etc.), not old-fashioned power politics. Hopefully the financial crisis and the recession that has ended only on paper (if that) will provide the opportunity to teach people that there is no such thing as abstract economic forces; instead, there are different groups using the political system to fight for larger shares of society's wealth. And one group has been winning for over thirty years."
+
+"James Kwak, The Baseline Scenario":http://baselinescenario.com/2010/09/13/the-importance-of-the-1970s/#more-8026

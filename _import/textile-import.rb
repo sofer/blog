@@ -4,7 +4,7 @@
 # start one file at a time
 
 $indir = File.dirname(File.expand_path($0))
-$outdir = $indir.sub(/\w+$/, 'posts')
+$outdir = $indir.sub(/\w+$/, '_posts')
 
 # special treatement for first line in form title|date|tags
 def split_first_line(line)
@@ -50,13 +50,12 @@ def convert_to_textile(filename)
 ---
 layout: default
 title: "#{title}"
-date: #{date}
 category: "#{tags}"
 standfirst: "#{standfirst}"
 ---  
 #{text}
 END
-  outfilename = filename.sub(/\.txt$/, ".textile")
+  outfilename = date + '-' + filename.sub(/\.txt$/, ".textile")
   outfilepath = $outdir+'/'+outfilename
   outfile = File.open(outfilepath, 'w')
   outfile << out

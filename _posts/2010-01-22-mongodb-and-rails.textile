@@ -1,0 +1,15 @@
+---
+layout: default
+title: "MongoDB and Rails"
+category: "tech"
+standfirst: "I have been tinkering with MongoDB and the MongoMapper gem for Rails and creating a MongoDB-based Rails project is pretty easy."
+---  
+I have been tinkering with "MongoDB":http://www.mongodb.org/ and the "MongoMapper":http://github.com/jnunemaker/mongomapper gem for Rails and creating a MongoDB-based Rails project is pretty easy.
+
+Ryan Bates has an "excellent screencast":http://railscasts.com/episodes/194-mongodb-and-mongomapper on using MongoMapper, although he doesn't mention testing. Despite this, setting up a "Cucumber":http://cukes.info -based test environment is  possible as long as you are careful about how you do it. Ben Scofield has published a very helpful "Application template":http://gist.github.com/181842 and Nicolas M&eacute;rouze has recently written up his "Machinist adapter for MongoDB":http://github.com/nmerouze/machinist_mongo.
+
+However, testing is not all straight forward. If you want to use "Pickle":http://github.com/ianwhite/pickle then you are currently out of luck, because "pickle is dependent on ActiveRecord":http://groups.google.com/group/pickle-cucumber/browse_thread/thread/20044181e179471d.
+
+In fact, many Rails plugins depend on ActiveRecord and none of these will work with MongoMapper. I can't use scaffolding and "named scopes are not yet available":http://groups.google.com/group/mongomapper/browse_thread/thread/3e2841ef5229c0a4 either.
+
+So, I am probably not quite ready to use MongoDB in my Rails applications yet. Maybe in a few months.

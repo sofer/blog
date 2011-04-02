@@ -1,0 +1,73 @@
+---
+layout: default
+title: "Named scopes and has_many :through relations in Rails"
+category: "tech"
+standfirst: "Named scopes in rails make for tidier code."
+---  
+Named scopes in rails make for tidier code.
+
+Instead of:
+
+@Response.find( :conditions => {:result => 'correct' } )@
+
+A named scope in the Response model looks like this:
+
+@named_scope :correct, :conditions => { :result => 'correct' }@
+
+and allows me to say:
+
+@Response.correct@
+
+Or, more usefully:
+
+@Question.last.responses.correct@
+
+This will even work with a has_many :through relationship:
+
+<pre>
+<code>
+class Course < ActiveRecord::Base
+  has_many :questions
+  has_many :responses, :through => :questions
+  ...
+end
+
+Course.last.responses.correct
+</code>
+</pre>
+
+However,  in Rails 2.2.2 there is a problem with named scopes that use inequalities. This usually requires a slightly different formulation of the @:conditions@ like this:
+
+@named_scope :recent, :conditions => [ 'created_at > ?',  Time.now - 3600 ]@
+
+Which allows me to say:
+
+@Question.last.responses.recent@
+
+But not:
+
+@Course.questions.last.responses.recent@
+
+The first method produces:
+
+@SELECT * FROM `responses` WHERE (`responses`.question_id = 123) AND (created_at > '2009-06-13 22:21:38')@ 
+
+Whereas the second method produces:
+
+@SELECT `responses`.* FROM `responses` INNER JOIN questions ON responses.question_id = questions.id WHERE ((`questions`.course_id = 10)) AND (created_at > '2009-06-13 22:21:38')@
+
+Which causes the Rails log to complain:
+
+@Mysql::Error: Column 'created_at' in where clause is ambiguous@
+
+In other words, because of the way Rails translates the @named_scope@ into SQL, it is not clear whether that inner join is selecting on @questions.created_at@ or @responses.created_at@.
+
+A simple workaround is to use ranges instead of inequalities:
+
+@named_scope :recent, :conditions => {:created_at =>  Time.now-3600..Time.now}@
+
+Which generates slightly different, and unambiguous, SQL:
+
+@SELECT `responses`.* FROM `responses` INNER JOIN questions ON responses.question_id = questions.id WHERE ((`questions`.course_id = 10)) AND (`responses`.`created_at` BETWEEN '2009-06-13 22:33:27' AND '2009-06-13 23:33:27')@
+
+This is unlikely to be the most elegant solution to the problem, but it works, which is good enough for me--at least for now.
