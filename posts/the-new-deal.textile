@@ -1,0 +1,72 @@
+---
+layout: default
+title: "What Lessons does the New Deal hold for us?"
+date: 2009-01-24
+category: "money"
+standfirst: "\"What are we to conclude about the efficacy of credit creation [between 1933 and 1936] as a means of attaining recovery? All conclusions must necessarily be tentative, but it seems to be clear that the effects have been smaller and slower in appearing than was claimed by the advocates of the theory [that the central bank can stimulate recovery by creating credit]. It seems to require a very great expansion of the base of the structure, continued for a considerable time, before the appearance of an adequate rise in the stream of money, which alone can affect the size of individual incomes.\" "
+---  
+"What are we to conclude about the efficacy of credit creation [between 1933 and 1936] as a means of attaining recovery? All conclusions must necessarily be tentative, but it seems to be clear that the effects have been smaller and slower in appearing than was claimed by the advocates of the theory [that the central bank can stimulate recovery by creating credit]. It seems to require a very great expansion of the base of the structure, continued for a considerable time, before the appearance of an adequate rise in the stream of money, which alone can affect the size of individual incomes." [1]
+
+
+
+In the US, there has been some recent discussion about what lessons the New Deal holds for us |http://www.forbes.com/2008/12/03/new-deal-debate-oped-cx_df_1203furchtgottroth.html|here|,  |http://www.nytimes.com/2008/11/10/opinion/10krugman.html|here|, |http://online.wsj.com/article/SB122792327402265913.html|here| and |http://www.nytimes.com/2009/01/12/opinion/12mon4.html|here|.
+
+Meanwhile, I have been reading an account from The Economist of the New Deal, published in 1937, which unsurprisingly has quite a lot to say on the subject:
+
+"The size of the public works programme [from 1933-36], as such, has been exaggerated. Its net result has been to restore the average expenditure on public construction to about 60 per cent. of its pre-depression level...The plain truth is that in the United States public works have not been increased; they have merely been prevented from fading altogether away." [2]
+
+"It would be prudent and, perhaps, on balance, judicious to conclude that the deficit expenditures neither delayed 'spontaneous' recovery nor created it. But they nevertheless filled the gap until spontaneous recovery appeared." [3]
+
+"If the criterion be Utopian, the achievements of the New Deal appear to be small. Relief there has been, but little more than enough to keep the population fed, clothed and warmed. Recovery there has been, but only to a point still well below the pre-depression level. The great problems of the country are still hardly touched. There has been no permanent readjustment of agriculture to meet its changed environment. Very little has been done to iron out the fluctuations of industrial production for the future. The monetary structure of the country, on balance, is less under control than formerly." [4]
+
+"If the New Deal be compared, not with the absolute standards of Utopia, but with the achievements of other Governments, the former adverse judgement must be modified. If it be compared with either the performance or the promise of its rivals, it comes out well. If its achievements be compared with the situation which confronted it in March, 1933, it is a striking success." [5]
+
+So, economists like Paul Krugman are expressing a conventional view that is 70 years old, when he talks of the New Deal bringing real relief to many Americans whilst providing little economic stimulus.
+
+Just as interesting from our own point of view is the Economist's view of the bank failures:
+
+"It is impossible to exaggerate the effect of this banking trouble in intensifying the depression. If reasons be sought for the greater severity of the depression in the United States than in Great Britain, this is undoubtedly the chief. A run by the public on the banks not merely reduces directly the circulating medium of the country, it also compels the banks to put every conceivable pressure on their debtors for repayment of loans and to dump securities on the Stock Exchanges. While such a deflation of credit is proceeding, the government is powerless to reverse the downward sweep of all the economic indices. In the fiscal year year 1931-32, the Federal deficit amounted to $2,473 millions and to that extent fresh funds were pumped into the system. But in the same period the total loans and investments of the banks of the country declined by $8,951 millions. Deflation of this nature imposes a creeping paralysis on the whole economic structure of a nation." [6]
+
+So, it is unsurprising that our government is |http://www.ft.com/cms/s/0/7de5d2f8-e601-11dd-8e4f-0000779fd2ac.html|prepared to take extreme measures| to maintain the solvency of the banking system.
+
+On the question of the sustainability of the stimulus now being provided by the US and UK governments, it is probably worth pointing out that the |http://en.wikipedia.org/wiki/United_States_public_debt|public debt of the US| is currently around 70% of GDP. It peaked at around 120% of GDP at the end of World War II. The |http://www.ukpublicspending.co.uk/uk_national_debt_chart.html|national debt of the UK government| was until recently around 50% and is now |http://www.telegraph.co.uk/finance/financetopics/recession/4291144/National-debt-will-be-three-quarters-of-countrys-wealth.html|possibly heading beyond 70%| of GDP. It peaked at around 250% of GDP at the end of the Napoleonic wars and again after World War II.
+
+So, having forgotten most of the |outline-of-money-revisited.html|lessons of the causes of the last depression| it is possible that they have heeded some of the lessons of its consequences and are prepared to take national public debt to levels never seen before in times of peace.
+
+Given this enthusiasm for public expenditure, the deflationary pressures that have been sending the prices of assets and commodities down in recent months seem likely at some point go into reverse--unless of course the assets of UK banks, previously  |http://www.independent.co.uk/news/business/analysis-and-features/the-big-question-could-the-government-bailout-of-the-banks-bankrupt-the-country-1452236.html|valued at around 400% of GDP|, are in even worse shape than currently seems plausible.
+
+Notes:
+
+
+fn1. The New Deal by the Editors of The Economist, published by Alfred A. Knopf,  1937. p.86-7
+
+
+fn2. ibid p.28
+
+
+fn3. ibid p.98
+
+
+fn4. ibid p.147
+
+
+fn5. ibid p.148-9
+
+
+fn6. ibid p.70
+
+
+
+A few other passages:
+
+"the Federal Reserve, far from being able to expand the credit structure still further, was prevented from buying securities to substitute for its maturing holdings of acceptances, which could not be replaced [because of the legal requirement that they be backed by sufficient reserves of gold], with the result that the total of Federal Reserve credit available to the market actually declined. These four months, from November, 1931, to February, 1932, were the period of severest deflation during the depression." [p.76]
+
+"the events of January and February, 1933, were to prove with alarming thoroughness that the strength of a banking system is that of its weakest bank." [p.69]
+
+"In so far as deficit financing expanded the stream of purchasing power, the palm must go to a rival theory, that of public expenditure, rather than to the theory of credit creation." [p.87]
+
+"It is perhaps permissible to conclude that, in the peculiar circumstances of the United States, the theory of credit creation and cheap money has hardly performed all that was expected of it by its advocates. It has undoubtedly stimulated some expansion, but it would seem doubtful whether more that a portion of the recovery of the last few years can be ascribed to it." [p.88]
+
+On the Securities Act of 1933 which created the SEC:
+
+"the prohibitions have rather outrun the possibilities of enforcement, as is typical of American legislation." [p.133]

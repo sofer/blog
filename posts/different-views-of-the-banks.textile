@@ -1,0 +1,30 @@
+---
+layout: default
+title: "Different views of what to do about the UK banks"
+date: 2009-01-25
+category: "money"
+standfirst: "There is a worrying divergence of opinions on the subject of toxic bank assets."
+---  
+There is a worrying divergence of opinions on the subject of toxic bank assets.
+
+Willam Buiter in the FT thinks that |http://blogs.ft.com/maverecon/2009/01/can-the-uk-government-stop-the-uk-banking-system-going-down-the-snyrting-without-risking-a-sovereign-debt-crisis/|the UK government must limit its exposure to bank debt|:
+
+"The balance sheets of the British banks are too large and the quality of the assets they hold too uncertain/dodgy, for the British government to be able to continue its current policy of extending its guarantees to ever-growing shares of the banks' liabilities and assets, without this impairing the solvency of the sovereign."
+
+On the other hand, Ambrose Evans-Pritchard in the Telegraph, says that |http://www.telegraph.co.uk/finance/comment/ambroseevans_pritchard/4299883/UK-cannot-take-Icelands-soft-option.html|to do so would be irresponsible|:
+
+"The foreign liabilities of the UK banks are $4.4 trillion--or twice annual GDP--according to the Bank of England...Indeed, if Britain walked away from UK banks' $4.4 trillion of foreign liabilities--worth eight times Lehman Brothers--it would destroy the credibility of the City and take the whole world into deeper depression...'The UK cannot go down that route because it would set off an asset price death spiral', said Marc Ostwald, a bond expert at Monument Securities. 'The Western banking system is already on life support. That would turn it off altogether.'...The banks have $4.4 trillion foreign assets to offset their liabilities, of course. But what is their real value in this climate?"
+
+Meanwhile, |http://www.ft.com/cms/s/0/3ec9b846-e8bd-11dd-a4d0-0000779fd2ac.html|Martin Wolf says|:
+
+"The government cannot safely guarantee any conceivable losses...[Willem Buiter] notes that, with balance sheets equal to 440 per cent of gross domestic product, these institutions might imperil the fiscal soundness of the UK itself. I suspect this danger is exaggerated...The dangers of letting some losses fall on creditors, via debt-for-equity swaps, are evident. Yet there may be no responsible alternative, particularly in view of the UK's vast ongoing fiscal deficits."
+
+So, how bad are the debts on the balance sheets of our banks? That is unknown because the future income stream from them is unknown, unknowable and highly dependent on the future trajectory of asset--particularly property--prices. If property prices continue to fall, so will the balance sheets of our banks deteriorate.
+
+So, almost above all else, our governments must do everything they can to slow the descent of property prices, not necessarily in real, but in monetary terms.
+
+And this is why offering |http://www.ft.com/cms/s/0/4e685500-e692-11dd-8e4f-0000779fd2ac.html|to insure some of the banks' most questionable assets against unexpectedly large losses| makes sense if the government--along with the governments of other bubble economies and particularly the US--are planning to target stable property prices (in monetary terms) as a policy goal.
+
+Given that the relative price of property is above historical averages, it seems not unlikely that an orderly fall in real property values combined with an orderly cleansing of bank balance sheets can only happen in an environment of price inflation. 
+
+Only government agencies (i.e. the central banks) are in a position to create this outcome and therefore only governments are in a position to insure the banks' most questionable assets at an affordable premium.

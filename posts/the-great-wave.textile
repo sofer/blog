@@ -1,0 +1,36 @@
+---
+layout: default
+title: "The Great Wave"
+date: 2008-12-15
+category: "money"
+standfirst: "I have been re-reading David Hackett Fischer's book, \"The Great Wave\", which puts our current difficulties in the context of an 800-year history of repeated periods of stability, growth, crisis and collapse."
+---  
+I have been re-reading David Hackett Fischer's book, "The Great Wave", which puts our current difficulties in the context of an 800-year history of repeated periods of stability, growth, crisis and collapse.
+
+His thesis is that we are now nearing the end of a great economic wave that has been building since the end of the Napoleonic wars and which was preceded by similar waves that broke in previous centuries. His arguments are supported by appendices, notes and a bibliography that together run to over 240 pages--almost half the length of the entire book.
+
+Aside from the reproduction of graphs of medieval price movements compiled by the German historian Wilhelm Abel, what is most intriguing about the book is the suggestion that far from comparing the current financial crisis to the stagflation of the 1970s or the Great Depression of the 1930s, we need to go back over 200 years to the time immediately before the revolutions of the eighteenth century to find a similar historical conjunction.
+
+I had forgotten it, but vaguely-remembered passages from this book have obviously informed my gloomy, yet optimistic, views of the world since I first read them.
+
+If Fischer's arguments appeared persuasive to me in 1996, when the book was first published, they seem even more so now. 
+
+His analysis is simple:
+
+"From the late eighteenth century to our own time, European crises tended to develop from structural imbalances and systemic instabilities...Prices surge and decline in swings of increasing amplitude. Markets of many kinds--capital markets, commodity markets, labor markets--become dangerously unstable. Production and productivity decline or stagnate, while prices continue to rise; together these trends create stagflation...The later stages of every price-revolution were always a time when inequalities of wealth and income increased, primarily because of disparities in the movements of prices, wages, rents, interest and production." [1]
+
+The effects are clear: 
+
+"From Boston to Buenos Aires, the price of consumables trebled between 1794 and 1814...Real wages plummeted, and poverty increased so rapidly that by 1812 more than half of all English families were dependent on some sort of poor relief." [2]
+
+So, the expectation now is for rising instability and inflation, declining real wages and epic wealth destruction, such has not been seen for generations.
+
+But--and here is the good news--eventually, we can look forward to a period of relative calm, equality and progress, not entirely different, perhaps, from the Renaissance or the Enlightenment both of which followed earlier crises.
+
+Notes:
+
+
+fn1. pages 248, 249
+
+
+fn2. pages 152, 153

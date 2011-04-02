@@ -1,0 +1,18 @@
+---
+layout: default
+title: "The Economist in an upbeat mood"
+date: 2009-04-25
+category: "money"
+standfirst: "This week The Economist has used their front cover to make it clear what they think of any glimmers of hope there might be in the world economy. _\"The worst thing for the world economy\"_, they say, _\"would be to assume the worst is over\"_."
+---  
+This week The Economist has used their front cover to make it clear what they think of any glimmers of hope there might be in the world economy. _"The worst thing for the world economy"_, they say, _"would be to assume the worst is over"_.
+
+They go on:
+
+p(quote). "The Depression showed how damaging it can be if governments don't step in when the rest of the economy seizes up. Yet action on the current scale has never been tried before and nobody knows when it will have an effect--let alone how much difference it will make. Whatever the impact, it would be a mistake to confuse the twitches of an economy on life-support with a lasting recovery. A real recovery depends on government demand being supplanted by sustainable sources of private spending. And here the news is almost uniformly grim."
+
+The _brightest light_ for them is in China,
+
+p(quote). "where a huge inventory adjustment has exaggerated the impact of falling foreign demand, and where the government has the cash and determination to prop up domestic spending. China's stimulus is already bearing fruit. Loans are soaring and infrastructure investment is growing smartly. The IMF's latest forecast, that China's economy will grow by 6.5% this year, may prove conservative."
+
+Although they could be "dead wrong about that":http://www.sofer.com/blog/duncan-on-china.html.

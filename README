@@ -1,0 +1,35 @@
+What's in here.
+
+Compass is the framework for managing stylesheets. 
+
+Typing "compass create myproject" on the command line will produce a file structure as follows:
+
+config.rb
+|--src
+|--stylesheets
+
+config.rb is pre-populated with a number of default paths. "src" contains the sass (or "srss") files and "stylesheets" contains the generated css files.
+
+Run "compass compile" and the .srss files will be converted to css.
+
+Run "compass watch" and this will happen every time a change is saved in an srss file.
+
+The site publishing is done by Jekyll https://github.com/mojombo/jekyll
+
+To run Jekyll, just navigate into this site folder and run 'jekyll' on the command line.
+
+Jekyll expects (but does not automatically create) the following:
+_config.yml
+|--_layouts
+|--_posts
+|--_site
+
+If there is no config.yml, it will use its own defaults. The layouts file is where you put the layouts that are defined (in the YAML front matter) in each page. If there is a _posts file, Jekyll will process them with a date-based folder structure, if the files are named in the form YEAR-MONTH-DAY-title.MARKUP (where MARKUP is a recognized extension, such as "textile"). The _site folder, which will be created if it doesn't exist, is where the processed site goes after Jekyll has run.
+
+So, the minimum that Jekyll requires to run usefully is some marked up files with YAML front matter at the top of them and some layouts in the _layouts folder. You only need the _posts folder if you want a date-based folder structure for your content.
+
+The config.yml file can be used to exclude the compass files.
+
+Finally, there is Compass Html5 Boilerplate https://github.com/sporkd/compass-html5-boilerplate
+
+This is a fork of HTML5 Boilerplate suitable for use in a compass project, which actually is probably going too far for now, so I haven't used it--at least not yet.

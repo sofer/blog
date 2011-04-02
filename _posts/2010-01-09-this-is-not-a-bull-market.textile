@@ -1,9 +1,0 @@
----
-layout: default
-title: "This is not a bull market"
-category: "money"
-standfirst: "<img src=\"/images/not-a-bull-market.jpg\" width=\"526\" height=\"508\">"
----  
-<img src="/images/not-a-bull-market.jpg" width="526" height="508">
-
-From "the FT":http://ftalphaville.ft.com/blog/2010/01/07/121696/why-this-is-not-the-onset-of-a-new-secular-bull-market/

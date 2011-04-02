@@ -1,0 +1,16 @@
+---
+layout: default
+title: "A simple explanation of the recent rally"
+date: 2009-04-21
+category: "money"
+standfirst: "John Authors in yesterday's FT gave a simple and entirely plausible explanation for the recent rally in stocks: an increase in the significance of mutual funds at the expense of hedge funds."
+---  
+John Authors in yesterday's FT gave "a simple and entirely plausible explanation":http://www.ft.com/cms/s/0/1281ed1e-2dd0-11de-9eba-00144feabdc0.html for the recent rally in stocks: an increase in the significance of mutual funds at the expense of hedge funds.
+
+_"Stocks have been rallying for six weeks. Who is buying and what have they bought? For the first time in a decade, the marginal investor, who has the biggest impact on any day, may be a mutual fund manager, required to buy only equities and not to sell short...Since the rally started six weeks ago, the FTSE-World indices show cyclical sectors doing best. Financials are up 62 per cent while basic materials, technology and industrials are all up more than 30 per cent. Healthcare and utilities, more defensive, are up only about 11 per cent. Many mutual funds are benchmarked and must stay close to a target allocation. That tends to mean buying whatever has just done worst."_
+
+In other words, hedge funds--which are free to engage in short selling--are being forced by redemptions to close out their positions, just as mutual funds--which are much more constrained in how they can invest--are being forced to invest in the market by investor inflows.
+
+It is not clear whether the mutual fund growth is being directly funded by investors switching from hedge funds, but if it is, the results are perverse. By moving funds from hedge funds that are perceived as more risky to mutual funds that are perceived as safer, investors may well be exposing themselves to more risk by forcing the price of stocks up beyond what they would otherwise be.
+
+The upshot is that the recent rally may not be driven by an improvement in investor sentiment, but may just be yet another symptom of growing fear.
