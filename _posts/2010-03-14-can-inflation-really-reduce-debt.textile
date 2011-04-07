@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Can inflation really reduce the level of debt?"
 category: "money"
 standfirst: "In my recent summary of George Cooper's The origin of financial crises I mentioned his suggestion that we should create inflation, in order to reduce the real level of debt."

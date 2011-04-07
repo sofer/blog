@@ -7,12 +7,18 @@
 <!--[if lt IE 8]>
     <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
-<h1>Some rules of thumb for building Rails applications</h1>
 
-<p>A few reminders to myself of how to keep Rails applications simple.</p>
+  <div class='container'>
+    <div class="strapline">
+        <div class="breadcrumb"><a href="/">sofer.com</a> &raquo; <a href="index.html">blog</a> &raquo;  <a href="/tech/">tech</a></div>
+        <div class="date"> 2 October 2009</div>
+    </div>    
+    <div class='content'>
+      <h1>Some rules of thumb for building Rails applications</h1>
+      <p>A few reminders to myself of how to keep Rails applications simple.</p>
 <p>Always start building an application using RESTful scaffold and don&#8217;t add non-RESTful actions to your controller unless you have a very good reason. If you think you need a new action, you are probably missing a relationship model somewhere. See <a href="http://www.sofer.com/blog/keeping-it-restful.html">Keeping it RESTful</a>.</p>
 <p>Keep views tidy with intelligent use of layouts. See <a href="http://www.sofer.com/blog/layouts-in-rails.html">Layouts in Rails</a>.</p>
 <p>Use named scopes. They are really quite nice. However, be careful of using them with <code>has_many :through</code> relations (See <a href="http://www.sofer.com/blog/named-scopes-and-has-many-through-relations-in-rails.html">Named scopes and has_many :through relations in Rails</a>). It may be easier to create <code>has_many</code> relations with additional conditions (e.g. <code>has_many :responses</code>, <code>has_many :correct_responses</code>, and so on)  than to create named scopes in the join model, even though doing so does break encapsulation between models.</p>
@@ -21,5 +27,8 @@
 <p>If a model in the middle of a has_many :through relationship has attributes (other than the two foreign keys), then it is probably worth creating a scaffold for it. To keep controllers RESTful, updates to the relationship and the setting of attributes should probably be made via the join model&#8217;s controller (besides which, if those attributes also use validations then attempts to add records directly to the has_many :through association will probably fail, because the new join record thus created will by default have blank attributes).</p>
 <p>Complex joins can be managed with hash-style <code>find</code> operations using the <code>:joins</code> option. See <a href="http://www.sofer.com/blog/using-joins-in-active-record.html">Using :joins in Active Record</a>.</p>
 <p>Eager loading can be achieved using the similar hash-style <code>:include</code> option.</p>
+    </div>
+  </div>
+
 </body>
 </html>

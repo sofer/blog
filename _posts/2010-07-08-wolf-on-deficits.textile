@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Wolf on deficits"
 category: "money"
 standfirst: "In his article, Demand shortfall casts doubt on early austerity Martin Wolf disagrees with the current enthusiasm for cutting current public expenditure."

@@ -7,12 +7,18 @@
 <!--[if lt IE 8]>
     <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
-<h1>Misadventures with Restful Authentication</h1>
 
-<p>This may seem trivial to some people, but I got a bit confused finding a path through the <a href="http://github.com/technoweenie/restful-authentication">Restful Authentication plugin</a> for Rails.</p>
+  <div class='container'>
+    <div class="strapline">
+        <div class="breadcrumb"><a href="/">sofer.com</a> &raquo; <a href="index.html">blog</a> &raquo;  <a href="/tech/">tech</a></div>
+        <div class="date">29 April 2009</div>
+    </div>    
+    <div class='content'>
+      <h1>Misadventures with Restful Authentication</h1>
+      <p>This may seem trivial to some people, but I got a bit confused finding a path through the <a href="http://github.com/technoweenie/restful-authentication">Restful Authentication plugin</a> for Rails.</p>
 <p>To restrict access inside a controller, I originally put this line inside the controller class:</p>
 <p><code>before_filter :authorize</code></p>
 <p>This invokes an <code>authorize</code> method before any actions in the controller are called.</p>
@@ -24,5 +30,8 @@
 <p>Reading the very helpful comments left in the <code>AuthenticatedSystem</code> class by its authors it has now become obvious that I have made a significant design mistake: I added an added layer of complexity, i.e. the <code>:authorize</code> method, where none was needed, and then compounded my error by accessing the <code>logged_in</code> method directly instead of going through <code>login_required</code>.</p>
 <p>Upshot: unexpected behaviour in my application leading to much frustration.</p>
 <p>Moral: When somebody leaves very helpful comments in their code, read the comments before using the code.</p>
+    </div>
+  </div>
+
 </body>
 </html>

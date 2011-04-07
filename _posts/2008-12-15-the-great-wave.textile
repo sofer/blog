@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Great Wave"
 category: "money"
 standfirst: "I have been re-reading David Hackett Fischer's book, \"The Great Wave\", which puts our current difficulties in the context of an 800-year history of repeated periods of stability, growth, crisis and collapse."

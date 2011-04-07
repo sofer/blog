@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The banks are insolvent"
 category: "money"
 standfirst: "The banking system is to all intents and purposes broke. Liabilities almost certainly exceed assets by a significant margin and, but for the recent interventions of central banks, the equity of our major banks would be worthless. There is probably not a single one of them either in London or New York that is solvent."

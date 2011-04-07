@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "SQL and ActiveRecord compared"
 category: "tech"
 standfirst: "Some comparisons of ActiveRecord method calls and the equivalent SQL for associations, starting simple and progressing to joins and chained joins."

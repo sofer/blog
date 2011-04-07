@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Keynes on the balance of trade"
 category: "money"
 standfirst: "In my ongoing attempt to resurrect Keynes to his rightful place as the first person to call this current crisis, I have contributed a new section to |http://en.wikipedia.org/wiki/Balance_of_trade#John_Maynard_Keynes_on_the_balance_of_trade|the entry on the balance of trade| on Wikipedia."

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "No one saw this coming?"
 category: "money"
 standfirst: "A paper published in June by Dirk Bezemer describes why most economists didn't see the current crisis coming and--more importantly--why some of them did. The key missing ingredient: financial flows. The growth of the financial sector relative to the rest of the economy should have been an early warning sign of trouble ahead. "

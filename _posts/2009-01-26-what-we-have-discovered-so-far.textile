@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "A summary of what we have discovered so far"
 category: "money"
 standfirst: "1) The primary cause of this crisis has been the recycling into international markets of the huge quantities of credit built up by the major exporting nations far in excess of what could sensibly be used in productive investments. In other words, trade imbalances are the source of our misery. subprime mortgages, credit derivatives, excessive credit card debts, insufficient regulation, greed and fraud are just the channels through which the consequences of these unsustainable imbalances flowed. "

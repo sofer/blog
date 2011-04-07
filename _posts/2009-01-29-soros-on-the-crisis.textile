@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Soros on the crisis"
 category: "money"
 standfirst: "Today's FT published extracts from |http://www.ft.com/cms/s/0/49b1654a-ed60-11dd-bd60-0000779fd2ac.html|an analysis of the crisis| by George Soros. It is an excellent read and goes into some detail about the dangers of short selling and credit default swaps, but one thing that caught my eye is his explanation of the rise of the dollar."

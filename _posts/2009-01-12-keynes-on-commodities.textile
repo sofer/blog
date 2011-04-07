@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Keynes on Commodities"
 category: "money"
 standfirst: "From the Manchester Guardian Commercial, 29 March 1923."

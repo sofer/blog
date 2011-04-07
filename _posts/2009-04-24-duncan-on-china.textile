@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Duncan on China"
 category: "money"
 standfirst: "_\"It would be difficult to discover any (peacetime) nation during the industrial age that had strayed further away from any kind of sustainable economic equilibrium than China has over the last 15 years...the economy has become dependent on double-digit loan growth to keep loss-making state-owned enterprises in business and China's huge workforce employed. However, now that the country faces excess capacity and deflation at home, most new investments (undertaken to expand industrial capacity still further) can only be loss making if targeted at the domestic market. In such an environment, the majority of new loans that are extended within China are destined to become non-performing. If the banks continue to extend credit aggressively, the cost that the government will have to bear to bail out China's depositors may quickly exceed fiscal resources.\"_ "

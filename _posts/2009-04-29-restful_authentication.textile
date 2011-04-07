@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Misadventures with Restful Authentication"
 category: "tech"
 standfirst: "This may seem trivial to some people, but I got a bit confused finding a path through the Restful Authentication plugin for Rails."

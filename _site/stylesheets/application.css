@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* line 11, ../src/application.scss */
+body {
+  background: LightGrey;
+  font-family: helvetica, arial, sans-serif;
+}
+
+/* line 12, ../src/application.scss */
+h1 {
+  font-size: x-large;
+  margin-top: 1em;
+}
+
+/* line 13, ../src/application.scss */
+h2 {
+  font-size: large;
+  margin-top: 2em;
+}
+
+/* line 14, ../src/application.scss */
+p {
+  line-height: 1.5em;
+  margin: 0.5em 0;
+}
+
+/* line 16, ../src/application.scss */
+.container {
+  -moz-border-radius: 0.6em;
+  -webkit-border-radius: 0.6em;
+  -o-border-radius: 0.6em;
+  -ms-border-radius: 0.6em;
+  -khtml-border-radius: 0.6em;
+  border-radius: 0.6em;
+  width: 630px;
+  margin: 0 auto;
+  overflow: hidden;
+  *zoom: 1;
+  border: 0.2em maroon solid;
+  margin: 10px auto;
+  background-color: white;
+}
+/* line 22, ../src/application.scss */
+.container .strapline {
+  overflow: hidden;
+  *zoom: 1;
+  background: maroon;
+  color: white;
+  padding: 0.4em 1em 0.2em 1em;
+}
+/* line 23, ../src/application.scss */
+.container .strapline a {
+  color: LightGrey;
+}
+/* line 24, ../src/application.scss */
+.container .content {
+  padding: 0 1em;
+}
+
+/* line 27, ../src/application.scss */
+.breadcrumb {
+  display: inline;
+  float: left;
+}
+
+/* line 28, ../src/application.scss */
+.date {
+  display: inline;
+  float: right;
+}

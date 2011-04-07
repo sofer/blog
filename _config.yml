@@ -3,6 +3,7 @@ exclude:
 - README
 - Rakefile
 - config.rb
+- .sass-cache
 
 
 # these are the jekyll defaults

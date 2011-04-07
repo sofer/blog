@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The final chapter from The Dollar Crisis"
 category: "money"
 standfirst: "Richard Duncan published his revised edition of _The Dollar Crisis_ in 2005. It is a remarkably prescient analysis of the the problems now facing the global economy. I reproduce the short and somewhat chilling final chapter from the book below."

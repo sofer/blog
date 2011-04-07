@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The origin of financial crises"
 category: "money"
 standfirst: "I recently finished reading _The Origin of Financial Crises_ by George Cooper, according to which a careless disregard for the growth of credit,  a mis-reading of Keynes,  unfounded faith in the stability of capital markets  and a misunderstanding of the role of the central bank  are the causes of the current financial crisis."

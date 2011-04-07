@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "MongoDB and Rails"
 category: "tech"
 standfirst: "I have been tinkering with MongoDB and the MongoMapper gem for Rails and creating a MongoDB-based Rails project is pretty easy."

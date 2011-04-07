@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Keeping it RESTful"
 category: "tech"
 standfirst: "REST is now the standard way of doing things in Rails and I am a convert. I have always spent far too long worrying about the best way to write my applications, but now REST has come into my life and taken a whole universe of procrastination and indecision away from me. "

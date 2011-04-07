@@ -7,16 +7,25 @@
 <!--[if lt IE 8]>
     <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
-<h1>Keeping controllers very simple in Rails</h1>
 
-<p>I have some tables that I am populating from a <span class="caps">CSV</span> file and it took me a little while to work out where to unpack the contents of the file. In the end, it was obvious that the place for it was in the model. In realising this I had the epiphany (again!) that controllers should really be kept very, very simple.</p>
+  <div class='container'>
+    <div class="strapline">
+        <div class="breadcrumb"><a href="/">sofer.com</a> &raquo; <a href="index.html">blog</a> &raquo;  <a href="/tech/">tech</a></div>
+        <div class="date">11 January 2011</div>
+    </div>    
+    <div class='content'>
+      <h1>Keeping controllers very simple in Rails</h1>
+      <p>I have some tables that I am populating from a <span class="caps">CSV</span> file and it took me a little while to work out where to unpack the contents of the file. In the end, it was obvious that the place for it was in the model. In realising this I had the epiphany (again!) that controllers should really be kept very, very simple.</p>
 <p>It looks to me like almost any deviation from the boiler-plate code pushed out by the Rails resource generator should be done with extreme caution, excepting only the simplest amendments, such as the addition of filter callbacks at the top of the controller or flash notices in the methods.</p>
 <p>If I add the <span class="caps">CSV</span> file as a virtual attribute of the model and process it in a private method called by the attribute setter method, then there is no need for any extra code in the controller.</p>
 <p>Also, if I want to preview the results of the import before saving them, I can use a validation to ensure that the record is not actually saved if certain model attributes are not present when the file is initially uploaded. that way I don&#8217;t need any extra method calls in either the controller or the view. A callback in the model could also be used.</p>
 <p>So, keep the controller simple (very simple), use filters in the controller, and use virtual attributes,  validators and callbacks in the model to amend application behaviour.</p>
 <p>That&#8217;s it.</p>
+    </div>
+  </div>
+
 </body>
 </html>

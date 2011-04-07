@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Loading jQTouch files"
 category: "tech"
 standfirst: "When adding jQTouch files to a web a page, order matters."

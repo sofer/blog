@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Accessing current_user from within a model: just don't do it"
 category: "tech"
 standfirst: "I came across a situation where I thought I wanted to access the @current_user@ from within a model, but it was just a case of mistaken thinking. Making session variables like @current_user@ accessible to a model is a break with convention, and breaking with conventions is usually a bad idea. So, the rule is: don't do it unless you have exhausted all other options. There is a probably an easier way of doing what you are trying to do."

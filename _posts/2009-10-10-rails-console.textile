@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Using the Rails console"
 category: "tech"
 standfirst: "You can use the .irbrc file to make changes to the Rails console. My .irbrc file currenlty looks like this:"

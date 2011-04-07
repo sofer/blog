@@ -14,6 +14,13 @@ Run "compass compile" and the .srss files will be converted to css.
 
 Run "compass watch" and this will happen every time a change is saved in an srss file.
 
+Compass has several installation options, one of which is to use blueprint css:
+
+compass create myproject --using blueprint
+
+Once a new project is created, common code (including the blueprint import and my own custom mixins) goes in the _bases.scss partial. It then makes sense to create an application.scss file for all application-specific styles (see http://compass-style.org/docs/tutorials/best_practices/).
+
+
 The site publishing is done by Jekyll https://github.com/mojombo/jekyll
 
 To run Jekyll, just navigate into this site folder and run 'jekyll' on the command line.

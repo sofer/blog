@@ -7,12 +7,18 @@
 <!--[if lt IE 8]>
     <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
-<h1>Text to voice from a web page</h1>
 
-<p>Text-to-voice software and synthesised voices are getting to the point where they are really quite impressive and certainly usable. I recently discovered Acapela&#8217;s range of multilingual voices and I want to use them. However, accessing a computer&#8217;s voices from within a web page is not entirely trivial.</p>
+  <div class='container'>
+    <div class="strapline">
+        <div class="breadcrumb"><a href="/">sofer.com</a> &raquo; <a href="index.html">blog</a> &raquo;  <a href="/tech/">tech</a></div>
+        <div class="date">22 February 2009</div>
+    </div>    
+    <div class='content'>
+      <h1>Text to voice from a web page</h1>
+      <p>Text-to-voice software and synthesised voices are getting to the point where they are really quite impressive and certainly usable. I recently discovered Acapela&#8217;s range of multilingual voices and I want to use them. However, accessing a computer&#8217;s voices from within a web page is not entirely trivial.</p>
 <p>My first attempt to do so involved playing with <a href="http://firevox.clcworld.net/">Fire Vox</a> and <a href="http://clickspeak.clcworld.net/">CliCk, Speak</a>, developed by Charles Chen, but these were no good for my purposes, because I need control of what is spoken and when. These two Firefox extensions are designed for web users, not web developers.</p>
 <p>I then discovered <a href="http://code.google.com/p/outfox/">outfox</a>, which is &#8220;a Firefox extension that allows in-page JavaScript to access local platform services and devices such as text-to-speech synthesis&#8221;. Exactly what I want. However, as of February 2009 it is still unstable and accented characters cause it to crash.</p>
 <p>Eventually, outfox is probably going to be a good solution, but another way of doing is to create a web service. So, instead of using the browser to control the desktop directly, I could send <span class="caps">JSON</span> requests from within the application to an <span class="caps">HTTP</span> server sitting on my computer, that would then handle the text-to-speech stuff.</p>
@@ -22,5 +28,8 @@
 <p>Although the script is specific both to Macs in general and my installed voices in particular, it would be easy enough to implement something similar on any platform with Ruby installed.</p>
 <p>The one piece missing from this jigsaw is that on OS X it does not appear to be possible to associate a language with a voice, even though the System Voices in the System Preferences are associated with the appropriate national flag.</p>
 <p>It would be nice to be able to type <code>say -l french bonjour</code> in a console window, instead of <code>say -v Julie bonjour</code>.</p>
+    </div>
+  </div>
+
 </body>
 </html>

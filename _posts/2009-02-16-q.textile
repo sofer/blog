@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Tobin's Q"
 category: "money"
 standfirst: "In their book \"Valuing Wall Street\", Andrew Smithers and Stephen Wright use James Tobin's Q ratio (the value of a stock market divided by corporate net worth), to recommend (in 2000) disinvesting from equities. They also give an excellent account of the dynamics of the economic cycle."

@@ -7,16 +7,25 @@
 <!--[if lt IE 8]>
     <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
-<h1>Loading jQTouch files</h1>
 
-<p>When adding jQTouch files to a web a page, order matters.</p>
+  <div class='container'>
+    <div class="strapline">
+        <div class="breadcrumb"><a href="/">sofer.com</a> &raquo; <a href="index.html">blog</a> &raquo;  <a href="/tech/">tech</a></div>
+        <div class="date">23 June 2010</div>
+    </div>    
+    <div class='content'>
+      <h1>Loading jQTouch files</h1>
+      <p>When adding jQTouch files to a web a page, order matters.</p>
 <p>The jQuery itself needs to be loaded first, but it is also important that the <code>$.jQTouch({})</code> intialization happens after the jQuery <code>ready</code> event.</p>
 <p>If instead the jQTouch initialization happens before the jQuery <code>ready</code> event is loaded, it appears that event handlers will not be attached to dynamic elements (i.e. those elements that are added after the document has loaded).</p>
 <p>The easiest way to ensure that <code>$.jQTouch({})</code> intialization happens last is probably to create a separate file for it and make sure that it gets loaded last.</p>
 <p>I have extracted a minimal set of files from the jQTouch distribution. Just enough to get going with, including a <code>jqt-init.js</code> file containing the necessary initialization.</p>
 <p><a href="http://github.com/sofer/jqtouch-files">jqtouch-files</a> are on github.</p>
+    </div>
+  </div>
+
 </body>
 </html>

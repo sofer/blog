@@ -48,7 +48,7 @@ def convert_to_textile(filename)
   standfirst.gsub!('"', '\"')
   out = <<END
 ---
-layout: default
+layout: post
 title: "#{title}"
 category: "#{tags}"
 standfirst: "#{standfirst}"

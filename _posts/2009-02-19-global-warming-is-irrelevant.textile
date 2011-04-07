@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Global Warming is irrelevant"
 category: "money"
 standfirst: "With oil prices in a state of collapse and investment grinding to a halt, maybe global warming is no longer a priority. With the survival of the global economy at stake, is the search for alternative sources of energy really so urgent? Actually, yes it is. The argument for increasing investment in energy research is undiminished and the possible dangers of global warming are irrelevant to the argument."

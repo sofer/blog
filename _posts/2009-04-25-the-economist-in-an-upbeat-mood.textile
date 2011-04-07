@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Economist in an upbeat mood"
 category: "money"
 standfirst: "This week The Economist has used their front cover to make it clear what they think of any glimmers of hope there might be in the world economy. _\"The worst thing for the world economy\"_, they say, _\"would be to assume the worst is over\"_."

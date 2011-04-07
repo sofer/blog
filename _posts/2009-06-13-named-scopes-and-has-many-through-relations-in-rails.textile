@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Named scopes and has_many :through relations in Rails"
 category: "tech"
 standfirst: "Named scopes in rails make for tidier code."

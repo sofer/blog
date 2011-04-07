@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "China alarmed by US money printing"
 category: "money"
 standfirst: "Cheng Siwei, former vice-chairman of the Standing Committee and now head of China's green energy drive: _\"Gold is definitely an alternative, but when we buy, the price goes up. We have to do it carefully so as not to stimulate the markets\"_."

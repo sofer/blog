@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Buttonwood on quantitative easing"
 category: "money"
 standfirst: "I just spotted an interesting Buttonwood post from earlier in the month."

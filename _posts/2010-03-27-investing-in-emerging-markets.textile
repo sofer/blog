@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Investing in emerging markets"
 category: "money"
 standfirst: "Peter Tasker is unimpressed with the prospect of investing in emerging markets"

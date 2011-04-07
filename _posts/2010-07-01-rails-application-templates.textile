@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Rails application templates"
 category: "tech"
 standfirst: "Rails application templates allow me to automate the setup of each new Rails application, so I don't have to repeat all the steps required to get an application running the way I want it."

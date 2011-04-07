@@ -7,12 +7,18 @@
 <!--[if lt IE 8]>
     <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
-<h1>Named scopes and has_many :through relations in Rails</h1>
 
-<p>Named scopes in rails make for tidier code.</p>
+  <div class='container'>
+    <div class="strapline">
+        <div class="breadcrumb"><a href="/">sofer.com</a> &raquo; <a href="index.html">blog</a> &raquo;  <a href="/tech/">tech</a></div>
+        <div class="date">13 June 2009</div>
+    </div>    
+    <div class='content'>
+      <h1>Named scopes and has_many :through relations in Rails</h1>
+      <p>Named scopes in rails make for tidier code.</p>
 <p>Instead of:</p>
 <p><code>Response.find( :conditions =&gt; {:result =&gt; 'correct' } )</code></p>
 <p>A named scope in the Response model looks like this:</p>
@@ -51,5 +57,8 @@ Course.last.responses.correct
 <p>Which generates slightly different, and unambiguous, <span class="caps">SQL</span>:</p>
 <p><code>SELECT `responses`.* FROM `responses` INNER JOIN questions ON responses.question_id = questions.id WHERE ((`questions`.course_id = 10)) AND (`responses`.`created_at` BETWEEN '2009-06-13 22:33:27' AND '2009-06-13 23:33:27')</code></p>
 <p>This is unlikely to be the most elegant solution to the problem, but it works, which is good enough for me&#8212;at least for now.</p>
+    </div>
+  </div>
+
 </body>
 </html>

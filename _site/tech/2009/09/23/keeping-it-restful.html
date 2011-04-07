@@ -7,12 +7,18 @@
 <!--[if lt IE 8]>
     <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
-<h1>Keeping it RESTful</h1>
 
-<p><span class="caps">REST</span> is now the standard way of doing things in Rails and I am a convert. I have always spent far too long worrying about the best way to write my applications, but now <span class="caps">REST</span> has come into my life and taken a whole universe of procrastination and indecision away from me.</p>
+  <div class='container'>
+    <div class="strapline">
+        <div class="breadcrumb"><a href="/">sofer.com</a> &raquo; <a href="index.html">blog</a> &raquo;  <a href="/tech/">tech</a></div>
+        <div class="date">23 September 2009</div>
+    </div>    
+    <div class='content'>
+      <h1>Keeping it RESTful</h1>
+      <p><span class="caps">REST</span> is now the standard way of doing things in Rails and I am a convert. I have always spent far too long worrying about the best way to write my applications, but now <span class="caps">REST</span> has come into my life and taken a whole universe of procrastination and indecision away from me.</p>
 <p>So, these days when I see Rails code that is not RESTful, I look for ways to clean it up.</p>
 <p>Take the following lines in a routes file:</p>
 <pre>
@@ -66,5 +72,8 @@ map.kinds '/posts/:kind', :controller =&gt; 'posts', :action =&gt; 'index', :kin
 <p>Allowing resources to be linked to like this:</p>
 <pre>&lt;%= link_to "Offers", kinds_path('Offer') %&gt;</pre>
 <p>As general rules of thumb, keep controllers and routes RESTful and use customized mappings sparingly (but that doesn&#8217;t mean don&#8217;t use them at all).</p>
+    </div>
+  </div>
+
 </body>
 </html>

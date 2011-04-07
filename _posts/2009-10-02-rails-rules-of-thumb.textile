@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Some rules of thumb for building Rails applications"
 category: "tech"
 standfirst: "A few reminders to myself of how to keep Rails applications simple."

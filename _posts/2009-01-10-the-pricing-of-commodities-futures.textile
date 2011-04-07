@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The pricing of commodities futures"
 category: "money"
 standfirst: "Storing a commodity costs money. This cost of carry tends to exert a gentle upward pressure on the current prices for future delivery of that commodity. This can produce what is described as a normal or upward sloping yield curve. A futures market in this state is said to be in contango."

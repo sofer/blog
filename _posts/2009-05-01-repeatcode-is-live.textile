@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "RepeatCode is live (sort of)"
 category: "projects"
 standfirst: "I have just put RepeatCode into \"pre-beta\". there is very little material up so far, but I have now removed the login barrier, so if anyone happens to wander onto the site, they can actually try out some A-level maths or a bit of French. "

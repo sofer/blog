@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "End Fractional Reserve Banking Now!"
 category: "money"
 standfirst: "Bankers make money by borrowing short and lending long. In other words, most of their profits come from playing the yield curve. They can do this without fear of insolvency and bank runs because of explicit and implicit government guarantees. Banks are state-sponsored oligopolies that could not exist without tax-payer subsidy. They should not exist. Fractional reserve banking is not capitalism, it is theft. We should put an end to fractional reserve banking now."

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "A simple explanation of the recent rally"
 category: "money"
 standfirst: "John Authors in yesterday's FT gave a simple and entirely plausible explanation for the recent rally in stocks: an increase in the significance of mutual funds at the expense of hedge funds."

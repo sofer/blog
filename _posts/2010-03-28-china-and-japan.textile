@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "China and Japan"
 category: "money"
 standfirst: "Dylan Grice and Albert Edwards at SocGen, along with commentators like Peter Tasker, have for some time been drawing parallels between Japan in the 1980s and China now. "

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Companies are buying back their shares again"
 category: "money"
 standfirst: "This week's Economist mentioned that Companies are buying lots of their own shares again"

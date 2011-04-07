@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Buffett on the crisis"
 category: "money"
 standfirst: "Selected quotes from Warren Buffett's most recent letter to shareholders"

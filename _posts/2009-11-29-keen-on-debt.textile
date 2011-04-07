@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Keen on Debt"
 category: "money"
 standfirst: "Steve Keen is an Australian economist and a follower of Minsky. His long-held view, that neo-classical models of economics are inadequate because they do not take account of debt levels, led him to predict the current crisis long before it broke and makes him very sceptical of the likelihood of a quick recovery."

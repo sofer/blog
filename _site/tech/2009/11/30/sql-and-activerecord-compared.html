@@ -7,12 +7,18 @@
 <!--[if lt IE 8]>
     <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
-<h1>SQL and ActiveRecord compared</h1>
 
-<p>Some comparisons of ActiveRecord method calls and the equivalent <span class="caps">SQL</span> for associations, starting simple and progressing to joins and chained joins.</p>
+  <div class='container'>
+    <div class="strapline">
+        <div class="breadcrumb"><a href="/">sofer.com</a> &raquo; <a href="index.html">blog</a> &raquo;  <a href="/tech/">tech</a></div>
+        <div class="date">30 November 2009</div>
+    </div>    
+    <div class='content'>
+      <h1>SQL and ActiveRecord compared</h1>
+      <p>Some comparisons of ActiveRecord method calls and the equivalent <span class="caps">SQL</span> for associations, starting simple and progressing to joins and chained joins.</p>
 <p>User.first<br />
 <code>SELECT * FROM "users" LIMIT 1</code></p>
 <p>User.last<br />
@@ -114,5 +120,8 @@ WHERE ("posts"."id" = 999)
 <p>And note again the selective pluralization of the hash keys to capture the nature of each association.</p>
 <p>See <a href="http://www.xcombinator.com/2008/04/08/chaining-includes-in-rails-to-reduce-the-number-of-sql-queries/">Chaining :include&#8217;s in Rails to reduce the number of <span class="caps">SQL</span> queries</a> and <br />
 <a href="http://ryandaigle.com/articles/2008/7/7/what-s-new-in-edge-rails-easy-join-table-conditions">What&#8217;s New in Edge Rails: Easy Join Table Conditions</a></p>
+    </div>
+  </div>
+
 </body>
 </html>

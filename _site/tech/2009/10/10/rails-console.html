@@ -7,12 +7,18 @@
 <!--[if lt IE 8]>
     <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
-<h1>Using the Rails console</h1>
 
-<p>You can use the .irbrc file to make changes to the Rails console. My .irbrc file currenlty looks like this:</p>
+  <div class='container'>
+    <div class="strapline">
+        <div class="breadcrumb"><a href="/">sofer.com</a> &raquo; <a href="index.html">blog</a> &raquo;  <a href="/tech/">tech</a></div>
+        <div class="date">10 October 2009</div>
+    </div>    
+    <div class='content'>
+      <h1>Using the Rails console</h1>
+      <p>You can use the .irbrc file to make changes to the Rails console. My .irbrc file currenlty looks like this:</p>
 <pre>
 if ENV.include?('RAILS_ENV')
   require 'rubygems'
@@ -28,5 +34,8 @@ end
 <p>The line towards the end is the important one for me. Without it, in six months I will probably have forgotten how I turned the logger on and even where the .irbrc file is. A problem I have with Rails: too much magic. And too many subtle ways to change its behaviour. These magic tricks are a wonderful thing, but my memory is is not good enough to retain them all.</p>
 <p>See <a href="http://railscasts.com/episodes/56-the-logger">Ryan Bates&#8217; Railscast on The Logger</a> for a reference to the Rails logger trick.</p>
 <p>Also, see <a href="http://github.com/cldwalker/hirb">Hirb</a> for details of its lovely tabular output.</p>
+    </div>
+  </div>
+
 </body>
 </html>

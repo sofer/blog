@@ -1,0 +1,28 @@
+@import "partials/base";
+
+$surround-colour: LightGrey;
+$background-colour: white;
+$reverse-text-colour: white;
+$reverse-link-colour: LightGrey;
+$border-colour: maroon;
+$border: 0.2em $border-colour solid;
+
+
+body { background:  $surround-colour; font-family: helvetica, arial, sans-serif; }
+h1 { font-size: x-large; margin-top: 1em; }
+h2 { font-size: large; margin-top: 2em; }
+p { line-height: 1.5em; margin: 0.5em 0; }
+
+.container {
+  @include border-radius(0.6em);
+  @include container;
+  border: $border;
+  margin: 10px auto;
+  background-color: $background-colour;
+  .strapline { @include clearfix; background: $border-colour; color: $reverse-text-colour; padding: 0.4em 1em 0.2em 1em; }
+  .strapline a { color: $reverse-link-colour; }
+  .content { padding: 0 1em; }
+}
+    
+.breadcrumb { @include float-left; }
+.date { @include float-right; }

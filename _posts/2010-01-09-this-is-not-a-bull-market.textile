@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "This is not a bull market"
 category: "money"
 standfirst: "<img src=\"/images/not-a-bull-market.jpg\" width=\"526\" height=\"508\">"

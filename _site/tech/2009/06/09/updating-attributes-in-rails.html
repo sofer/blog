@@ -7,12 +7,18 @@
 <!--[if lt IE 8]>
     <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
-<h1>Updating attributes in Rails</h1>
 
-<p>When I save data in Rails, I continually misuse the different methods available, so that my code is sprinkled with <code>save</code>, <code>save!</code>, <code>save(false)</code>, <code>update_attribute</code>, <code>update_attributes</code> and so on. I also often introduce bugs by assigning a new value to an attribute and then forgetting to update it.</p>
+  <div class='container'>
+    <div class="strapline">
+        <div class="breadcrumb"><a href="/">sofer.com</a> &raquo; <a href="index.html">blog</a> &raquo;  <a href="/tech/">tech</a></div>
+        <div class="date"> 9 June 2009</div>
+    </div>    
+    <div class='content'>
+      <h1>Updating attributes in Rails</h1>
+      <p>When I save data in Rails, I continually misuse the different methods available, so that my code is sprinkled with <code>save</code>, <code>save!</code>, <code>save(false)</code>, <code>update_attribute</code>, <code>update_attributes</code> and so on. I also often introduce bugs by assigning a new value to an attribute and then forgetting to update it.</p>
 <p>So, here is a quick summary.</p>
 <p><code>save</code> is the one to use if I want my model to validate. And, by the way, it is well worth using validations, like <code>validates_presence_of</code>, to check that an assignment hasn&#8217;t been forgotten somewhere. <code>save</code> is used most commonly in the <code>create</code> method of a controller where errors are likely to be handled by the <code>view</code> code.</p>
 <p><code>save!</code> works like <code>save</code> except that it raises an <code>ActiveRecord::RecordInvalid</code> exception suitable for use in a <code>rescue</code> clause. In other words, the only context in which to use <code>save!</code> is this one:</p>
@@ -43,5 +49,8 @@ end
 <p>Only use <code>save(false)</code> for performance reasons, not to be lazy;</p>
 <p>Beware of using <code>update_attribute</code> in any context where more than one attribute is being updated;</p>
 <p>Outside controllers, use the bang! versions of <code>save</code> and <code>update_attributes</code> and always inside a block.</p>
+    </div>
+  </div>
+
 </body>
 </html>

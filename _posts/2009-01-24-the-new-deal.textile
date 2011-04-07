@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "What Lessons does the New Deal hold for us?"
 category: "money"
 standfirst: "\"What are we to conclude about the efficacy of credit creation [between 1933 and 1936] as a means of attaining recovery? All conclusions must necessarily be tentative, but it seems to be clear that the effects have been smaller and slower in appearing than was claimed by the advocates of the theory [that the central bank can stimulate recovery by creating credit]. It seems to require a very great expansion of the base of the structure, continued for a considerable time, before the appearance of an adequate rise in the stream of money, which alone can affect the size of individual incomes.\" "

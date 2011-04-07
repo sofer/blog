@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Trade imbalances are still the problem"
 category: "money"
 standfirst: "In his recent post, The capital tsunami is a bigger threat than the nuclear option Michael Pettis argues persuasively that it is hard to imagine a scenario in which the Chinese would sell US government debt in significant quantities (the so-called nuclear option) and that the real danger is that they will continue to buy US debt to fund their trade surplus, which against all measures of sanity, is growing again."
