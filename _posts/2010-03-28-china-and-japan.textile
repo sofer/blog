@@ -20,8 +20,8 @@ The long-term lesson, apparently, is to watch interest rates on the way up and c
 
 fn1. For example:
 
-"China rushes towards a Japan-style bubble":http://www.ft.com/cms/s/0/39f61cb6-c818-11de-8ba8-00144feab49a.html By Peter Tasker, Financial TImes, 3 November 2009.
+bq. "China rushes towards a Japan-style bubble":http://www.ft.com/cms/s/0/39f61cb6-c818-11de-8ba8-00144feab49a.html By Peter Tasker, Financial TImes, 3 November 2009.
 
-"The lesson from Japan? China will be the biggest bubble the world has seen":http://www.sgresearch.com/publication/en/37815477D4EF75B3C12576320026B86A.pub?download, Popular Delusions, Dylan Grice, 15 September 2009
+bq. "The lesson from Japan? China will be the biggest bubble the world has seen":http://www.sgresearch.com/publication/en/37815477D4EF75B3C12576320026B86A.pub?download, Popular Delusions, Dylan Grice, 15 September 2009
 
 fn2. "Next leg in Ice Age equity de-rating nears as key leading indicators top out.":http://www.sgresearch.com/PUBLICATION/en/792A8AB21B767D0DC12576CF0027397A.pub?download=true, Global Strategy Weekly, Albert Edwards, 19 February 2010

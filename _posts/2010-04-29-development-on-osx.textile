@@ -26,7 +26,7 @@ See "hivelogic":http://hivelogic.com/articles/using_usr_local for more informati
 
 h2. MacPorts
 
-"http://www.macports.org/":http://www.macports.org/
+bq. "http://www.macports.org/":http://www.macports.org/
 
 Software is installed using @sudo port install@ and is installed in @/opt/local@ (hence the line @export PATH=/opt/local/bin:/opt/local/sbin:$PATH@ added to ~/.profile when first installing macports)
 

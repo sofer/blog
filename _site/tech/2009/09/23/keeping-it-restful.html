@@ -13,7 +13,7 @@
 
   <div class='container'>
     <div class="strapline">
-        <div class="breadcrumb"><a href="/">sofer.com</a> &raquo; <a href="index.html">blog</a> &raquo;  <a href="/tech/">tech</a></div>
+        <div class="breadcrumb"><a href="http://sofer.com">sofer.com</a> &raquo; <a href="/">blog</a> &raquo;  <a href="/tech.html">tech</a></div>
         <div class="date">23 September 2009</div>
     </div>    
     <div class='content'>
@@ -29,14 +29,14 @@ map.connect '/posts/offers', :controller =&gt; 'posts', :action =&gt; 'offers'
 <pre>
 def needs 
   @posts = Post.find(:all, :conditions =&gt; { :kind =&gt; "Need" }
-  respond_to do |format|
+  respond_to do "
     format.html { render :action =&gt; 'index'} 
   end
 end
 
 def offers
   @posts = Post.find(:all, :conditions =&gt; { :kind =&gt; "Offer" }
-  respond_to do |format|
+  respond_to do ":formatformat"format":
     format.html { render :action =&gt; 'index'} 
   end
 end
@@ -46,7 +46,7 @@ end
 def index
   @kind = params[:kind]
   @posts = Post.find(:all, :conditions =&gt; { :kind =&gt; "Offer" }
-  respond_to do |format|
+  respond_to do 
     format.html
   end
 end

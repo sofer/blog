@@ -45,4 +45,4 @@ Failure to invest in distribution infrastructure will contribute to volatility, 
 Notes:
 
 
-fn1. Added January 30. Actually, short-term lending has already come to a halt. Central bank currency swap agreements are keeping the global economy afloat. See |soros-on-the-crisis.html|Soros on the crisis|.
+fn1. Added January 30. Actually, short-term lending has already come to a halt. Central bank currency swap agreements are keeping the global economy afloat. See "Soros on the crisis":soros-on-the-crisis.html.

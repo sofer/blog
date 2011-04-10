@@ -14,4 +14,4 @@ The easiest way to ensure that @$.jQTouch({})@ intialization happens last is pro
 
 I have extracted a minimal set of files from the jQTouch distribution. Just enough to get going with, including a @jqt-init.js@ file containing the necessary initialization. 
 
-"jqtouch-files":http://github.com/sofer/jqtouch-files are on github.
+bq. "jqtouch-files":http://github.com/sofer/jqtouch-files are on github.

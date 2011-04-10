@@ -6,27 +6,27 @@ standfirst: "Geoffrey Crowther wrote about the Great Depression in the final cha
 ---  
 Geoffrey Crowther wrote about the Great Depression in the final chapter of his book <cite>An Outline of Money</cite> [1]. Despite being written in the 1940's, what he had to say has more relevance to the current economic crisis than anything else I have read on the subject.*
 
-"If the economic relationships between nations are not, by one means or another, brought fairly close to balance, then there is no set of financial arrangements that can rescue the world from the impoverishing results of chaos." <sup>[2]</sup>
+bq. "If the economic relationships between nations are not, by one means or another, brought fairly close to balance, then there is no set of financial arrangements that can rescue the world from the impoverishing results of chaos." [2]
 
-The Great Depression was the almost inevitable consequence of events that preceded it. <sup>[3]</sup>
+The Great Depression was the almost inevitable consequence of events that preceded it. [3]
 
-Over the course of the 1920's, large balance of payments surpluses built up, primarily in the USA, which were recycled back into the global economy in the form of loans overseas.  <sup>[4]</sup>
+Over the course of the 1920's, large balance of payments surpluses built up, primarily in the USA, which were recycled back into the global economy in the form of loans overseas.  [4]
 
 In the normal course of events, international transfers of funds are in the form of loans and the repayment of loans for investment purposes or of investments and the repatriation of profits. Any excesses or deficits of consumption are transitory and will tend to even out between countries over time.
 
-But in the period leading up to the Great Depression, the number of sound investment opportunities could not possibly keep pace with the growing size of the global imbalances of payments. International loans were increasingly used to fund not investment but consumption and did nothing to increase the industrial capacity of the borrowers.  <sup>[5]</sup>
+But in the period leading up to the Great Depression, the number of sound investment opportunities could not possibly keep pace with the growing size of the global imbalances of payments. International loans were increasingly used to fund not investment but consumption and did nothing to increase the industrial capacity of the borrowers.  [5]
 
 As the quality of loans deteriorated and the insolvency of debtors grew more likely, investors eventually took fright and started to draw in their loans.
 
 By early 1929, US investors had largely stopped making long-term loans overseas, effectively ending US capital investment abroad.
 
-Instead, without an overseas outlet, surplus funds were redirected into the US stock market, which reached unsustainably high levels in the summer of 1929 before crashing in the autumn of that year. <sup>[6]</sup>
+Instead, without an overseas outlet, surplus funds were redirected into the US stock market, which reached unsustainably high levels in the summer of 1929 before crashing in the autumn of that year. [6]
 
-Short term loans continued throughout 1930, but eventually stalled in 1931. <sup>[7]</sup>
+Short term loans continued throughout 1930, but eventually stalled in 1931. [7]
 
 At that point, balance of payments deficits could no longer be funded by short-term loans and could only be rectified by changes in the balance of trade, i.e. by an increase in exports or a decrease in imports--or by default.
 
-In 1931, the UK--caught between its long term loans and short term debts--came off the gold standard <sup>[8]</sup> and sterling dropped by a quarter.  Germany, meanwhile, chose default.
+In 1931, the UK--caught between its long term loans and short term debts--came off the gold standard [8] and sterling dropped by a quarter.  Germany, meanwhile, chose default.
 
 Creditor nations in turn were faced with the loss in the value of their overseas investments as well as a fall in international competitiveness, leading to a loss of export markets, and increased competition from overseas producers in their domestic markets.
 
@@ -36,7 +36,7 @@ It was crucial that creditor countries--and particularly the US--should recogniz
 
 Instead they imposed import tariffs to protect their domestic industries. 
 
-The inevitable result, beginning in 1931, was a series of retaliatory measures by other countries and a precipitous decline in global trade that did not recover until decades--<i>decades</i>--later.  <sup>[9]</sup>  <sup>[10]</sup> 
+The inevitable result, beginning in 1931, was a series of retaliatory measures by other countries and a precipitous decline in global trade that did not recover until decades--<i>decades</i>--later.  [9]  [10] 
 
 The similarities between then and now are remarkable.
 
@@ -66,11 +66,11 @@ At this point, the question becomes: will China and Japan be prepared to run tra
 
 But right now, after the imbalances in world trade have already built up, it is important to realise that there are strict limits to what any government can do to alter the course of events. The time for affecting the broad course of the current crisis has passed, well before its affects have become obvious--just as was the case in the run up to the Great Depression. Events have to play out until such time as the Chinese and the Japanese are faced with the same choice the US faced in the early 1930's: whether or not to allow trade to continue on terms wholly different to those to which they have become accustomed.
 
-	<p class="quote">"No words are too strong to condemn the idiocies of this period. But condemnation alone will not be of much profit. The panic once started, no nation could afford to be left out of it...nor should we lay all the blame on panic alone. An orderly retreat would indeed have had less catastrophic results; but a reduction of foreign lending and a readjustment of their Balance of Payments by both creditors and debtors was inevitable. Borrowing on the lines of 1927-9 could not in any case have continued. The loans were on too large a scale, to the wrong borrowers, and for purposes that made no provision for repayment. In the last analysis the blame must be laid on the pre-crisis world" <sup>[11]</sup> 
+bq. "No words are too strong to condemn the idiocies of this period. But condemnation alone will not be of much profit. The panic once started, no nation could afford to be left out of it...nor should we lay all the blame on panic alone. An orderly retreat would indeed have had less catastrophic results; but a reduction of foreign lending and a readjustment of their Balance of Payments by both creditors and debtors was inevitable. Borrowing on the lines of 1927-9 could not in any case have continued. The loans were on too large a scale, to the wrong borrowers, and for purposes that made no provision for repayment. In the last analysis the blame must be laid on the pre-crisis world" [11] 
 
 Notes:
 
-* Note added 1 March 2009: with the possible exception of The Dollar Crisis by Richard Duncan, a book which covers similar ground and, despite being well-received by reviewers when it was first published in 2002, has been largely ignored by academic economists and policy makers. Its predictions about the course of events have been accurate in broad outline and in much of the detail. It deserves to be more widely read. See also Martin Wolf's recent article, |http://www.ft.com/cms/s/0/027b1efc-c0a4-11dd-b0a8-000077b07658.html|Global imbalances threaten the survival of liberal trade|.
+*Note added 1 March 2009: with the possible exception of The Dollar Crisis by Richard Duncan, a book which covers similar ground and, despite being well-received by reviewers when it was first published in 2002, has been largely ignored by academic economists and policy makers. Its predictions about the course of events have been accurate in broad outline and in much of the detail. It deserves to be more widely read. See also Martin Wolf's recent article, "Global imbalances threaten the survival of liberal trade":http://www.ft.com/cms/s/0/027b1efc-c0a4-11dd-b0a8-000077b07658.html.
 	
 
 fn1. An Outline of Money by Geoffrey Crowther, Second Edition, published by Thomas Nelson and Sons,  1948. Crowther was editor of The Economist 1938-56

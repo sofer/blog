@@ -6,9 +6,9 @@ standfirst: "London Banker wrote a piece recently on the inevitability of deflat
 ---  
 London Banker wrote a piece recently on the inevitability of deflation and I just wanted to say that deflation is not inevitable at all. Inflation seems more likely.
 
-|http://londonbanker.blogspot.com/2008/12/deflation-has-become-inevitable.html|London Banker says|, 
+"London Banker says":http://londonbanker.blogspot.com/2008/12/deflation-has-become-inevitable.html, 
 
-"I'm now coming down on the side of deflation for a very simple reason: there is no longer any incentive to save or invest, and so debt and investment cannot increase much beyond current bloated levels".
+bq. "I'm now coming down on the side of deflation for a very simple reason: there is no longer any incentive to save or invest, and so debt and investment cannot increase much beyond current bloated levels".
 
 But this line of argument just makes no sense.
 
@@ -16,9 +16,9 @@ Deflation is caused not by decreases in saving and investment, but by a fall in 
 
 Come to think of it, saving is nothing more than that part of income which doesn't get spent, so the idea that less saving at this point might somehow be deflationary is just plain wrong.
 
-In his article, London Banker mentions |http://fraser.stlouisfed.org/docs/meltzer/fisdeb33.pdf|Fisher's debt-deflation theory of great depressions|--well-worth reading--and his conclusion is quite clear and rather different:
+In his article, London Banker mentions "Fisher's debt-deflation theory of great depressions":http://fraser.stlouisfed.org/docs/meltzer/fisdeb33.pdf--well-worth reading--and his conclusion is quite clear and rather different:
 
-"it is always economically possible to stop or prevent such a depression simply by reflating the price level up to the average level at which outstanding debts were contracted by existing debtors and assumed by existing creditors, and then maintaining that level unchanged. That the price level is controllable is not only claimed by monetary theorists but has recently been evidenced by two great events: (1) Sweden has now for nearly two years maintained a stable price level, practically always within 2 per cent of the chosen par and usually within 1 per cent. (2) The fact that immediate reversal of deflation is easily achieved by the use, or even the prospect of use, of appropriate instrumentalities has just been demonstrated by President Roosevelt."
+bq. "it is always economically possible to stop or prevent such a depression simply by reflating the price level up to the average level at which outstanding debts were contracted by existing debtors and assumed by existing creditors, and then maintaining that level unchanged. That the price level is controllable is not only claimed by monetary theorists but has recently been evidenced by two great events: (1) Sweden has now for nearly two years maintained a stable price level, practically always within 2 per cent of the chosen par and usually within 1 per cent. (2) The fact that immediate reversal of deflation is easily achieved by the use, or even the prospect of use, of appropriate instrumentalities has just been demonstrated by President Roosevelt."
 
 In other words, it is quite possible to avoid deflation and this can be done despite the savings and investment intentions of private institutions and individuals.
 
@@ -32,7 +32,7 @@ The greater danger in the US and the UK--and it seems to me to be a very real da
 
 On the other hand, in Europe there may be a different problem. According to Fisher again:
 
-"the infectiousness of depressions internationally is chiefly due to a common gold (or other) monetary standard and there should be found little tendency for a depression to pass from a deflating to an inflating, or stabilizing, country."
+bq. "the infectiousness of depressions internationally is chiefly due to a common gold (or other) monetary standard and there should be found little tendency for a depression to pass from a deflating to an inflating, or stabilizing, country."
 
 It is not at all clear that the European Central Bank shares the inflationary tendencies of either the Federal Reserve or the Bank of England, and the "other monetary standard" that is the Euro may provide a medium through which deflationary infections might move quite quickly within the Euro zone.
 

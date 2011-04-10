@@ -20,14 +20,14 @@ And the following methods in the @posts@ controller:
 <pre>
 def needs 
   @posts = Post.find(:all, :conditions => { :kind => "Need" }
-  respond_to do |format|
+  respond_to do "
     format.html { render :action => 'index'} 
   end
 end
 
 def offers
   @posts = Post.find(:all, :conditions => { :kind => "Offer" }
-  respond_to do |format|
+  respond_to do ":formatformat"format":
     format.html { render :action => 'index'} 
   end
 end
@@ -39,7 +39,7 @@ The only difference between these two methods is a difference in the "kind" of p
 def index
   @kind = params[:kind]
   @posts = Post.find(:all, :conditions => { :kind => "Offer" }
-  respond_to do |format|
+  respond_to do 
     format.html
   end
 end

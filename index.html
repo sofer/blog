@@ -2,11 +2,15 @@
 layout: default
 title: sofer.com
 ---
-<ul>
 {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date_to_string }}<br>
-    {{ post.standfirst | textilize }}
-  </li>
+	<div class="strapline">
+	    <div class="breadcrumb"><a href="/{{ post.categories.first }}.html">{{ post.categories.first }}</a> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></div>
+	    <div class="date">{{ post.date | date: "%e %B %Y" }}</div>
+	</div>    
+	<div class='content'>
+	  {{ post.standfirst | textilize }}
+	</div>
 {% endfor %}
-</ul>
+
+
+

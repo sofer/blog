@@ -12,6 +12,7 @@ body { background:  $surround-colour; font-family: helvetica, arial, sans-serif;
 h1 { font-size: x-large; margin-top: 1em; }
 h2 { font-size: large; margin-top: 2em; }
 p { line-height: 1.5em; margin: 0.5em 0; }
+blockquote { font-style: italic; padding: 0 1em; }
 
 .container {
   @include border-radius(0.6em);
@@ -26,3 +27,4 @@ p { line-height: 1.5em; margin: 0.5em 0; }
     
 .breadcrumb { @include float-left; }
 .date { @include float-right; }
+.quote { font-style: italic; padding: 0 1em; }

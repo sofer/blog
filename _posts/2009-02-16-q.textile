@@ -52,4 +52,4 @@ The long-term measured average for Q for the US stock market is approximately 0.
 
 A sensible approach to investment, is to sell stocks when Q rises somewhat above its long-term average and to purchase them again when Q returns below its long-term average. As an example, using a Q of 1.0 as a sell signal and a Q of 0.5 as a buy signal, would have caused an investor to liquidate stocks in the mid-60s returning in the mid-70s and to liquidate again in the mid-90s.
 
-To measure Q, download the latest |http://www.federalreserve.gov/releases/z1/Current/|Flow of Funds Accounts of the United States| from the federal Reserve. Use the table "B.102 Balance Sheet of Nonfarm Nonfinancial Corporate Business" and divide line 35 "Market value of equities outstanding" by line 32 "Net worth (market value)"
+To measure Q, download the latest "Flow of Funds Accounts of the United States":http://www.federalreserve.gov/releases/z1/Current/ from the federal Reserve. Use the table "B.102 Balance Sheet of Nonfarm Nonfinancial Corporate Business" and divide line 35 "Market value of equities outstanding" by line 32 "Net worth (market value)"

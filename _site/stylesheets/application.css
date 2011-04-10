@@ -23,7 +23,13 @@ p {
   margin: 0.5em 0;
 }
 
-/* line 16, ../src/application.scss */
+/* line 15, ../src/application.scss */
+blockquote {
+  font-style: italic;
+  padding: 0 1em;
+}
+
+/* line 17, ../src/application.scss */
 .container {
   -moz-border-radius: 0.6em;
   -webkit-border-radius: 0.6em;
@@ -39,7 +45,7 @@ p {
   margin: 10px auto;
   background-color: white;
 }
-/* line 22, ../src/application.scss */
+/* line 23, ../src/application.scss */
 .container .strapline {
   overflow: hidden;
   *zoom: 1;
@@ -47,23 +53,29 @@ p {
   color: white;
   padding: 0.4em 1em 0.2em 1em;
 }
-/* line 23, ../src/application.scss */
+/* line 24, ../src/application.scss */
 .container .strapline a {
   color: LightGrey;
 }
-/* line 24, ../src/application.scss */
+/* line 25, ../src/application.scss */
 .container .content {
   padding: 0 1em;
 }
 
-/* line 27, ../src/application.scss */
+/* line 28, ../src/application.scss */
 .breadcrumb {
   display: inline;
   float: left;
 }
 
-/* line 28, ../src/application.scss */
+/* line 29, ../src/application.scss */
 .date {
   display: inline;
   float: right;
+}
+
+/* line 30, ../src/application.scss */
+.quote {
+  font-style: italic;
+  padding: 0 1em;
 }
