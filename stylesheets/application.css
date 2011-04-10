@@ -75,7 +75,7 @@ blockquote {
 }
 
 /* line 30, ../src/application.scss */
-.quote {
+.byline {
   font-style: italic;
-  padding: 0 1em;
+  padding: 1em;
 }

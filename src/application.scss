@@ -27,4 +27,4 @@ blockquote { font-style: italic; padding: 0 1em; }
     
 .breadcrumb { @include float-left; }
 .date { @include float-right; }
-.quote { font-style: italic; padding: 0 1em; }
+.byline { font-style: italic; padding: 1em; }
