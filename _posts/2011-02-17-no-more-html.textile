@@ -1,0 +1,20 @@
+---
+layout: post
+title: No more HTML
+category: tech
+standfirst: "According to Avi Bryant (speaking in 2009), web frameworks are obsolete."
+---
+<p>According to Avi Bryant (speaking in 2009), <a href="http://python.mirocommunity.org/video/1186/djangocon-2009-django-is-obsol">web frameworks are
+obsolete</a>.</p>
+
+<p>His argument is that, with the creation of the V8 JavaScript virtual
+machine, sophisticated web apps can now be written in JavaScript
+almost entirely on the client side, communicating via JSON to the
+server. As a result, templates will die. It will make more sense to
+generate HTML with programmatic APIs, written in JavaScript. And if
+you don&rsquo;t like JavaScript, you can use a <a href="https://github.com/jashkenas/coffee-script/wiki/List-of-languages-that-compile-to-JS">language that compiles to
+JavaScript</a>
+instead. But we do not need to go back to a two-tier model, i.e. just
+javascript accessing remote data, we can still separate out the
+presentation and the application logic, it&rsquo;s just that this is
+increasingly going to happen on the client side.</p>

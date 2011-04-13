@@ -1,0 +1,8 @@
+---
+layout: post
+title: A change of blogging platform?
+category: tech
+standfirst: OK. I think I am persuaded that using Jekyll + GitHub Pages is a good idea. 
+---
+<p>OK. I think I am persuaded that using Jekyll + GitHub Pages is a good idea. <p> 
+Steps: <br /> - create a public repository, 'blog', following the instructions <br />here: http://pages.github.com/ <br /> - install Jekyll https://github.com/mojombo/jekyll/wiki/install <br /> - Take a look at <br /><a href="http://recursive-design.com/blog/2010/10/12/static-blogging-the-jekyll-way/">http://recursive-design.com/blog/2010/10/12/static-blogging-the-jekyll-way/</a> <br /> - Import blogs from posterous, see <br /><a href="http://apidocs.posterous.com/pages/posts">http://apidocs.posterous.com/pages/posts</a> and e.g. <br /><a href="http://posterous.com/api/2/users/me/sites/primary/posts/">http://posterous.com/api/2/users/me/sites/primary/posts/</a>

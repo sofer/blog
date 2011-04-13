@@ -1,0 +1,11 @@
+---
+layout: post
+title: The Eurodollar market
+category: money
+standfirst: bq. "Eurodollar deposits are a cheaper source of funds because they are free of reserve requirements and deposit insurance assessments."
+---
+bq. "Eurodollar deposits are a cheaper source of funds because they are free of reserve requirements and deposit insurance assessments. Due to the secrecy and light regulation surrounding the Eurodollar market, based in London, an extraordinary situation has unfolded where the Euromarket which has no physical embodiment in an exchange is now the largest source of capital in the world."
+
+bq. "By 1997 nearly 90% of all international loans were in this market. Today it has grown so large that the Bank of International Settlements has ceased to measure it independently."
+
+See <a href="http://www.marketoracle.co.uk/Article26216.html">http://www.marketoracle.co.uk/Article26216.html</a>

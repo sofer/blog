@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Rogoff on the crisis"
+title: "Rogoff on tax, banks and pensions"
 category: "money"
-standfirst: "bq. \"future scholars will see our tax systems: as Byzantine labyrinths funnelling money to powerful interests, creating staggering inefficiencies. They will surely be incredulous to see pensions and health insurance financed via Ponzi schemes as transparently unsustainable as the 1700s South Sea bubble.\""
+standfirst: "bq. \"future scholars will see our tax systems as Byzantine labyrinths funnelling money to powerful interests, creating staggering inefficiencies. They will surely be incredulous to see pensions and health insurance financed via Ponzi schemes as transparently unsustainable as the 1700s South Sea bubble.\""
 ---  
 bq. "future scholars will see our tax systems as Byzantine labyrinths funnelling money to powerful interests, creating staggering inefficiencies. They will surely be incredulous to see pensions and health insurance financed via Ponzi schemes as transparently unsustainable as the 1700s South Sea bubble. And will they believe that, back in the 21st century, there was no mechanism for putting insolvent financial institutions into bankruptcy?" [1]
 
