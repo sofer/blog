@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Node.js confusion</title>
+<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+<!--[if lt IE 8]>
+    <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+  <div class='container'>
+    <div class="strapline">
+        <div class="breadcrumb"><a href="http://sofer.com">sofer.com</a> &raquo; <a href="/">blog</a> &raquo;  <a href="/tech.html">tech</a></div>
+        <div class="date"> 7 June 2011</div>
+    </div>    
+    <div class='content'>
+      <h1>Node.js confusion</h1>
+      <p>I have been playing around with Node.js and there are a few things with javascript which keep tripping me up.</p>
+<p>The first thing I have had trouble with is that when passing a function as an argument, it should not actually be invoked. In other words, the function reference should be bare and not followed by brackets. One upshot of this is that if the function reference is eventually going to be invoked with arguments, then these arguments will need to be passed as separate arguments.</p>
+<p>But the main habit of mind I have had to keep fighting with is my assumption that there is going to be a single flow of control in my code. As soon as I use anything like <code>http.get</code> or <code>fs.readFile</code> that assumption goes out of the window. It is taking me a little while to get used to dealing with callbacks and, in particular, in keeping track of loops of callbacks that all need to complete before proceeding.</p>
+<p>the other thing I have done is to attempt to define object properties in terms of other object properties like this:</p>
+<pre><code>
+var person = {
+  forename: 'john',
+  surname: 'smith',
+  fullname: this.firstname+' '+this.surname
+}
+</code></pre>
+<p>which will not work, because when declaring an attribute, its value cannot be obtained directly from another attribute. That should probably nave been obvious to me, but it wasn&#8217;t.</p>
+    </div>
+    <div class="byline">
+  d. sofer
+</div>
+
+  </div>
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1925910-3']);
+  _gaq.push(['_setDomainName', '.sofer.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

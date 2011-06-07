@@ -5,7 +5,7 @@ exclude:
 - Rakefile
 - config.rb
 - .sass-cache
-
+- .post.rb
 
 # these are the jekyll defaults
 # defaults, see https://github.com/mojombo/jekyll/wiki/Configuration

@@ -1,0 +1,24 @@
+---
+layout: post
+title: Node.js confusion
+category: tech
+standfirst: "I have been playing around with Node.js and there are a few things with javascript which keep tripping me up." 
+---
+I have been playing around with Node.js and there are a few things with javascript which keep tripping me up.
+
+The first thing I have had trouble with is that when passing a function as an argument, it should not actually be invoked. In other words, the function reference should be bare and not followed by brackets. One upshot of this is that if the function reference is eventually going to be invoked with arguments, then these arguments will need to be passed as separate arguments.
+
+But the main habit of mind I have had to keep fighting with is my assumption that there is going to be a single flow of control in my code. As soon as I use anything like @http.get@ or @fs.readFile@ that assumption goes out of the window. It is taking me a little while to get used to dealing with callbacks and, in particular, in keeping track of loops of callbacks that all need to complete before proceeding.
+
+the other thing I have done is to attempt to define object properties in terms of other object properties like this:
+
+<pre><code>
+var person = {
+  forename: 'john',
+  surname: 'smith',
+  fullname: this.firstname+' '+this.surname
+}
+</code></pre>
+
+which will not work, because when declaring an attribute, its value cannot be obtained directly from another attribute. That should probably nave been obvious to me, but it wasn't.
+
