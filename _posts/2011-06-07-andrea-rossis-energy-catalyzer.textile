@@ -2,7 +2,7 @@
 layout: post
 title: Andrea Rossi's Energy Catalyzer
 category: energy
-standfirst: "" 
+standfirst: "The return of cold fusion" 
 ---
 From "Ny Teknik":http://www.nyteknik.se/nyheter/energi_miljo/energi/article3166552.ece:
 
