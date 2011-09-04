@@ -1,0 +1,32 @@
+---
+layout: post
+title: Learning to touch type
+category: tech
+standfirst: "" 
+---
+
+There are a lot of applications available for learning touch typing, but they are not that many good ones.
+
+Requirements:
+Being able to see what I have typed
+When I mistype something, I want to be able to see what I have typed as I type it, so I can correct the positioning of my hands without looking at my keyboard. This works better if I can see it on the line I am copying from, not on another part of the screen (Out: TIPP10)
+
+Either, being forced to use the back button
+Fast error correction is important. Not having to use the back button is not a benefit (although, preventing me typing past the mistyped character might be). This helps me learn how to correct a typo and to return to the correct position on the keyboard to resume typing.
+
+Alternatively, not stopping for errors
+Or, I might prefer just to keep typing. This means that typos do not get in the way of measuring speed.
+
+Learning the entire keyboard
+Including caps, digits, special characters, the back button (see above) and the return key.
+
+Being able to use my own copy
+Particularly so that I can enter blocks of code.
+
+o Decent feedback on typing speed progress
+Obviously. Also to take account of different levels, i.e. how many types of keystrokes are being used.
+
+Absence of screen clutter.
+
+
+

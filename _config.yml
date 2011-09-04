@@ -6,6 +6,7 @@ exclude:
 - config.rb
 - .sass-cache
 - .post.rb
+- _tmp
 
 # these are the jekyll defaults
 # defaults, see https://github.com/mojombo/jekyll/wiki/Configuration
