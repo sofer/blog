@@ -6,6 +6,6 @@ standfirst: With debt at unsustainable levels and two income households the norm
 ---
 "With debt at unsustainable levels and two income households the norm, these two reactions to stagnant wages have reached their limits."
 
-<img src="/images/the-limit.jpg" width="630">
+<img src="/images/the-limit.jpg" width="620">
 
 "Courtesy of the New York Times":http://www.nytimes.com/imagepages/2011/09/04/opinion/04reich-graphic.html?ref=sunday
