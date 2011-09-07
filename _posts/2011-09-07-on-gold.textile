@@ -1,0 +1,11 @@
+---
+layout: post
+title: On gold
+category: money
+standfirst: "A couple of different views on what is pushing the gold price" 
+---
+
+"We have long argued that the Norwegian krone is a better safe haven play than the Swiss franc. In every respect, the krone has superior qualities. However, the market will now fear that if it pushes the krone (or the Singapore dollar) too far. there will be push back from the various central banks. The market must fear this will cause a sharp escalation in the currency wars. The only safe haven that will not do QE, put in capital controls, or complain about its strength is gold. It must emerge as the winner.":http://www.economist.com/blogs/buttonwood/2011/09/currencies
+
+"the price has risen because expected returns on other investments have fallen; it is not, repeat not, a story about inflation expectations. Not only are surging gold prices not a sign of severe inflation just around the corner, they’re actually the result of a persistently depressed economy stuck in a liquidity trap — an economy that basically faces the threat of Japanese-style deflation, not Weimar-style inflation. So people who bought gold because they believed that inflation was around the corner were right for the wrong reasons.":http://krugman.blogs.nytimes.com/2011/09/06/treasuries-tips-and-gold-wonkish/
+
