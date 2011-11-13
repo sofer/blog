@@ -1,0 +1,46 @@
+---
+layout: post
+title: London property prices
+category: money
+standfirst: "Is now a really bad time to be contemplating buying a property in London?" 
+---
+
+Many, many years ago I read Fred Harrison's "The Power in the Land", which in 1983 argued that there is an 18-year property cycle, which had last peaked in 1974. The subsequent peak arrived, not in 1992, but 1990, and the most recent peak was, on Harrison's schedule, due to arrive in 2010.
+
+His argument (straight from the writings of Henry George) is pretty simple: business cycles are driven by property (or more accurately, land) prices.
+
+At the beginning of a cycle, property prices and rents are low and capital is relatively cheap. With capital cheap and employment depressed, entrepreneurial opportunities become relatively attractive, leading eventually to an increase in business activity and employment. Profits and wages recover and with them the rents that property owners can charge. 
+
+Property prices begin to rise and speculative activity returns. The resulting increase in the demand for mortgage capital puts upward pressure on interest rates and reduces the relative rates of return on other forms of investment. Meanwhile, rent and mortgage costs capture an increasing share of rising living standards.
+
+Eventually, the squeeze on investment and expenditure causes a downturn, the speculative rise in property prices goes into reverse and a slump ensues.
+
+However, neat though this argument is, it doesn't explain the recent decoupling of London property prices from property prices in the rest of the UK.
+
+As I recall, in 1989 property prices fell in London before they started falling in the rest of Britain. At the time, I lived in Manchester and I remember people buying houses there after prices had already turned down in London.
+
+This time, it's different. House prices started falling in most of the UK in 2007, but have continued upwards in London, at least in nominal terms. 
+
+But with retail price inflation at around 5%, prices in London are now actually falling in real terms, although not as fast as elsewhere.
+
+Part of the reason might be that London, unlike the rest of the UK is, at least in part, an international property market, which attract overseas buyers, that have continued to buy property as other investment opportunities have lost their attraction.
+
+But the main difference appears to be the continuing wealth-accumulating capacity of financial services, and in particular wholesale (i.e. investment) banking.
+
+As Henry Overman at the LSE has pointed out "between 2007 and 2010...employment in financial services fell 10 per cent in the north, it rose 5 per cent in the greater south-east.":http://blogs.lse.ac.uk/politicsandpolicy/2011/01/20/london-and-the-recession/
+
+While banking profits continue to be sustained by the commissions to be earned from recycling government debts and while the profits from these activities continue to sustain the incomes of bankers, then&mdash;even as the rest of the economy turns down&mdash;their salaries and bonuses will continue to support the London economy and continue to put upward pressure on property prices (and on the prices of agricultural land, which is a good tax shelter, I hear).
+
+London property prices will fall less than in the rest of the country as long as the profits from the recycling of debt keep rising, but these profits cannot rise forever.
+
+But it is not entirely clear whether house prices in London will fall just in real terms or in nominal terms, too. this depends on the response of the government to continuing stresses in the global economy, not least the (I think, probable) break up of the eurozone. In particular, it depends on their willingness to manufacture and their ability to control inflation as a means to reduce debt levels over a sustained period of time.
+
+If house prices are not going to fall in nominal terms, then perhaps there is no great benefit in delaying taking on a mortgage now, if you can afford it, because even if houses prices fall in real terms, so will the value of your mortgage. 
+
+And what about interest rates: are they likely to rise any time soon? Well, obviously they have risen in places like Greece and Italy, but governments in these countries have borrowed in a currency they don't control. In the UK, it is less likely that the government would allow base rates to rise much with the public debt at such a high level.
+
+On the other hand, if the government can manufacture but not control inflation, then even with real negative interest rates, higher nominal rates would almost certainly lead to unsustainably high mortgage rates for many households.
+
+So, buy a property now and hope that the government can manufacture enough inflation to stop prices falling in nominal terms, but not so much that mortgage rates become unaffordable. And hope that the financial services industry doesn't contract so much that house prices start falling in real terms&mdash;except that we really all have to hope that they do, because they are "a great vampire squid wrapped around the face of humanity, relentlessly jamming its blood funnel into anything that smells like money":http://www.rollingstone.com/politics/news/the-great-american-bubble-machine-20100405#ixzz1dceL3wTl.
+
+If you happen to have enough cash that you can afford to buy a house without taking on a mortgage, then unless the government entirely fails in its fiduciary responsibilities and allows a deflationary debt spiral, then it's a bit of a toss up whether you are likely to lose more of your wealth invested in property or in a building society. I still prefer gold.
