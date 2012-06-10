@@ -13,6 +13,7 @@ h1 { font-size: x-large; margin-top: 1em; }
 h2 { font-size: large; margin-top: 2em; }
 p { line-height: 1.5em; margin: 0.5em 0; }
 blockquote { font-style: italic; padding: 0 1em; }
+em { font-style: italic; }
 
 .container {
   @include border-radius(0.6em);

@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /* line 11, ../src/application.scss */
 body {
   background: LightGrey;
@@ -29,7 +28,12 @@ blockquote {
   padding: 0 1em;
 }
 
-/* line 17, ../src/application.scss */
+/* line 16, ../src/application.scss */
+em {
+  font-style: italic;
+}
+
+/* line 18, ../src/application.scss */
 .container {
   -moz-border-radius: 0.6em;
   -webkit-border-radius: 0.6em;
@@ -45,7 +49,7 @@ blockquote {
   margin: 10px auto;
   background-color: white;
 }
-/* line 23, ../src/application.scss */
+/* line 24, ../src/application.scss */
 .container .strapline {
   overflow: hidden;
   *zoom: 1;
@@ -53,28 +57,28 @@ blockquote {
   color: white;
   padding: 0.4em 1em 0.2em 1em;
 }
-/* line 24, ../src/application.scss */
+/* line 25, ../src/application.scss */
 .container .strapline a {
   color: LightGrey;
 }
-/* line 25, ../src/application.scss */
+/* line 26, ../src/application.scss */
 .container .content {
   padding: 0 1em;
 }
 
-/* line 28, ../src/application.scss */
+/* line 29, ../src/application.scss */
 .breadcrumb {
   display: inline;
   float: left;
 }
 
-/* line 29, ../src/application.scss */
+/* line 30, ../src/application.scss */
 .date {
   display: inline;
   float: right;
 }
 
-/* line 30, ../src/application.scss */
+/* line 31, ../src/application.scss */
 .byline {
   font-style: italic;
   padding: 1em;
