@@ -23,7 +23,7 @@ He also says that *"it is much harder because of shadow banking. You have to fin
 
 Except maybe you don't.
 
-There is a very compelling argument in a paper by "Mark Roe":http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1567075 (a professor of law, not economics), that the priority that derivative contract counter-parties enjoy over other creditors in the event of bankruptcy is an implicit subsidy to the derivatives markets. The simple act of reducing that priority would remove much of the benefits of these markets and therefore greatly reduce their size and the risk they represent to the wider economy.
+There is a very compelling argument in "a paper by Mark Roe":http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1567075 (a professor of law, not economics), that the priority that derivative contract counter-parties enjoy over other creditors in the event of bankruptcy is an implicit subsidy to the derivatives markets. The simple act of reducing that priority would remove much of the benefits of these markets and therefore greatly reduce their size and the risk they represent to the wider economy.
 
 Michael Simkovic "makes a similar argument":http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1323190 that *"complex and opaque financial products receive the highest priority in bankruptcy"* and as a result *"creditors’ incentives are therefore to structure transactions using these favored financial products"*.
 
