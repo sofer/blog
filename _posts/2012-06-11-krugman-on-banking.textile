@@ -17,7 +17,7 @@ All Diamond-Dybvig does is to develop a model that describes how banks can, by p
 
 As Ralph Musgrave has already pointed out, "_Krugman confuses fractional reserve and maturity transformation_":http://ralphanomics.blogspot.co.uk/2011/11/krugman-confuses-fractional-reserve-and.html.
 
-Professor Krugman goes on to say that _"if you criminalize fractional reserve banking only criminals will have fractional reserve banking"_. But if a government refuses a bank both deposit insurance and access to the central bank discount, that is not so much criminalizing the bank as making it highly undesirable to depositors.
+Professor Krugman goes on to say that _"if you criminalize fractional reserve banking only criminals will have fractional reserve banking"_. But if a government refuses a bank both deposit insurance and access to the central bank discount window, that is not so much criminalizing the bank as making it highly undesirable to depositors.
 
 Such a bank might flourish if the official banking sector really failed to meet the needs of its customers, but it is not clear that those customers would give up the relative security of insured deposits for an additional one or two precent per annum.
 
