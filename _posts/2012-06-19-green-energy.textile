@@ -34,7 +34,7 @@ In order to qualify for the Green Energy Scheme's Certified Green Tariff, a supp
 
 A "Renewable Energy Guarantee of Origin certificate":http://www.ofgem.gov.uk/Sustainability/Environment/REGOs/Pages/REGOs.aspx (REGO) is a tradeable proof that power has been generated from a renewable resource and, not unlike ROCs, "can be traded throughout the 15 EU member states":http://www.ac-trading.eu/uk/products/renewable_energy_certificate_rec__guarantee_of_origin_goo.
 
-(And a "Renewable Levy Exemption Certificate":http://www.ofgem.gov.uk/Sustainability/Environment/cclrenexem/Pages/CCLRenewablesExemption.aspx is a similar certificate issued by Ofgem, for non-domestic electricity supply)
+(And a "Renewable Levy Exemption Certificate":http://www.ofgem.gov.uk/Sustainability/Environment/cclrenexem/Pages/CCLRenewablesExemption.aspx (Renewable LEC) is a similar certificate issued by Ofgem, for non-domestic electricity supply)
 
 I could not track down the current market price for a REGO, but it is likely to be comparable to the Climate Change Levy (from which a Renewable LEC excempts the holder) which "as of April 2012 is &pound;5.09/MWh":http://www.ofgem.gov.uk/Sustainability/Environment/cclrenexem/Pages/CCLRenewablesExemption.aspx.
 
@@ -48,7 +48,7 @@ The market for renewable energy generation is driven by comparative economics, w
 
 Even if none of us become customers of companies like "Good Energy":http://www.goodenergy.co.uk/, "LoCO2":http://www.loco2energy.com/ or "Ecotricity":http://www.ecotricity.co.uk/, they are still likely to be able to make a return from their own investments in renewable energy generation. As Ofgem have commented, the Renewables Obligation "_is leading to much higher returns for current renewable generators than investors expected or required_":http://www.ofgem.gov.uk/Media/PressRel/Documents1/16662-R5.pdf.
 
-It is entirely understandable that the founders of these excellent companies would see the commercial benefit of marketing themselves as electricity suppliers, but their power generation businesses are unlikely to depend on it. If LoCO2 were to cease trading, their sister company, TLS Hydro, would probably continue to operate their "wonderful array of refurbished water turbines":http://www.tradelinksolutions.com/assets.php. 
+It is entirely understandable that the founders of these trail-blazing energy production companies would see the commercial benefit of marketing themselves as electricity suppliers, but their power generation businesses are unlikely to depend on it. If LoCO2 were to cease trading, their sister company, TLS Hydro, would probably continue to operate their "wonderful array of refurbished water turbines":http://www.tradelinksolutions.com/assets.php. 
 
 But we are all already providing a large subsidy to renewable production through the cost of ROCs, which are ultimately paid by all energy consumers, so in some sense we are all already green energy consumers.
 
