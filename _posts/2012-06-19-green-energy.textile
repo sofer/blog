@@ -4,13 +4,11 @@ title: Green energy
 category: energy
 standfirst: "What can consumers do to promote the use of renewable sources of energy in our electricity supply?" 
 ---
-You might have thought that it would be relatively straight forward for each of us as an energy consumer to encourage the supply of low-carbon energy. All we need to do is to choose a green energy tariff from our electricity provider.
+You might have thought that it would be relatively straight forward for any of us as energy consumers to encourage the supply of low-carbon energy. All we need to do is to choose a green energy tariff from our electricity provider.
 
 Except it's not quite that simple.
 
-There is a reason why there has been a growth in these kinds of companies and it is not entirely to do with how wonderfully green we have all become.
-
-Behind the growth in the use of renewable energy resources in the UK is the "Renewables Obligation":http://en.wikipedia.org/wiki/Renewables_Obligation, a government scheme, introduced in 2002, which obliges all licensed electricity suppliers to source an annually-increasing proportion of their energy from renewable sources. The proportion began at 3&percent; and in 2012 is 12.4&percent;.
+In recent years, the growth in renewable energy supply in the UK has been driven by the introduction of the "Renewables Obligation":http://en.wikipedia.org/wiki/Renewables_Obligation, a government scheme, introduced in 2002, which obliges all licensed electricity suppliers to source an annually-increasing proportion of their energy from renewable sources. The proportion began at 3&percent; and in 2012 is 12.4&percent;.
 
 The Government, through Ofgem, issues accredited renewable generators with one "Renewables Obligation Certificate:http://en.wikipedia.org/wiki/Renewables_Obligation#Renewables_Obligation_Certificates (ROC) for each MWh of renewable output (although since 2009 banding has been introduced, meaning that some sources of supply, such as offshore wind, are issued with more than one ROC per MWh and some less).
 
