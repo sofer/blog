@@ -30,7 +30,7 @@ So, back to the question of whether or not to choose a green energy tariff.
 
 The "Green Energy Scheme":http://www.greenenergyscheme.org/ is now widely recognised as the authority on green energy tariffs in the UK. It bases its certification on Ofgem's "Green Supply Guidelines":http://www.ofgem.gov.uk/Pages/MoreInformation.aspx?docid=285&refer=Sustainability/Environment/Policy.
 
-In order to qualify for the Green Energy Scheme's Certified Green Tariff, a supplier must meet three criteria, the main one of which is that they must be "able to show that it has enough Renewable Energy Guarantee of Origin certificates and has retired or redeemed any Renewable Levy Exemption Certificates associated with the supply":http://www.greenenergyscheme.org/faqs/.
+In order to qualify for the Green Energy Scheme's Certified Green Tariff, a supplier must meet three criteria, the main one of which is that it must be "_able to show that it has enough Renewable Energy Guarantee of Origin certificates and has retired or redeemed any Renewable Levy Exemption Certificates associated with the supply_":http://www.greenenergyscheme.org/faqs/.
 
 A "Renewable Energy Guarantee of Origin certificate (REGO)":http://www.ofgem.gov.uk/Sustainability/Environment/REGOs/Pages/REGOs.aspx is a tradeable proof that power has been generated from a renewable resource and, not unlike ROCs, "can be traded throughout the 15 EU member states":http://www.ac-trading.eu/uk/products/renewable_energy_certificate_rec__guarantee_of_origin_goo.
 
