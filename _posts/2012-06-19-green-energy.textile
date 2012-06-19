@@ -8,9 +8,9 @@ You might have thought that it would be relatively straight forward for any of u
 
 Except it's not quite that simple.
 
-In recent years, the growth in renewable energy supply in the UK has been driven by the introduction of the "Renewables Obligation":http://en.wikipedia.org/wiki/Renewables_Obligation, a government scheme, introduced in 2002, which obliges all licensed electricity suppliers to source an annually-increasing proportion of their energy from renewable sources. The proportion began at 3% and in 2012 is 12.4%.
+In recent years, the growth in renewable energy supply in the UK has been driven by the "Renewables Obligation":http://en.wikipedia.org/wiki/Renewables_Obligation, a government scheme introduced in 2002, which obliges all licensed electricity suppliers to source an annually-increasing proportion of their energy from renewable sources. The proportion began at 3% and in 2012 is 12.4%.
 
-The Government, through Ofgem, issues accredited renewable generators with one "Renewables Obligation Certificate:http://en.wikipedia.org/wiki/Renewables_Obligation#Renewables_Obligation_Certificates (ROC) for each MWh of renewable output (although since 2009 banding has been introduced, meaning that some sources of supply, such as offshore wind, are issued with more than one ROC per MWh and some less).
+The Government, through Ofgem, issues accredited renewable generators with one "Renewables Obligation Certificate":http://en.wikipedia.org/wiki/Renewables_Obligation#Renewables_Obligation_Certificates (ROC) for each MWh of renewable output (although since 2009 banding has been introduced, meaning that some sources of supply, such as offshore wind, are issued with more than one ROC per MWh and some less).
 
 All electricity suppliers must present ROCs to Ofgem to the value of (in 2012) 12.4% of the electricity that they supply to their customers. They can do this either by getting ROCs directly from the Government through generating their own eligible electricity, by buying ROCs in the secondary market, or by making a payment directly to Ofgem at a fixed "buy-out" price set by Ofgem each year. As long as renewable energy output falls short of the renewable obligation, some energy suppliers will need to make buy-out payments to Ofgem.
 
