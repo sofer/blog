@@ -32,7 +32,7 @@ The "Green Energy Scheme":http://www.greenenergyscheme.org/ is now widely recogn
 
 In order to qualify for the Green Energy Scheme's Certified Green Tariff, a supplier must meet three criteria, the main one of which is that it must be "_able to show that it has enough Renewable Energy Guarantee of Origin certificates and has retired or redeemed any Renewable Levy Exemption Certificates associated with the supply_":http://www.greenenergyscheme.org/faqs/.
 
-A "Renewable Energy Guarantee of Origin certificate (REGO)":http://www.ofgem.gov.uk/Sustainability/Environment/REGOs/Pages/REGOs.aspx is a tradeable proof that power has been generated from a renewable resource and, not unlike ROCs, "can be traded throughout the 15 EU member states":http://www.ac-trading.eu/uk/products/renewable_energy_certificate_rec__guarantee_of_origin_goo.
+A "Renewable Energy Guarantee of Origin certificate":http://www.ofgem.gov.uk/Sustainability/Environment/REGOs/Pages/REGOs.aspx (REGO) is a tradeable proof that power has been generated from a renewable resource and, not unlike ROCs, "can be traded throughout the 15 EU member states":http://www.ac-trading.eu/uk/products/renewable_energy_certificate_rec__guarantee_of_origin_goo.
 
 (And a "Renewable Levy Exemption Certificate":http://www.ofgem.gov.uk/Sustainability/Environment/cclrenexem/Pages/CCLRenewablesExemption.aspx is a similar certificate issued by Ofgem, for non-domestic electricity supply)
 
