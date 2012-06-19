@@ -24,7 +24,7 @@ What the Renewables Obligation means in practice is that renewable energy genera
 
 And all electricity suppliers are perforce contributing to renewable energy production, either by direct investment in energy production, by the purchase of ROCs from renewable generating companies, or through buy-out payments to Ofgem which are in turn recycled back into the industry.
 
-Interestingly, Ofgem itself "objects":http://www.ofgem.gov.uk/SUSTAINABILITY/ENVIRONMENT/POLICY/Documents1/Ofgem%20response%20to%20Renewables%20Obligation%20consultation%5B1%5D.pdf to the system of Renewables Obligations on the grounds that out of several carbon reduction schemes studied in a recent European Commission survey, it was the "the most expensive and least efficient".
+Interestingly, Ofgem itself objects to the system of Renewables Obligations on the grounds that out of several carbon reduction schemes studied in a recent European Commission survey, it was the "_the most expensive and least efficient_":http://www.ofgem.gov.uk/SUSTAINABILITY/ENVIRONMENT/POLICY/Documents1/Ofgem%20response%20to%20Renewables%20Obligation%20consultation%5B1%5D.pdf.
 
 So, back to the question of whether or not to choose a green energy tariff. 
 
@@ -46,7 +46,7 @@ And it is not clear how much of the additional price of a green energy tariff is
 
 The market for renewable energy generation is driven by comparative economics, which have been greatly affected in recent years by the Renewables Obligation. The effect of consumer choice in this context is likely to be marginal.
 
-Even if none of us become customers of companies like "Good Energy":http://www.goodenergy.co.uk/, "LoCO2":http://www.loco2energy.com/ or "Ecotricity":http://www.ecotricity.co.uk/, they are still likely to be able to make a return from their own investments in renewable energy generation. As Ofgem have commented, the Renewables Obligation "is leading to much higher returns for current renewable generators than investors expected or required":http://www.ofgem.gov.uk/Media/PressRel/Documents1/16662-R5.pdf.
+Even if none of us become customers of companies like "Good Energy":http://www.goodenergy.co.uk/, "LoCO2":http://www.loco2energy.com/ or "Ecotricity":http://www.ecotricity.co.uk/, they are still likely to be able to make a return from their own investments in renewable energy generation. As Ofgem have commented, the Renewables Obligation "_is leading to much higher returns for current renewable generators than investors expected or required_":http://www.ofgem.gov.uk/Media/PressRel/Documents1/16662-R5.pdf.
 
 It is entirely understandable that the founders of these excellent companies would see the commercial benefit of marketing themselves as electricity suppliers, but their power generation businesses are unlikely to depend on it. If LoCO2 were to cease trading, their sister company, TLS Hydro, would probably continue to operate their "wonderful array of refurbished water turbines":http://www.tradelinksolutions.com/assets.php. 
 
