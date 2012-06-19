@@ -8,7 +8,7 @@ You might have thought that it would be relatively straight forward for any of u
 
 Except it's not quite that simple.
 
-In recent years, the growth in renewable energy supply in the UK has been driven by the introduction of the "Renewables Obligation":http://en.wikipedia.org/wiki/Renewables_Obligation, a government scheme, introduced in 2002, which obliges all licensed electricity suppliers to source an annually-increasing proportion of their energy from renewable sources. The proportion began at 3&percent; and in 2012 is 12.4&percent;.
+In recent years, the growth in renewable energy supply in the UK has been driven by the introduction of the "Renewables Obligation":http://en.wikipedia.org/wiki/Renewables_Obligation, a government scheme, introduced in 2002, which obliges all licensed electricity suppliers to source an annually-increasing proportion of their energy from renewable sources. The proportion began at 3% &percent; and in 2012 is 12.4&percent;.
 
 The Government, through Ofgem, issues accredited renewable generators with one "Renewables Obligation Certificate:http://en.wikipedia.org/wiki/Renewables_Obligation#Renewables_Obligation_Certificates (ROC) for each MWh of renewable output (although since 2009 banding has been introduced, meaning that some sources of supply, such as offshore wind, are issued with more than one ROC per MWh and some less).
 
