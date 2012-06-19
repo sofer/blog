@@ -33,7 +33,25 @@ em {
   font-style: italic;
 }
 
-/* line 18, ../src/application.scss */
+/* line 17, ../src/application.scss */
+fieldset {
+  -moz-border-radius: 0.6em;
+  -webkit-border-radius: 0.6em;
+  -o-border-radius: 0.6em;
+  -ms-border-radius: 0.6em;
+  -khtml-border-radius: 0.6em;
+  border-radius: 0.6em;
+  border: 1px solid black;
+  padding: 0 4px;
+}
+
+/* line 22, ../src/application.scss */
+legend {
+  font-weight: bold;
+  font-size: small;
+}
+
+/* line 24, ../src/application.scss */
 .container {
   -moz-border-radius: 0.6em;
   -webkit-border-radius: 0.6em;
@@ -49,7 +67,7 @@ em {
   margin: 10px auto;
   background-color: white;
 }
-/* line 24, ../src/application.scss */
+/* line 30, ../src/application.scss */
 .container .strapline {
   overflow: hidden;
   *zoom: 1;
@@ -57,28 +75,28 @@ em {
   color: white;
   padding: 0.4em 1em 0.2em 1em;
 }
-/* line 25, ../src/application.scss */
+/* line 31, ../src/application.scss */
 .container .strapline a {
   color: LightGrey;
 }
-/* line 26, ../src/application.scss */
+/* line 32, ../src/application.scss */
 .container .content {
   padding: 0 1em;
 }
 
-/* line 29, ../src/application.scss */
+/* line 35, ../src/application.scss */
 .breadcrumb {
   display: inline;
   float: left;
 }
 
-/* line 30, ../src/application.scss */
+/* line 36, ../src/application.scss */
 .date {
   display: inline;
   float: right;
 }
 
-/* line 31, ../src/application.scss */
+/* line 37, ../src/application.scss */
 .byline {
   font-style: italic;
   padding: 1em;
