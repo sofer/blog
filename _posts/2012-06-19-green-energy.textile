@@ -1,0 +1,57 @@
+---
+layout: post
+title: Green energy
+category: energy
+standfirst: "What can consumers do to promote the use of renewable sources of energy in our electricity supply?" 
+---
+You might have thought that it would be relatively straight forward for each of us as an energy consumer to encourage the supply of low-carbon energy. All we need to do is to choose a green energy tariff from our electricity provider.
+
+Except it's not quite that simple.
+
+There is a reason why there has been a growth in these kinds of companies and it is not entirely to do with how wonderfully green we have all become.
+
+Behind the growth in the use of renewable energy resources in the UK is the "Renewables Obligation":http://en.wikipedia.org/wiki/Renewables_Obligation, a government scheme, introduced in 2002, which obliges all licensed electricity suppliers to source an annually-increasing proportion of their energy from renewable sources. The proportion began at 3&percent; and in 2012 is 12.4&percent;.
+
+The Government, through Ofgem, issues accredited renewable generators with one "Renewables Obligation Certificate:http://en.wikipedia.org/wiki/Renewables_Obligation#Renewables_Obligation_Certificates (ROC) for each MWh of renewable output (although since 2009 banding has been introduced, meaning that some sources of supply, such as offshore wind, are issued with more than one ROC per MWh and some less).
+
+All electricity suppliers must present ROCs to Ofgem to the value of (in 2012) 12.4&percent; of the electricity that they supply to their customers. They can do this either by getting ROCs directly from the Government through generating their own eligible electricity, by buying ROCs in the secondary market, or by making a payment directly to Ofgem at a fixed "buy-out" price set by Ofgem each year. As long as renewable energy output falls short of the renewable obligation, some energy suppliers will need to make buy-out payments to Ofgem.
+
+Any profits made by Ofgem from buy-out payments are redistributed to energy suppliers in direct proportion to the number of ROCs they hold.
+
+In 2010-11, around 71% of the Renewables Obligation was covered by actual supply, with the balance being made up with buy-out payments of £36.99 per MWh. The redistribution per ROC was £14.35. Adding these two figures together, the market value of each ROC was £51.34 (see "Renewables Obligation Annual Report 2010-11":http://www.ofgem.gov.uk/Pages/MoreInformation.aspx?docid=278&refer=Sustainability/Environment/RenewablObl)
+
+By comparison, the wholesale price of electricity in the UK is around £50/MWh.
+
+What the Renewables Obligation means in practice is that renewable energy generators are currently receiving about twice what conventional generators receive per unit of output, subsidised by all of us through our electricity suppliers.
+
+And all electricity suppliers are perforce contributing to renewable energy production, either by direct investment in energy production, by the purchase of ROCs from renewable generating companies, or through buy-out payments to Ofgem which are in turn recycled back into the industry.
+
+Interestingly, Ofgem itself "objects":http://www.ofgem.gov.uk/SUSTAINABILITY/ENVIRONMENT/POLICY/Documents1/Ofgem%20response%20to%20Renewables%20Obligation%20consultation%5B1%5D.pdf to the system of Renewables Obligations on the grounds that out of several carbon reduction schemes studied in a recent European Commission survey, it was the "the most expensive and least efficient".
+
+So, back to the question of whether or not to choose a green energy tariff. 
+
+The "Green Energy Scheme":http://www.greenenergyscheme.org/ is now widely recognised as the authority on green energy tariffs in the UK. It bases its certification on Ofgem's "Green Supply Guidelines":http://www.ofgem.gov.uk/Pages/MoreInformation.aspx?docid=285&refer=Sustainability/Environment/Policy.
+
+In order to qualify for the Green Energy Scheme's Certified Green Tariff, a supplier must meet three criteria, the main one of which is that they must be "able to show that it has enough Renewable Energy Guarantee of Origin certificates and has retired or redeemed any Renewable Levy Exemption Certificates associated with the supply":http://www.greenenergyscheme.org/faqs/.
+
+A "Renewable Energy Guarantee of Origin certificate (REGO)":http://www.ofgem.gov.uk/Sustainability/Environment/REGOs/Pages/REGOs.aspx is a tradeable proof that power has been generated from a renewable resource and, not unlike ROCs, "can be traded throughout the 15 EU member states":http://www.ac-trading.eu/uk/products/renewable_energy_certificate_rec__guarantee_of_origin_goo.
+
+(And a "Renewable Levy Exemption Certificate":http://www.ofgem.gov.uk/Sustainability/Environment/cclrenexem/Pages/CCLRenewablesExemption.aspx is a similar certificate issued by Ofgem, for non-domestic electricity supply)
+
+I could not track down the current market price for a REGO, but it is likely to be comparable to the Climate Change Levy (from which a Renewable LEC excempts the holder) which "as of April 2012 is £5.09/MWh":http://www.ofgem.gov.uk/Sustainability/Environment/cclrenexem/Pages/CCLRenewablesExemption.aspx.
+
+Therefore certified green energy suppliers in the UK have not necessarily generated any renewable energy, but they will be in possession of a certificate that they have acquired from a renewable energy generator.
+
+Does this lead to increased renewable energy generation? Well, consumers signing up to green tariffs are likely to increase the demand for REGOs and therefore put upward pressure on their price, which in turn will benefit renewable energy generating companies, but I rather suspect that the effect is marginal (given that ROCs are valued at over £50/MWh).
+
+And it is not clear how much of the additional price of a green energy tariff is due to the increased cost of providing it as opposed to the supplier's view of how much customers will pay.
+
+The market for renewable energy generation is driven by comparative economics, which have been greatly affected in recent years by the Renewables Obligation. The effect of consumer choice in this context is likely to be marginal.
+
+Even if none of us become customers of companies like "Good Energy":http://www.goodenergy.co.uk/, "LoCO2":http://www.loco2energy.com/ or "Ecotricity":http://www.ecotricity.co.uk/, they are still likely to be able to make a return from their own investments in renewable energy generation. As Ofgem have commented, the Renewables Obligation "is leading to much higher returns for current renewable generators than investors expected or required":http://www.ofgem.gov.uk/Media/PressRel/Documents1/16662-R5.pdf.
+
+It is entirely understandable that the founders of these excellent companies would see the commercial benefit of marketing themselves as electricity suppliers, but their power generation businesses are unlikely to depend on it. If LoCO2 were to cease trading, their sister company, TLS Hydro, would probably continue to operate their "wonderful array of refurbished water turbines":http://www.tradelinksolutions.com/assets.php. 
+
+But we are all already providing a large subsidy to renewable production through the cost of ROCs, which are ultimately paid by all energy consumers, so in some sense we are all already green energy consumers.
+
+Whether or not we sign up for a green energy tariff is less about making a practical difference than it is about making a personal connection with a company whose objectives we sympathise with. And adding to the profitability of a company like LoCO2 may, after all, lead to TLS Hydro building more turbines.
