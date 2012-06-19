@@ -16,9 +16,9 @@ All electricity suppliers must present ROCs to Ofgem to the value of (in 2012) 1
 
 Any profits made by Ofgem from buy-out payments are redistributed to energy suppliers in direct proportion to the number of ROCs they hold.
 
-In 2010-11, around 71% of the Renewables Obligation was covered by actual supply, with the balance being made up with buy-out payments of £36.99 per MWh. The redistribution per ROC was £14.35. Adding these two figures together, the market value of each ROC was £51.34 (see "Renewables Obligation Annual Report 2010-11":http://www.ofgem.gov.uk/Pages/MoreInformation.aspx?docid=278&refer=Sustainability/Environment/RenewablObl)
+In 2010-11, around 71% of the Renewables Obligation was covered by actual supply, with the balance being made up with buy-out payments of &pound;36.99 per MWh. The redistribution per ROC was &pound;14.35. Adding these two figures together, the market value of each ROC was &pound;51.34 (see "Renewables Obligation Annual Report 2010-11":http://www.ofgem.gov.uk/Pages/MoreInformation.aspx?docid=278&refer=Sustainability/Environment/RenewablObl)
 
-By comparison, the wholesale price of electricity in the UK is around £50/MWh.
+By comparison, the wholesale price of electricity in the UK is around &pound;50/MWh.
 
 What the Renewables Obligation means in practice is that renewable energy generators are currently receiving about twice what conventional generators receive per unit of output, subsidised by all of us through our electricity suppliers.
 
@@ -36,11 +36,11 @@ A "Renewable Energy Guarantee of Origin certificate (REGO)":http://www.ofgem.gov
 
 (And a "Renewable Levy Exemption Certificate":http://www.ofgem.gov.uk/Sustainability/Environment/cclrenexem/Pages/CCLRenewablesExemption.aspx is a similar certificate issued by Ofgem, for non-domestic electricity supply)
 
-I could not track down the current market price for a REGO, but it is likely to be comparable to the Climate Change Levy (from which a Renewable LEC excempts the holder) which "as of April 2012 is £5.09/MWh":http://www.ofgem.gov.uk/Sustainability/Environment/cclrenexem/Pages/CCLRenewablesExemption.aspx.
+I could not track down the current market price for a REGO, but it is likely to be comparable to the Climate Change Levy (from which a Renewable LEC excempts the holder) which "as of April 2012 is &pound;5.09/MWh":http://www.ofgem.gov.uk/Sustainability/Environment/cclrenexem/Pages/CCLRenewablesExemption.aspx.
 
 Therefore certified green energy suppliers in the UK have not necessarily generated any renewable energy, but they will be in possession of a certificate that they have acquired from a renewable energy generator.
 
-Does this lead to increased renewable energy generation? Well, consumers signing up to green tariffs are likely to increase the demand for REGOs and therefore put upward pressure on their price, which in turn will benefit renewable energy generating companies, but I rather suspect that the effect is marginal (given that ROCs are valued at over £50/MWh).
+Does this lead to increased renewable energy generation? Well, consumers signing up to green tariffs are likely to increase the demand for REGOs and therefore put upward pressure on their price, which in turn will benefit renewable energy generating companies, but I rather suspect that the effect is marginal (given that ROCs are valued at over &pound;50/MWh).
 
 And it is not clear how much of the additional price of a green energy tariff is due to the increased cost of providing it as opposed to the supplier's view of how much customers will pay.
 
