@@ -12,9 +12,9 @@ In recent years, the growth in renewable energy supply in the UK has been driven
 
 <fieldset>
 <legend>How the Renewables Obligation works</legend>
-The Government, through "Ofgem":http://www.ofgem.gov.uk/, issues accredited renewable generators with one "Renewables Obligation Certificate":http://en.wikipedia.org/wiki/Renewables_Obligation#Renewables_Obligation_Certificates (ROC) for each MWh of renewable output (although since 2009 banding has been introduced, meaning that some sources of supply, such as offshore wind, are issued with more than one ROC per MWh and some less).
+The Government, through "Ofgem":http://www.ofgem.gov.uk/, issues accredited renewable electricity producers with one "Renewables Obligation Certificate":http://en.wikipedia.org/wiki/Renewables_Obligation#Renewables_Obligation_Certificates (ROC) for each MWh of renewable output (although since 2009 banding has been introduced, meaning that some sources of supply, such as offshore wind, are issued with more than one ROC per MWh and some less).
 
-All electricity suppliers must present ROCs to Ofgem to the value of (in 2012) 12.4% of the electricity that they supply to their customers. They can do this either by getting ROCs directly from the Government through generating their own eligible electricity, by buying ROCs in the secondary market, or by making a payment directly to Ofgem at a fixed "buy-out" price set by Ofgem each year. As long as renewable energy output falls short of the renewable obligation, some energy suppliers will need to make buy-out payments to Ofgem.
+All electricity suppliers must present ROCs to Ofgem to the value of (in 2012) 12.4% of the electricity that they supply to their customers. They can do this either by getting ROCs directly from the Government through generating their own eligible electricity, by buying ROCs either directly from producers or in the secondary market, or by making a payment directly to Ofgem at a fixed "buy-out" price set by Ofgem each year. As long as renewable energy output falls short of the renewable obligation, some energy suppliers will need to make buy-out payments to Ofgem.
 
 Any profits made by Ofgem from buy-out payments are redistributed to energy suppliers in direct proportion to the number of ROCs they hold.
 
@@ -52,17 +52,17 @@ In particular, changing to a "green" tariff from a major energy supplier is like
 
 But there are also a number of suppliers, like "Good Energy":http://www.goodenergy.co.uk/, "LoCO2":http://www.loco2energy.com/ and "Ecotricity":http://www.ecotricity.co.uk/, that invest directly and exclusively in renewable capacity.
 
-Good Energy has its "own generating capacity":http://www.goodenergy.co.uk/what-we-are-doing/investing-in-renewables (over 50MW of capacity planned over the next 5 years), but they also act as a consultant to other suppliers and they have a "community of over 35,000 independent suppliers across Britain":http://www.goodenergy.co.uk/switch/where-our-energy-comes-from.
+Good Energy has its "own generating capacity":http://www.goodenergy.co.uk/what-we-are-doing/investing-in-renewables (over 50MW of capacity planned over the next 5 years), but they also act as a consultant to other producers and they apparently have a "community of over 35,000 independent suppliers across Britain":http://www.goodenergy.co.uk/switch/where-our-energy-comes-from.
 
 Ecotricity has its own generating capacity, but it has more demand than supply. In 2011, it supplied three times as much electricity as it produced (see their "Progress Report":http://www.ecotricity.co.uk/content/download/15171/243721/version/1/file/ecotricity-progress-report-2011.pdf).
 
-LoCO2, like Ecotricity, has more demand than supply and supplements its fuel mix in the same way as everyone else, through purchasing Renewable Energy certificates from other suppliers.
+LoCO2, like Ecotricity, has more demand than supply and supplements its fuel mix in the same way as everyone else, through purchasing Renewable Energy certificates from other producers.
 
 So, what difference would switching to one of these suppliers make? Arguably, not much.
 
 Even if none of us were to become customers of these companies, they are still likely to be able to make a return from their investments in renewable energy generation. As Ofgem have commented, the Renewables Obligation "_is leading to much higher returns for current renewable generators than investors expected or required_":http://www.ofgem.gov.uk/Media/PressRel/Documents1/16662-R5.pdf.
 
-Because of the way that electricity is bought and sold, supply of "green energy" in not really constrained by end-user demand. Buying energy is not like buying a car. The Government underwrites supply by a complex, inefficient and generous system of subsidies. When a landowner approaches Good Energy for help with building a wind farm, its Good Energy's technical expertise and understanding of Government regulation that is useful, not their customer base.
+Because of the way that electricity is bought and sold, supply of "green energy" in not really constrained by end-user demand. Buying energy is not like buying a car. The Government underwrites supply by a complex, inefficient and generous system of subsidies. When a landowner approaches Good Energy for help with building a wind farm, it is Good Energy's technical expertise and understanding of Government regulation that is useful, not their customer base.
 
 It is entirely understandable that the trail-blazing founders of these energy companies would see the commercial benefit of marketing themselves to consumers as electricity suppliers, but their power generation and consultancy businesses are unlikely to depend on it. If LoCO2 were to cease trading, their sister company, TLS Hydro, would probably continue to operate their "wonderful array of refurbished water turbines":http://www.tradelinksolutions.com/assets.php. 
 
