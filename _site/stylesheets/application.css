@@ -1,39 +1,39 @@
-/* line 11, ../src/application.scss */
+/* line 12, ../src/application.scss */
 body {
   background: LightGrey;
   font-family: helvetica, arial, sans-serif;
 }
 
-/* line 12, ../src/application.scss */
+/* line 13, ../src/application.scss */
 h1 {
   font-size: x-large;
   margin-top: 1em;
 }
 
-/* line 13, ../src/application.scss */
+/* line 14, ../src/application.scss */
 h2 {
   font-size: large;
   margin-top: 2em;
 }
 
-/* line 14, ../src/application.scss */
+/* line 15, ../src/application.scss */
 p {
   line-height: 1.5em;
   margin: 0.5em 0;
 }
 
-/* line 15, ../src/application.scss */
+/* line 16, ../src/application.scss */
 blockquote {
   font-style: italic;
   padding: 0 1em;
 }
 
-/* line 16, ../src/application.scss */
+/* line 17, ../src/application.scss */
 em {
   font-style: italic;
 }
 
-/* line 17, ../src/application.scss */
+/* line 18, ../src/application.scss */
 fieldset {
   -moz-border-radius: 0.6em;
   -webkit-border-radius: 0.6em;
@@ -43,15 +43,16 @@ fieldset {
   border-radius: 0.6em;
   border: 1px solid black;
   padding: 0 10px;
+  background-color: cornsilk;
 }
 
-/* line 22, ../src/application.scss */
+/* line 24, ../src/application.scss */
 legend {
   font-weight: bold;
   font-size: small;
 }
 
-/* line 24, ../src/application.scss */
+/* line 26, ../src/application.scss */
 .container {
   -moz-border-radius: 0.6em;
   -webkit-border-radius: 0.6em;
@@ -67,7 +68,7 @@ legend {
   margin: 10px auto;
   background-color: white;
 }
-/* line 30, ../src/application.scss */
+/* line 32, ../src/application.scss */
 .container .strapline {
   overflow: hidden;
   *zoom: 1;
@@ -75,28 +76,28 @@ legend {
   color: white;
   padding: 0.4em 1em 0.2em 1em;
 }
-/* line 31, ../src/application.scss */
+/* line 33, ../src/application.scss */
 .container .strapline a {
   color: LightGrey;
 }
-/* line 32, ../src/application.scss */
+/* line 34, ../src/application.scss */
 .container .content {
   padding: 0 1em;
 }
 
-/* line 35, ../src/application.scss */
+/* line 37, ../src/application.scss */
 .breadcrumb {
   display: inline;
   float: left;
 }
 
-/* line 36, ../src/application.scss */
+/* line 38, ../src/application.scss */
 .date {
   display: inline;
   float: right;
 }
 
-/* line 37, ../src/application.scss */
+/* line 39, ../src/application.scss */
 .byline {
   font-style: italic;
   padding: 1em;

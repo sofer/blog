@@ -2,6 +2,7 @@
 
 $surround-colour: LightGrey;
 $background-colour: white;
+$box-colour: cornsilk;
 $reverse-text-colour: white;
 $reverse-link-colour: LightGrey;
 $border-colour: maroon;
@@ -18,6 +19,7 @@ fieldset {
   @include border-radius(0.6em);
   border: 1px solid black; 
   padding: 0 10px;
+  background-color: $box-colour;
 }
 legend { font-weight: bold; font-size: small; }
 
