@@ -23,7 +23,7 @@ In 2010-11, around 71% of the Renewables Obligation was covered by actual supply
 By comparison, the wholesale price of electricity in the UK is around &pound;50/MWh.
 </fieldset>
 
-What the Renewables Obligation means in practice is that renewable energy generators are currently receiving about twice what conventional generators receive per unit of output, subsidised by all of us through our electricity suppliers.
+What the Renewables Obligation means in practice is that renewable energy generators are currently receiving about twice what conventional generators receive per unit of output, subsidised by all of us through our electricity bills.
 
 And all electricity suppliers are perforce contributing to renewable energy production, either by direct investment in energy production, by the purchase of Renewables Obligation Certificates (see box above) from renewable generating companies, or through buy-out payments to Ofgem which are in turn recycled back into the industry.
 
@@ -60,7 +60,7 @@ LoCO2, Like Ecotricity, has more demand than supply and supplements its fuel mix
 
 So, what difference would switching to one of these suppliers make? Arguably, not much.
 
-Even if none of us becomes customers of these companies, they are still likely to be able to make a return from their investments in renewable energy generation. As Ofgem have commented, the Renewables Obligation "_is leading to much higher returns for current renewable generators than investors expected or required_":http://www.ofgem.gov.uk/Media/PressRel/Documents1/16662-R5.pdf.
+Even if none of us were to become customers of these companies, they are still likely to be able to make a return from their investments in renewable energy generation. As Ofgem have commented, the Renewables Obligation "_is leading to much higher returns for current renewable generators than investors expected or required_":http://www.ofgem.gov.uk/Media/PressRel/Documents1/16662-R5.pdf.
 
 Because of the way that electricity is bought and sold, supply of "green energy" in not really constrained by end-user demand. Buying energy is not like buying a car. The Government underwrites supply by a complex, inefficient and generous system of subsidies. When a landowner approaches Good Energy for help with building a wind farm, its Good Energy's technical expertise and understanding of Government regulation that is useful, not their customer base.
 
