@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Green energy
+title: Choosing a green energy supplier
 category: energy
-standfirst: "What can consumers do to promote the use of renewable sources of energy in our electricity supply?" 
+standfirst: "It is not quite as simple as it seems" 
 ---
 You might have thought that it would be relatively straight forward for any of us as energy consumers to encourage the supply of low-carbon energy. All we need to do is to choose a green energy tariff from our electricity provider.
 
