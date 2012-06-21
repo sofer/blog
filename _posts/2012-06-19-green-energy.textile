@@ -60,7 +60,7 @@ LoCO2, like Ecotricity, has more demand than supply and supplements its fuel mix
 
 So, what difference would switching to one of these suppliers make? Arguably, not much.
 
-Even if none of us were to become customers of these companies, they are still likely to be able to make a return from their investments in renewable energy generation. As Ofgem have commented, the Renewables Obligation "_is leading to much higher returns for current renewable generators than investors expected or required_":http://www.ofgem.gov.uk/Media/PressRel/Documents1/16662-R5.pdf.
+Even if none of us was to become a customer of any of these companies, they are still likely to be able to make a return from their investments in renewable energy generation. As Ofgem have commented, the Renewables Obligation "_is leading to much higher returns for current renewable generators than investors expected or required_":http://www.ofgem.gov.uk/Media/PressRel/Documents1/16662-R5.pdf.
 
 Because of the way that electricity is bought and sold, supply of "green energy" in not really constrained by end-user demand. Buying energy is not like buying a car. The Government underwrites supply by a complex, inefficient and generous system of subsidies. When a landowner approaches Good Energy for help with building a wind farm, it is Good Energy's technical expertise and understanding of Government regulation that is useful, not their customer base.
 
