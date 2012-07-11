@@ -30,7 +30,7 @@ Of the others, "Dojo":http://addyosmani.github.com/todomvc/architecture-examples
 
 Finally, there are frameworks like "Meteor":http://todomvc.meteor.com/, for full-stack development on both the client and server sides. Similar frameworks include "Derby":http://www.derbyjs.com/, "SocketStream":http://www.socketstream.org/ and "Opa":http://opalang.org/. Built on top of Node.js, one or other of these frameworks is likely to be the future of Web development for real-time, collaborative applications.
 
-But for now, I am going to have a play with AngularJS and see how I get on.
+But for now, I have decided that I prefer HTML source that actually looks like HTML, I like the idea of implementing data bindings via tag attributes and I want to stick with JavaScript (at least for now), so I am going to have a play with AngularJS and see how I get on.
 
 
 
