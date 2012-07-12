@@ -8,7 +8,7 @@ Back in 2009, Avi Bryant said that "Django is obsolete (but so is everything els
 
 His argument is that with the release by Google of Gmail in 2004 (which initially loads HTML and then it's JSON all the way), and then of the V8 javascript VM in 2008 (which made it feasible to develop other applications in the same way), the old server-side MVC model died. In the future, web applications will be built like Gmail with essentially a single URL visible to the user and a backend that just sends structured data to the browser. As a consequence templates will die and so will controllers and the kind of routing model used by Rails.
 
-Two or three years later and there is now an explosion of javascript application frameworks that are moving in this direction.
+Two or three years later and there is now an explosion of javascript application frameworks that are moving us in this direction.
 
 So, which one do I go for?
 
