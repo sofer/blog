@@ -35,11 +35,10 @@ em {
 
 /* line 18, ../src/application.scss */
 fieldset {
-  -moz-border-radius: 0.6em;
   -webkit-border-radius: 0.6em;
-  -o-border-radius: 0.6em;
+  -moz-border-radius: 0.6em;
   -ms-border-radius: 0.6em;
-  -khtml-border-radius: 0.6em;
+  -o-border-radius: 0.6em;
   border-radius: 0.6em;
   border: 1px solid black;
   padding: 0 10px;
@@ -54,11 +53,10 @@ legend {
 
 /* line 26, ../src/application.scss */
 .container {
-  -moz-border-radius: 0.6em;
   -webkit-border-radius: 0.6em;
-  -o-border-radius: 0.6em;
+  -moz-border-radius: 0.6em;
   -ms-border-radius: 0.6em;
-  -khtml-border-radius: 0.6em;
+  -o-border-radius: 0.6em;
   border-radius: 0.6em;
   width: 630px;
   margin: 0 auto;
@@ -100,5 +98,12 @@ legend {
 /* line 39, ../src/application.scss */
 .byline {
   font-style: italic;
+  float: left;
+  padding: 1em;
+}
+
+/* line 40, ../src/application.scss */
+.tweet {
+  float: right;
   padding: 1em;
 }

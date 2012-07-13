@@ -36,4 +36,5 @@ legend { font-weight: bold; font-size: small; }
     
 .breadcrumb { @include float-left; }
 .date { @include float-right; }
-.byline { font-style: italic; padding: 1em; }
+.byline { font-style: italic; float: left; padding: 1em; }
+.tweet { float: right; padding: 1em; }
