@@ -8,6 +8,6 @@ standfirst: "how to add Bootstrap to an application"
 
 Feeling left out, I did the obvious thing of clicking the big "Download Bootstrap" button on the front page, but the zip file to which it links includes the entire Bootstrap source and documentation. I don't want to fiddle with source files. I just want to use Bootstrap.
 
-More usefully, but less obviously, there is a rather helpful "download page":http://twitter.github.com/bootstrap/download.html which allows me to select just the components and plugins that I want and to amend the default colours and fonts before downloading. This gives me solitary _.js_ and _.css_ files, along with minified versions, that include everything. I guess that this is what 90&percent; of users will want.
+More usefully, but less obviously, there is a rather helpful "download page":http://twitter.github.com/bootstrap/download.html which allows me to select just the components and plugins that I want and to amend the default colours and fonts before downloading. This gives me solitary _.js_ and _.css_ files, along with minified versions, that include everything. I guess that this is what 90% of users will want.
 
 Two days later: I have had a play and I cannot think of a reason for me to to use anything else. Bootstrap is really nice.
