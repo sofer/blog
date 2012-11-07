@@ -2,7 +2,7 @@
 layout: post
 title: Bootstrap
 category: tech
-standfirst: "how to add Bootstrap to an application" 
+standfirst: "It is about time I started using it" 
 ---
 "Twitter's Bootstrap toolkit":http://twitter.github.com/bootstrap/index.html is by quite a wide margin the most watched project on GitHub. so, to a first approximation, everyone is using it&mdash;except me.
 

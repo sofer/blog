@@ -1,0 +1,31 @@
+---
+layout: post
+title: Learning a language
+category: hidden
+standfirst: "Some thoughts on learning Italian" 
+---
+I have been trying to learn Italian recently. Progress has been a bit slow, but I have found some things apparently more useful than others.
+
+*Conversation*. Regular sessions on "iTalki":http://www.italki.com over Skype with native speakers have been very useful and inexpensive.
+
+*Flashcards*. I now use "Flashcards Deluxe":http://orangeorapple.com/Flashcards/ (although I previousy used "Flash":http://www.stickystudy.com/flash.html) for iPhone, which aside from having an extraordinary number of configuration options, has the capacity to preload TTS (text-to-speech) for an entire set of flashcards in any one of a number of languages. I am using this to build up my vocabulary in advance of stepping up the reading and film watching.
+
+It has been surprisingly hard for me to find vocabulary lists that I am entirely happy with. The general quality on the various flashcard exchange sites has been generally quite poor. Finding good ones is hard and time-consuming. In general, I have been creating my own, sometimes based on sets that I have found online. The "Edexcel Italian vocabulary book":http://www.edexcel.com/migrationdocuments/GCSE%20New%20GCSE/Italian-Vocab-Book.doc contains the vocabulary list that I have got the most use from.
+
+I have tried several language apps for iPhone, including Mosalingua, Mindsnacks, Superflashcard, Babbel and Busuu, none of which I liked. In every case the interface got in the way of my learning in one way or other and was too prescriptive for my requirements.
+
+The plan now is to spend an hour every day doing flashcards and also whenever I have a minute or two free to get my phone out of my pocket.
+
+*Reading*. My vocabulary is still quite thin. Once it improves, I intend to start reading regularly, starting with current newspaper articles. The trick will be to use a touch-sensitive Kindle with an Italian dictionary loaded and to import content from Calibre. Every word or phrase that I don't understand, I highlight. The highlighted words or phrases are then available via "Amazon's Kindle site":https://kindle.amazon.com/your_highlights. I copy and paste all the highlights into a text editor, cut the extraneous copy, add the translations and add them to a flashcard list, which I then go through on my phone. It would be nice if this could be automated a bit more, but this should work pretty well for now.
+
+The plan now is to read for a few minutes at the end of every day, either from a book or from a newspaper.
+
+*Films and TV with closed-captions*. I have bought a number of DVDs of Italian films and TV series with Italian closed-caption subtitles in Italian ("sottotittoli per non udenti") from an Italian website. The idea is to start watching these regularly. I got this idea from "Ask a Korean":http://askakorean.blogspot.co.uk/2010/01/koreans-english-acquisition-and-best.html (_"God bless the closed caption, and the endless reruns of The Simpsons, Home Improvement and Full House – I had the caption on, and mouthed the word exactly as they sounded like. I said the difficult words over and over again until I got them right"_).
+
+The plan now is to watch one episode of Montalbano or Romanzo Criminale every night.
+
+
+
+
+
+
